@@ -1,0 +1,1461 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "\u2022 \n1/4 cup diced onion \n\u2022 \n1/4 cup cooked sausage or bacon \n",
+      "importance_rank": 24.50633022608785,
+      "page_number": 11,
+      "language": {
+        "en": 0.9999981697672696
+      },
+      "keywords": [],
+      "confidence": 24.50633022608785,
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 18.615384615384617,
+        "avg_font_size": 10.923076923076923
+      },
+      "processing_time": 0.08611464500427246
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Breakfast Sandwich \nIngredients: \n\u2022 \n1 English mu\ufb03n, split a",
+      "importance_rank": 24.314602434270174,
+      "page_number": 5,
+      "language": {
+        "en": 0.9999979158922855
+      },
+      "keywords": [],
+      "confidence": 24.314602434270174,
+      "text_features": {
+        "num_sentences": 10,
+        "avg_sentence_length": 24.0,
+        "avg_font_size": 10.970297029702971
+      },
+      "processing_time": 0.07853484153747559
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "\u2022 \nCook in the skillet until the tortilla is golden brown an",
+      "importance_rank": 22.413784425068023,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999966538002409
+      },
+      "keywords": [],
+      "confidence": 22.413784425068023,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 15.785714285714286,
+        "avg_font_size": 10.895238095238096
+      },
+      "processing_time": 0.08435940742492676
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Pancakes \nIngredients: \n\u2022 \n1 cup all-purpose flour \n\u2022 \n2 tab",
+      "importance_rank": 22.238754688056613,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999954349350244
+      },
+      "keywords": [],
+      "confidence": 22.238754688056613,
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 16.923076923076923,
+        "avg_font_size": 10.90566037735849
+      },
+      "processing_time": 0.08466124534606934
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions: \n\u2022 \nPreheat oven to 425\u00b0F (220\u00b0C). \n\u2022 \nSpread ",
+      "importance_rank": 21.7113043524167,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999961694777134
+      },
+      "keywords": [],
+      "confidence": 21.7113043524167,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 13.375,
+        "avg_font_size": 10.878504672897197
+      },
+      "processing_time": 0.08087372779846191
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\uf0b7 \nShredded lettuce, diced tomatoes, shredded cheese, sour c",
+      "importance_rank": 26.860977574411734,
+      "page_number": 5,
+      "language": {
+        "en": 0.9999993368177187
+      },
+      "keywords": [],
+      "confidence": 26.860977574411734,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 17.666666666666668,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.0809018611907959
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\uf0b7 \n2 large eggplants, sliced \n\uf0b7 \n1 cup breadcrumbs \n\uf0b7 \n1/2 c",
+      "importance_rank": 26.29836705768424,
+      "page_number": 10,
+      "language": {
+        "en": 0.9999958595473886
+      },
+      "keywords": [],
+      "confidence": 26.29836705768424,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 18.571428571428573,
+        "avg_font_size": 10.817391304347826
+      },
+      "processing_time": 0.08118367195129395
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\uf0b7 \nIn the same skillet, cook ground lamb or beef, diced onio",
+      "importance_rank": 26.054189877412245,
+      "page_number": 12,
+      "language": {
+        "en": 0.9999950756416067
+      },
+      "keywords": [],
+      "confidence": 26.054189877412245,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 17.133333333333333,
+        "avg_font_size": 10.862385321100918
+      },
+      "processing_time": 0.09094476699829102
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions: \n\uf0b7 \nSeason chicken breasts with salt and peppe",
+      "importance_rank": 25.79472706384184,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999952439332598
+      },
+      "keywords": [],
+      "confidence": 25.79472706384184,
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 10.857142857142858
+      },
+      "processing_time": 0.06741571426391602
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \n",
+      "importance_rank": 25.638678258557427,
+      "page_number": 6,
+      "language": {
+        "en": 0.999997799304468
+      },
+      "keywords": [],
+      "confidence": 25.638678258557427,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 12.65,
+        "avg_font_size": 10.857142857142858
+      },
+      "processing_time": 0.07567191123962402
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "\uf0b7 \n1/4 cup bacon, chopped \n\uf0b7 \n1/4 cup green onions, sliced \n",
+      "importance_rank": 25.645952684178738,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999984851774552
+      },
+      "keywords": [],
+      "confidence": 25.645952684178738,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 16.866666666666667,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.07119297981262207
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "\uf0b7 \n1 teaspoon thyme \n\uf0b7 \n1 teaspoon rosemary \n\uf0b7 \nSalt and pep",
+      "importance_rank": 25.23682505380895,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999968491928188
+      },
+      "keywords": [],
+      "confidence": 25.23682505380895,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 13.105263157894736,
+        "avg_font_size": 10.831858407079647
+      },
+      "processing_time": 0.08536958694458008
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "\uf0b7 \nCook fettuccine according to package instructions. \n\uf0b7 \nIn",
+      "importance_rank": 24.817415073387735,
+      "page_number": 12,
+      "language": {
+        "en": 0.9999955881744138
+      },
+      "keywords": [],
+      "confidence": 24.817415073387735,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 13.61111111111111,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.08208632469177246
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "\uf0b7 \n2 cups beef broth \n\uf0b7 \n1 can (14.5 ounces) diced tomatoes ",
+      "importance_rank": 24.316838812249784,
+      "page_number": 15,
+      "language": {
+        "en": 0.9999958846533561
+      },
+      "keywords": [],
+      "confidence": 24.316838812249784,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 10.80373831775701
+      },
+      "processing_time": 0.08449506759643555
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "\uf0b7 \n4 lamb chops \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \n2 cloves garlic, m",
+      "importance_rank": 24.110952672937703,
+      "page_number": 14,
+      "language": {
+        "en": 0.9999978005625353
+      },
+      "keywords": [],
+      "confidence": 24.110952672937703,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 17.0,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.07864093780517578
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "\uf0b7 \nChopped parsley for garnish \n\uf0b7 \nCooked couscous for servi",
+      "importance_rank": 26.01590303761763,
+      "page_number": 7,
+      "language": {
+        "en": 0.9999981209457462
+      },
+      "keywords": [],
+      "confidence": 26.01590303761763,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 16.0625,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.08799266815185547
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "\uf0b7 \nIn a bowl, mix yogurt, lemon juice, garlic, ginger, garam",
+      "importance_rank": 25.4185349167519,
+      "page_number": 5,
+      "language": {
+        "en": 0.9999959888709161
+      },
+      "keywords": [],
+      "confidence": 25.4185349167519,
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 19.307692307692307,
+        "avg_font_size": 10.90566037735849
+      },
+      "processing_time": 0.08698534965515137
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "\uf0b7 \n1 cup barbecue sauce \n\uf0b7 \n1/2 cup chicken broth \n\uf0b7 \n1 tabl",
+      "importance_rank": 25.227967756414927,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999970793320563
+      },
+      "keywords": [],
+      "confidence": 25.227967756414927,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 16.6,
+        "avg_font_size": 10.857142857142858
+      },
+      "processing_time": 0.0747671127319336
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "\uf0b7 \nCook gnocchi according to package instructions, then drai",
+      "importance_rank": 24.653656182084614,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999965743213787
+      },
+      "keywords": [],
+      "confidence": 24.653656182084614,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 17.357142857142858,
+        "avg_font_size": 10.846846846846846
+      },
+      "processing_time": 0.08396244049072266
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Baked Ziti \nIngredients: \n\uf0b7 \n1 pound ziti pasta \n\uf0b7 \n1 pound ",
+      "importance_rank": 22.80147821354773,
+      "page_number": 4,
+      "language": {
+        "en": 0.999998810339244
+      },
+      "keywords": [],
+      "confidence": 22.80147821354773,
+      "text_features": {
+        "num_sentences": 10,
+        "avg_sentence_length": 22.5,
+        "avg_font_size": 10.846846846846846
+      },
+      "processing_time": 0.08786630630493164
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o 1 teaspoon salt \no Oil for frying \n\uf0b7 \nInstructions: \no Mix",
+      "importance_rank": 26.188836173411776,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999952489629735
+      },
+      "keywords": [],
+      "confidence": 26.188836173411776,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 14.38888888888889,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.08569574356079102
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "\uf0b7 \nInstructions: \no Saut\u00e9 diced onion, minced garlic, and sl",
+      "importance_rank": 23.691073206334213,
+      "page_number": 14,
+      "language": {
+        "en": 0.9999953589566941
+      },
+      "keywords": [],
+      "confidence": 23.691073206334213,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.6,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.07961130142211914
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o 2 tablespoons honey \no 1 tablespoon rice wine \no 1 teaspoo",
+      "importance_rank": 23.12041932361217,
+      "page_number": 15,
+      "language": {
+        "en": 0.9999964981964785
+      },
+      "keywords": [],
+      "confidence": 23.12041932361217,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 14.25,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08827948570251465
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o 1 pound okra \no 1 small onion \no 2 cloves garlic \no 1 teas",
+      "importance_rank": 22.80156260102621,
+      "page_number": 7,
+      "language": {
+        "en": 0.9999963970518102
+      },
+      "keywords": [],
+      "confidence": 22.80156260102621,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 10.761904761904763
+      },
+      "processing_time": 0.07621026039123535
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Acaraj\u00e9 \n\uf0b7 \nIngredients:  \no 2 cups black-eyed peas \no 1 sma",
+      "importance_rank": 22.58059386793885,
+      "page_number": 2,
+      "language": {
+        "en": 0.999996322802015
+      },
+      "keywords": [],
+      "confidence": 22.58059386793885,
+      "text_features": {
+        "num_sentences": 11,
+        "avg_sentence_length": 20.272727272727273,
+        "avg_font_size": 10.78125
+      },
+      "processing_time": 0.09199857711791992
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o Rinse lentils and cook in water until tender. \no Heat oil ",
+      "importance_rank": 25.090366172462048,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999954203500405
+      },
+      "keywords": [],
+      "confidence": 25.090366172462048,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 13.777777777777779,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.09415555000305176
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o 1 teaspoon paprika \no 1 teaspoon salt \no Oil for frying \n\uf0b7",
+      "importance_rank": 23.895220030941086,
+      "page_number": 7,
+      "language": {
+        "en": 0.9999953202954448
+      },
+      "keywords": [],
+      "confidence": 23.895220030941086,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.733333333333333,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08381390571594238
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o 2 tablespoons butter \n\uf0b7 \nInstructions: \no Preheat oven to ",
+      "importance_rank": 23.363762946199124,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999947181294813
+      },
+      "keywords": [],
+      "confidence": 23.363762946199124,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.4,
+        "avg_font_size": 10.75968992248062
+      },
+      "processing_time": 0.0717000961303711
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o 1/4 cup olive oil \no Rosemary \no Sea salt \n\uf0b7 \nInstructions",
+      "importance_rank": 22.996213102483935,
+      "page_number": 10,
+      "language": {
+        "en": 0.9999956855433443
+      },
+      "keywords": [],
+      "confidence": 22.996213102483935,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.133333333333333,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.07012724876403809
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o 1 package rice paper wrappers \no 1/2 pound shrimp \no 1/2 c",
+      "importance_rank": 22.82138378922504,
+      "page_number": 13,
+      "language": {
+        "en": 0.999998314893463
+      },
+      "keywords": [],
+      "confidence": 22.82138378922504,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 18.75,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08953976631164551
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o 1 teaspoon paprika \no 1 teaspoon salt \no 1/4 cup cilantro ",
+      "importance_rank": 25.983079296593363,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999942907020515
+      },
+      "keywords": [],
+      "confidence": 25.983079296593363,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 14.277777777777779,
+        "avg_font_size": 10.75968992248062
+      },
+      "processing_time": 0.07553601264953613
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o Blend mashed eggplant, tahini, lemon juice, minced garlic,",
+      "importance_rank": 24.705023996064746,
+      "page_number": 13,
+      "language": {
+        "en": 0.9999967183241918
+      },
+      "keywords": [],
+      "confidence": 24.705023996064746,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 16.266666666666666,
+        "avg_font_size": 10.796747967479675
+      },
+      "processing_time": 0.0757136344909668
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o 1 can diced tomatoes \no 4 cups vegetable broth \no 1 can ca",
+      "importance_rank": 23.716636404331027,
+      "page_number": 11,
+      "language": {
+        "en": 0.9999959863648256
+      },
+      "keywords": [],
+      "confidence": 23.716636404331027,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.6,
+        "avg_font_size": 10.75968992248062
+      },
+      "processing_time": 0.07757759094238281
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "\uf0b7 \nInstructions: \no Boil potatoes until tender, then dice. \n",
+      "importance_rank": 23.704253535291564,
+      "page_number": 5,
+      "language": {
+        "en": 0.9999960435866893
+      },
+      "keywords": [],
+      "confidence": 23.704253535291564,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.6,
+        "avg_font_size": 10.771653543307087
+      },
+      "processing_time": 0.08080244064331055
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Kimchi \n\uf0b7 \nIngredients: \no 1 napa cabbage \no 1/4 cup sea sal",
+      "importance_rank": 23.364996558152914,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999951449202052
+      },
+      "keywords": [],
+      "confidence": 23.364996558152914,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.4,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.08632016181945801
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o 1 teaspoon salt \no 1/4 cup olive oil \no 4 cups chicken bro",
+      "importance_rank": 24.6047057169637,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999930572916169
+      },
+      "keywords": [],
+      "confidence": 24.6047057169637,
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 18.692307692307693,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08243298530578613
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o 1 teaspoon garam masala \no 1 teaspoon salt \no Oil for fryi",
+      "importance_rank": 23.598282227383958,
+      "page_number": 13,
+      "language": {
+        "en": 0.9999973278770315
+      },
+      "keywords": [],
+      "confidence": 23.598282227383958,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 14.5625,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.07265734672546387
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o 1 carrot \no 1/2 cup peas \no 1 teaspoon cumin \no 1 teaspoon",
+      "importance_rank": 23.503232699308647,
+      "page_number": 6,
+      "language": {
+        "en": 0.999996672092389
+      },
+      "keywords": [],
+      "confidence": 23.503232699308647,
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 17.846153846153847,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08747696876525879
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o 1/4 cup vinegar \no 1/4 cup sugar \no 1/4 cup water \no 1 tea",
+      "importance_rank": 22.813781737444746,
+      "page_number": 11,
+      "language": {
+        "en": 0.9999952931871614
+      },
+      "keywords": [],
+      "confidence": 22.813781737444746,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 10.75968992248062
+      },
+      "processing_time": 0.10460114479064941
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o 4 tomatoes \no 1 teaspoon cumin \no 1 teaspoon paprika \no 1 ",
+      "importance_rank": 22.595295717942076,
+      "page_number": 14,
+      "language": {
+        "en": 0.9999974196490751
+      },
+      "keywords": [],
+      "confidence": 22.595295717942076,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 18.583333333333332,
+        "avg_font_size": 10.796747967479675
+      },
+      "processing_time": 0.08852910995483398
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n2 tablespoons olive",
+      "importance_rank": 23.81430046353626,
+      "page_number": 11,
+      "language": {
+        "en": 0.9999966172112874
+      },
+      "keywords": [],
+      "confidence": 23.81430046353626,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 19.583333333333332,
+        "avg_font_size": 10.923076923076923
+      },
+      "processing_time": 0.08014726638793945
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "\u2022 \n1 cup cooked chicken breast, diced \n\u2022 \n1/2 avocado, diced",
+      "importance_rank": 22.04995029824086,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999962459955204
+      },
+      "keywords": [],
+      "confidence": 22.04995029824086,
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 24.11111111111111,
+        "avg_font_size": 10.923076923076923
+      },
+      "processing_time": 0.07661938667297363
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "\u2022 \nSpread hummus on one slice of bread. \n\u2022 \nLayer the roaste",
+      "importance_rank": 21.73523310035495,
+      "page_number": 13,
+      "language": {
+        "en": 0.9999987699778079
+      },
+      "keywords": [],
+      "confidence": 21.73523310035495,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 17.833333333333332,
+        "avg_font_size": 10.979591836734693
+      },
+      "processing_time": 0.07196855545043945
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken Caesar Wrap \nIngredients: \n\u2022 \n1 whole wheat tortilla",
+      "importance_rank": 21.640619608269812,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999935332935427
+      },
+      "keywords": [],
+      "confidence": 21.640619608269812,
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 23.666666666666668,
+        "avg_font_size": 10.933333333333334
+      },
+      "processing_time": 0.08031105995178223
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "\u2022 \n1/4 cup spinach, chopped \n\u2022 \n1/4 cup shredded carrots \n\u2022 ",
+      "importance_rank": 21.45740638623415,
+      "page_number": 14,
+      "language": {
+        "en": 0.9999979141975144
+      },
+      "keywords": [],
+      "confidence": 21.45740638623415,
+      "text_features": {
+        "num_sentences": 10,
+        "avg_sentence_length": 21.1,
+        "avg_font_size": 10.923076923076923
+      },
+      "processing_time": 0.08992576599121094
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 \n1/4 cup diced onion \n\u2022 \n1/4 cup cooked sausage or bacon \n\u2022 \nSalt and pepper to taste \n\u2022 \n1 tablespoon olive oil \nInstructions: \n\u2022 \nPreheat oven to 350\u00b0F (175\u00b0C). \n\u2022 \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n\u2022 \nStir in cheese, bell pepper, onion, and sausage or bacon. \n\u2022 \nHeat olive oil in a skillet over medium heat. \n\u2022 \nPour the egg mixture into the skillet and cook until the edges are set. \n\u2022 \nTransfer the skillet to the oven and bake for 15-20 minutes or until the eggs are set. \n\u2022 \nLet cool slightly before slicing and serving. \n \n \n \nBreakfast Bagel Sandwich \nIngredients: \n\u2022 \n1 bagel, sliced and toasted \n\u2022 \n1 large egg \n\u2022 \n1 slice of cheese \n\u2022 \n1 slice of ham or bacon \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nCook the egg in a skillet over medium heat, seasoning with salt and pepper. \n\u2022 \nPlace the cheese on top of the egg to melt. \n\u2022 \nAssemble the sandwich with the egg, cheese, and ham or bacon between the bagel \nhalves. \n\u2022 \nServe immediately. \n \n \n \nOvernigh",
+      "page_number": 11,
+      "language": {
+        "en": 0.9999981697672696
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 18.615384615384617,
+        "avg_font_size": 10.923076923076923
+      },
+      "processing_time": 0.08611464500427246
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Breakfast Sandwich \nIngredients: \n\u2022 \n1 English mu\ufb03n, split and toasted \n\u2022 \n1 large egg \n\u2022 \n1 slice of cheese \n\u2022 \n1 slice of ham or bacon \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nCook the egg in a skillet over medium heat, seasoning with salt and pepper. \n\u2022 \nPlace the cheese on top of the egg to melt. \n\u2022 \nAssemble the sandwich with the egg, cheese, and ham or bacon between the English \nmu\ufb03n halves. \n \n \n \nChia Pudding \nIngredients: \n\u2022 \n1/4 cup chia seeds \n\u2022 \n1 cup almond milk \n\u2022 \n1 tablespoon honey or maple syrup \n\u2022 \n1/2 teaspoon vanilla extract \n\u2022 \nToppings: fresh fruit, nuts, coconut flakes \nInstructions: \n\u2022 \nIn a bowl, whisk together chia seeds, almond milk, honey or maple syrup, and vanilla \nextract. \n\u2022 \nCover and refrigerate for at least 4 hours or overnight. \n\u2022 \nStir well before serving and top with your favorite toppings. \n \n \n \nBreakfast Quesadilla \nIngredients: \n\u2022 \n1 large flour tortilla \n\u2022 \n2 large eggs \n\u2022 \n1/4 cup shredded cheese \n\u2022 \n1/4 cup cooked sausage or bacon \n\u2022 ",
+      "page_number": 5,
+      "language": {
+        "en": 0.9999979158922855
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 10,
+        "avg_sentence_length": 24.0,
+        "avg_font_size": 10.970297029702971
+      },
+      "processing_time": 0.07853484153747559
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 \nCook in the skillet until the tortilla is golden brown and crispy. \n\u2022 \nServe with salsa. \n \n \n \n \nBanana Bread \nIngredients: \n\u2022 \n3 ripe bananas, mashed \n\u2022 \n1/3 cup melted butter \n\u2022 \n1/2 cup sugar \n\u2022 \n1 large egg, beaten \n\u2022 \n1 teaspoon vanilla extract \n\u2022 \n1 teaspoon baking soda \n\u2022 \nPinch of salt \n\u2022 \n1 1/2 cups all-purpose flour \nInstructions: \n\u2022 \nPreheat oven to 350\u00b0F (175\u00b0C). \n\u2022 \nIn a bowl, mix mashed bananas and melted butter. \n\u2022 \nAdd sugar, beaten egg, and vanilla extract, and mix well. \n\u2022 \nStir in baking soda, salt, and flour until just combined. \n\u2022 \nPour the batter into a greased loaf pan. \n\u2022 \nBake for 60 minutes or until a toothpick inserted into the center comes out clean. \n\u2022 \nLet cool before slicing. \n \n \n \nBreakfast Tacos \nIngredients: \n\u2022 \n2 large eggs \n\u2022 \n1/4 cup shredded cheese \n\u2022 \n1/4 cup cooked sausage or bacon \n\u2022 \n1/4 cup diced bell pepper \n\u2022 \n1/4 cup diced onions \n\u2022 \n2 small flour tortillas \n\u2022 \nSalsa for serving \nInstructions: \n\u2022 \nIn a bowl, whisk the eggs and cook the",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999966538002409
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 15.785714285714286,
+        "avg_font_size": 10.895238095238096
+      },
+      "processing_time": 0.08435940742492676
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes \nIngredients: \n\u2022 \n1 cup all-purpose flour \n\u2022 \n2 tablespoons sugar \n\u2022 \n1 teaspoon baking powder \n\u2022 \n1/2 teaspoon baking soda \n\u2022 \n1/4 teaspoon salt \n\u2022 \n1 cup buttermilk \n\u2022 \n1 large egg \n\u2022 \n2 tablespoons melted butter \n\u2022 \n1 teaspoon vanilla extract \nInstructions: \n\u2022 \nIn a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. \n\u2022 \nIn another bowl, combine buttermilk, egg, melted butter, and vanilla extract. \n\u2022 \nPour the wet ingredients into the dry ingredients and stir until just combined. \n\u2022 \nHeat a non-stick skillet over medium heat and lightly grease it. \n\u2022 \nPour 1/4 cup of batter onto the skillet for each pancake. \n\u2022 \nCook until bubbles form on the surface, then flip and cook until golden brown. \n\u2022 \nServe with syrup and your favorite toppings. \n \n \n \nScrambled Eggs \nIngredients: \n\u2022 \n4 large eggs \n\u2022 \n1/4 cup milk \n\u2022 \nSalt and pepper to taste \n\u2022 \n1 tablespoon butter \nInstructions: \n\u2022 \nIn a bowl, whisk together eggs, milk, salt, and pepper. \n\u2022 \nHeat a non-stick ",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999954349350244
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 16.923076923076923,
+        "avg_font_size": 10.90566037735849
+      },
+      "processing_time": 0.08466124534606934
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Instructions: \n\u2022 \nPreheat oven to 425\u00b0F (220\u00b0C). \n\u2022 \nSpread marinara sauce over the pizza crust. \n\u2022 \nSprinkle mozzarella cheese on top. \n\u2022 \nCrack the eggs onto the pizza. \n\u2022 \nAdd sausage or bacon and bell pepper. \n\u2022 \nBake for 10-12 minutes or until the eggs are set and the cheese is melted. \n\u2022 \nServe immediately. \n \n \n \nMu\ufb03ns \nIngredients: \n\u2022 \n2 cups all-purpose flour \n\u2022 \n1/2 cup sugar \n\u2022 \n1 tablespoon baking powder \n\u2022 \n1/2 teaspoon salt \n\u2022 \n1 cup milk \n\u2022 \n1/4 cup vegetable oil \n\u2022 \n1 large egg \n\u2022 \n1 teaspoon vanilla extract \n\u2022 \n1 cup fresh or frozen berries \nInstructions: \n\u2022 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\u2022 \nIn a bowl, mix flour, sugar, baking powder, and salt. \n\u2022 \nIn another bowl, combine milk, vegetable oil, egg, and vanilla extract. \n\u2022 \nPour the wet ingredients into the dry ingredients and stir until just combined. \n\u2022 \nFold in the berries. \n\u2022 \nDivide the batter evenly among a greased mu\ufb03n tin. \n\u2022 \nBake for 20-25 minutes or until a toothpick inserted into the center comes out clean",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999961694777134
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 13.375,
+        "avg_font_size": 10.878504672897197
+      },
+      "processing_time": 0.08087372779846191
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \nShredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings \nInstructions: \n\uf0b7 \nIn a skillet, cook ground beef over medium heat until browned. \n\uf0b7 \nAdd diced onion and minced garlic, saut\u00e9 until softened. \n\uf0b7 \nStir in taco seasoning and water, simmer until thickened. \n\uf0b7 \nServe beef mixture in taco shells or tortillas with desired toppings. \n \n \n \nLasagna \nIngredients: \n\uf0b7 \n1 pound ground beef \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 jar (24 ounces) marinara sauce \n\uf0b7 \n1 can (15 ounces) ricotta cheese \n\uf0b7 \n1 egg \n\uf0b7 \n1/4 cup grated Parmesan cheese \n\uf0b7 \n1 teaspoon dried basil \n\uf0b7 \n1 teaspoon dried oregano \n\uf0b7 \n9 lasagna noodles, cooked \n\uf0b7 \n2 cups shredded mozzarella cheese \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nIn a skillet, cook ground beef, diced onion, and minced garlic until browned. \n\uf0b7 \nStir in marinara sauce and simmer for 10 minutes. \n\uf0b7 \nIn a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano. \n\uf0b7 \nSpread a ",
+      "page_number": 5,
+      "language": {
+        "en": 0.9999993368177187
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 17.666666666666668,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.0809018611907959
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \n2 large eggplants, sliced \n\uf0b7 \n1 cup breadcrumbs \n\uf0b7 \n1/2 cup grated Parmesan cheese \n\uf0b7 \n1 cup marinara sauce \n\uf0b7 \n1 cup mozzarella cheese, shredded \n\uf0b7 \n2 eggs, beaten \n\uf0b7 \n1/2 cup flour \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nSeason eggplant slices with salt and let sit for 30 minutes, then pat dry. \n\uf0b7 \nDredge eggplant in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs \nand grated Parmesan cheese. \n\uf0b7 \nHeat olive oil in a skillet over medium heat. \n\uf0b7 \nCook eggplant until golden brown on both sides. \n\uf0b7 \nIn a baking dish, layer eggplant slices, marinara sauce, and shredded mozzarella cheese. \n\uf0b7 \nRepeat layers and top with remaining cheese. \n\uf0b7 \nBake for 25-30 minutes until cheese is melted and bubbly. \n\uf0b7 \nServe warm. \n \n \n \nFish Tacos \nIngredients: \n\uf0b7 \n1 pound white fish fillets (such as cod or tilapia) \n\uf0b7 \n1/2 cup flour \n\uf0b7 \n1/2 cup cornmeal \n\uf0b7 \n1 teaspoon paprika \n\uf0b7 \n1 teaspoon cumin \n\uf0b7 \n1 teaspoon salt \n\uf0b7 ",
+      "page_number": 10,
+      "language": {
+        "en": 0.9999958595473886
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 18.571428571428573,
+        "avg_font_size": 10.817391304347826
+      },
+      "processing_time": 0.08118367195129395
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \nIn the same skillet, cook ground lamb or beef, diced onion, and minced garlic until \nbrowned. \n\uf0b7 \nStir in diced tomatoes, red wine, cinnamon, oregano, salt, and pepper. \n\uf0b7 \nSimmer for 20 minutes. \n\uf0b7 \nIn a baking dish, layer eggplant slices and meat sauce. \n\uf0b7 \nPour b\u00e9chamel sauce over the top and sprinkle with grated Parmesan cheese. \n\uf0b7 \nBake for 30-35 minutes until golden and bubbly. \n\uf0b7 \nServe warm. \n \n \n \nJambalaya \nIngredients: \n\uf0b7 \n1 pound chicken breast, cubed \n\uf0b7 \n1/2 pound sausage, sliced \n\uf0b7 \n1/2 pound shrimp, peeled and deveined \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 bell pepper, diced \n\uf0b7 \n1 can (14.5 ounces) diced tomatoes \n\uf0b7 \n1 cup chicken broth \n\uf0b7 \n1 cup long-grain rice \n\uf0b7 \n1 teaspoon paprika \n\uf0b7 \n1 teaspoon thyme \n\uf0b7 \n1 teaspoon cayenne pepper \n\uf0b7 \n2 tablespoons olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nIn a large pot, heat olive oil over medium heat. \n\uf0b7 \nCook cubed chicken and sliced sausage until browned, then set aside. \n\uf0b7 \nIn the same po",
+      "page_number": 12,
+      "language": {
+        "en": 0.9999950756416067
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 17.133333333333333,
+        "avg_font_size": 10.862385321100918
+      },
+      "processing_time": 0.09094476699829102
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions: \n\uf0b7 \nSeason chicken breasts with salt and pepper, then dredge in flour. \n\uf0b7 \nIn a large skillet, heat olive oil and butter over medium heat. \n\uf0b7 \nCook chicken until golden and cooked through, then set aside. \n\uf0b7 \nIn the same skillet, saut\u00e9 mushrooms until tender. \n\uf0b7 \nAdd Marsala wine and chicken broth, simmer until reduced by half. \n\uf0b7 \nReturn chicken to the skillet and coat with the sauce. \n\uf0b7 \nGarnish with chopped parsley and serve. \n \n \nChicken Tikka Masala \nIngredients: \n\uf0b7 \n1 pound chicken breast, cubed \n\uf0b7 \n1 cup yogurt \n\uf0b7 \n2 tablespoons lemon juice \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 teaspoon grated ginger \n\uf0b7 \n1 teaspoon cumin \n\uf0b7 \n1 teaspoon coriander \n\uf0b7 \n1 teaspoon turmeric \n\uf0b7 \n1 teaspoon paprika \n\uf0b7 \n1 teaspoon garam masala \n\uf0b7 \n1/2 cup heavy cream \n\uf0b7 \n1 can (14.5 ounces) diced tomatoes \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 tablespoons vegetable oil \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \nChopped cilantro for garnish \nInstructions: \n\uf0b7 \nIn a bowl, mix yogurt, lemon juice, minced garlic, gr",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999952439332598
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 10.857142857142858
+      },
+      "processing_time": 0.06741571426391602
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \nChopped parsley for garnish \nInstructions: \n\uf0b7 \nCook fettuccine according to package instructions. \n\uf0b7 \nIn a skillet, melt butter over medium heat. \n\uf0b7 \nAdd minced garlic and saut\u00e9 until fragrant. \n\uf0b7 \nAdd chicken breasts and cook until golden and cooked through. \n\uf0b7 \nRemove chicken from the skillet and set aside. \n\uf0b7 \nPour heavy cream into the skillet and bring to a simmer. \n\uf0b7 \nStir in grated Parmesan cheese until melted and smooth. \n\uf0b7 \nSeason with salt and pepper. \n\uf0b7 \nSlice chicken and return to the skillet. \n\uf0b7 \nToss cooked fettuccine with the sauce and chicken. \n\uf0b7 \nGarnish with chopped parsley and serve. \n \n \n \nShepherd's Pie \nIngredients: \n\uf0b7 \n1 pound ground lamb or beef \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 cup frozen peas and carrots \n\uf0b7 \n1 cup beef broth \n\uf0b7 \n2 tablespoons tomato paste \n\uf0b7 \n2 tablespoons Worcestershire sauce \n\uf0b7 \n4 cups mashed potatoes \n\uf0b7 \n1/4 cup grated cheddar cheese \n\uf0b7 \nSalt and pepper to t",
+      "page_number": 6,
+      "language": {
+        "en": 0.999997799304468
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 12.65,
+        "avg_font_size": 10.857142857142858
+      },
+      "processing_time": 0.07567191123962402
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \n1/4 cup bacon, chopped \n\uf0b7 \n1/4 cup green onions, sliced \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nIn a pot, bring water to a boil and stir in grits. \n\uf0b7 \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n\uf0b7 \nIn a skillet, cook chopped bacon until crispy, then set aside. \n\uf0b7 \nIn the same skillet, saut\u00e9 diced onion and minced garlic until softened. \n\uf0b7 \nAdd shrimp and cook until pink and opaque. \n\uf0b7 \nStir in cooked bacon and sliced green onions. \n\uf0b7 \nServe shrimp mixture over grits. \n \n \n \nSpaghetti Carbonara \nIngredients: \n\uf0b7 \n1 pound spaghetti \n\uf0b7 \n4 eggs \n\uf0b7 \n1 cup grated Parmesan cheese \n\uf0b7 \n1/2 cup pancetta, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1/4 cup heavy cream (optional) \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \nChopped parsley for garnish \nInstructions: \n\uf0b7 \nCook spaghetti according to package instructions. \n\uf0b7 \nIn a skillet, cook diced pancetta until crispy, then set aside. \n\uf0b7 \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if usi",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999984851774552
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 16.866666666666667,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.07119297981262207
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \n1 teaspoon thyme \n\uf0b7 \n1 teaspoon rosemary \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \n1 pie crust \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nIn a large skillet, melt butter over medium heat. \n\uf0b7 \nCook diced onion and minced garlic until softened. \n\uf0b7 \nAdd cubed chicken and cook until browned. \n\uf0b7 \nStir in flour and cook for 1 minute. \n\uf0b7 \nGradually add chicken broth and milk, stirring constantly until thickened. \n\uf0b7 \nAdd frozen peas and carrots, thyme, rosemary, salt, and pepper. \n\uf0b7 \nPour mixture into a baking dish and top with pie crust. \n\uf0b7 \nBake for 25-30 minutes until crust is golden. \n\uf0b7 \nServe warm. \n \n \n \nChicken Stir-Fry \nIngredients: \n\uf0b7 \n1 pound chicken breast, sliced \n\uf0b7 \n1 cup broccoli florets \n\uf0b7 \n1 cup bell peppers, sliced \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n2 tablespoons soy sauce \n\uf0b7 \n1 tablespoon oyster sauce \n\uf0b7 \n1 tablespoon sesame oil \n\uf0b7 \n1 teaspoon cornstarch \n\uf0b7 \n1/4 cup water \n\uf0b7 \nCooked rice for serving \nInstructions: \n\uf0b7 \nIn a small bowl, mix soy sauce,",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999968491928188
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 13.105263157894736,
+        "avg_font_size": 10.831858407079647
+      },
+      "processing_time": 0.08536958694458008
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \nCook fettuccine according to package instructions. \n\uf0b7 \nIn a skillet, melt butter over medium heat. \n\uf0b7 \nAdd minced garlic and saut\u00e9 until fragrant. \n\uf0b7 \nPour in heavy cream and bring to a simmer. \n\uf0b7 \nStir in grated Parmesan cheese until melted and smooth. \n\uf0b7 \nSeason with salt and pepper. \n\uf0b7 \nToss cooked fettuccine with the sauce. \n\uf0b7 \nGarnish with chopped parsley and serve. \n \n \n \nFish and Chips \nIngredients: \n\uf0b7 \n1 pound white fish fillets (such as cod or haddock) \n\uf0b7 \n1 cup flour \n\uf0b7 \n1 cup beer \n\uf0b7 \n1 teaspoon baking powder \n\uf0b7 \n1 teaspoon salt \n\uf0b7 \n1/2 teaspoon pepper \n\uf0b7 \n4 large potatoes, peeled and cut into fries \n\uf0b7 \nVegetable oil for frying \n\uf0b7 \nLemon wedges for serving \nInstructions: \n\uf0b7 \nIn a bowl, mix flour, baking powder, salt, and pepper. \n\uf0b7 \nGradually whisk in beer until smooth. \n\uf0b7 \nHeat vegetable oil in a deep fryer or large pot to 350\u00b0F (175\u00b0C). \n\uf0b7 \nDip fish fillets in the batter and fry until golden and crispy. \n\uf0b7 \nDrain on paper towels. \n\uf0b7 \nFry potatoes until golden and crispy",
+      "page_number": 12,
+      "language": {
+        "en": 0.9999955881744138
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 13.61111111111111,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.08208632469177246
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \n2 cups beef broth \n\uf0b7 \n1 can (14.5 ounces) diced tomatoes \n\uf0b7 \n1 carrot, diced \n\uf0b7 \n1 celery stalk, diced \n\uf0b7 \n1 teaspoon thyme \n\uf0b7 \n1 bay leaf \n\uf0b7 \n2 tablespoons olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 350\u00b0F (175\u00b0C). \n\uf0b7 \nIn a large pot, heat olive oil over medium heat. \n\uf0b7 \nSeason veal shanks with salt and pepper, then brown on all sides. \n\uf0b7 \nRemove veal shanks and set aside. \n\uf0b7 \nIn the same pot, saut\u00e9 diced onion, minced garlic, diced carrot, and diced celery until \nsoftened. \n\uf0b7 \nStir in white wine, beef broth, diced tomatoes, thyme, and bay leaf. \n\uf0b7 \nReturn veal shanks to the pot and bring to a simmer. \n\uf0b7 \nCover and transfer to the oven. \n\uf0b7 \nCook for 2 hours until veal is tender. \n\uf0b7 \nServe warm. \n \n \n \nPad See Ew \nIngredients: \n\uf0b7 \n8 ounces wide rice noodles \n\uf0b7 \n1/2 pound chicken breast, sliced \n\uf0b7 \n1 cup broccoli florets \n\uf0b7 \n2 eggs \n\uf0b7 \n2 tablespoons soy sauce \n\uf0b7 \n2 tablespoons oyster sauce \n\uf0b7 \n1 tablespoon sugar \n\uf0b7 \n1 tablespoon vegetable oil \nInstructio",
+      "page_number": 15,
+      "language": {
+        "en": 0.9999958846533561
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 10.80373831775701
+      },
+      "processing_time": 0.08449506759643555
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \n4 lamb chops \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 tablespoon fresh rosemary, chopped \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \n1/2 cup fresh mint leaves \n\uf0b7 \n1/4 cup white vinegar \n\uf0b7 \n1 tablespoon sugar \nInstructions: \n\uf0b7 \nPreheat grill to medium-high heat. \n\uf0b7 \nIn a bowl, mix olive oil, minced garlic, chopped rosemary, salt, and pepper. \n\uf0b7 \nBrush the mixture over the lamb chops. \n\uf0b7 \nGrill lamb chops for 4-5 minutes per side until cooked to desired doneness. \n\uf0b7 \nIn a blender, combine mint leaves, white vinegar, and sugar, blend until smooth. \n\uf0b7 \nServe lamb chops with mint sauce. \n \n \n \nLobster Tail \nIngredients: \n\uf0b7 \n4 lobster tails \n\uf0b7 \n1/4 cup butter, melted \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 lemon, juiced \n\uf0b7 \n1 tablespoon fresh parsley, chopped \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 425\u00b0F (220\u00b0C). \n\uf0b7 \nUsing kitchen shears, cut the top shell of the lobster tails lengthwise. \n\uf0b7 \nGently pull the lobster meat out of the shell and place it on top. \n\uf0b7 \nIn a",
+      "page_number": 14,
+      "language": {
+        "en": 0.9999978005625353
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 17.0,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.07864093780517578
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nChopped parsley for garnish \n\uf0b7 \nCooked couscous for serving \nInstructions: \n\uf0b7 \nIn a large pot, heat olive oil over medium heat. \n\uf0b7 \nBrown chicken thighs on all sides, then set aside. \n\uf0b7 \nSaut\u00e9 onion and garlic until softened. \n\uf0b7 \nStir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives. \n\uf0b7 \nReturn chicken to the pot, cover, and simmer for 45 minutes until tender. \n\uf0b7 \nSeason with salt and pepper. \n\uf0b7 \nGarnish with parsley and serve over couscous. \n \n \n \nMushroom Risotto \nIngredients: \n\uf0b7 \n1 cup Arborio rice \n\uf0b7 \n4 cups chicken or vegetable broth \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 cup mushrooms, sliced \n\uf0b7 \n1/2 cup white wine \n\uf0b7 \n1/2 cup grated Parmesan cheese \n\uf0b7 \n2 tablespoons butter \n\uf0b7 \n2 tablespoons olive oil \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \nChopped parsley for garnish \nInstructions: \n\uf0b7 \nHeat broth in a pot and keep warm. \n\uf0b7 \nIn a large skillet, heat olive oil and 1 tablespoon butter over medium heat. \n\uf0b7 \nSaut\u00e9 onion, garlic, and mushr",
+      "page_number": 7,
+      "language": {
+        "en": 0.9999981209457462
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 16.0625,
+        "avg_font_size": 10.872727272727273
+      },
+      "processing_time": 0.08799266815185547
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nIn a bowl, mix yogurt, lemon juice, garlic, ginger, garam masala, turmeric, and cumin. \nMarinate chicken in the mixture for at least 1 hour. \n\uf0b7 \nIn a skillet, melt butter over medium heat. \n\uf0b7 \nAdd marinated chicken and cook until browned. \n\uf0b7 \nStir in tomato puree and simmer for 20 minutes. \n\uf0b7 \nAdd heavy cream, season with salt and pepper, and simmer for another 10 minutes. \n\uf0b7 \nGarnish with cilantro and serve with rice or naan. \n \n \n \nChili Con Carne \nIngredients: \n\uf0b7 \n1 pound ground beef \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 can (15 ounces) kidney beans, drained \n\uf0b7 \n1 can (14.5 ounces) diced tomatoes \n\uf0b7 \n1/4 cup tomato paste \n\uf0b7 \n1 cup beef broth \n\uf0b7 \n1 tablespoon chili powder \n\uf0b7 \n1 teaspoon cumin \n\uf0b7 \n1 teaspoon paprika \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \nShredded cheese and sour cream for garnish \nInstructions: \n\uf0b7 \nIn a large pot, cook ground beef with diced onion and garlic over medium heat until \nbrowned. \n\uf0b7 \nStir in kidney beans, diced tomatoes, tomato paste, beef",
+      "page_number": 5,
+      "language": {
+        "en": 0.9999959888709161
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 19.307692307692307,
+        "avg_font_size": 10.90566037735849
+      },
+      "processing_time": 0.08698534965515137
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \n1 cup barbecue sauce \n\uf0b7 \n1/2 cup chicken broth \n\uf0b7 \n1 tablespoon brown sugar \n\uf0b7 \n1 teaspoon smoked paprika \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \nBuns for serving \n\uf0b7 \nColeslaw for topping (optional) \nInstructions: \n\uf0b7 \nSeason pork shoulder with salt, pepper, and smoked paprika. \n\uf0b7 \nPlace onion and garlic in a slow cooker, then add pork. \n\uf0b7 \nMix barbecue sauce, chicken broth, and brown sugar, and pour over pork. \n\uf0b7 \nCook on low for 8 hours or high for 4 hours until pork shreds easily. \n\uf0b7 \nShred pork with forks and mix with sauce. \n\uf0b7 \nServe on buns with coleslaw if desired. \n \n \n \nStuffed Chicken Breasts \nIngredients: \n\uf0b7 \n4 boneless, skinless chicken breasts \n\uf0b7 \n1/2 cup spinach, chopped \n\uf0b7 \n1/2 cup feta cheese, crumbled \n\uf0b7 \n1/4 cup sun-dried tomatoes, chopped \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n2 tablespoons olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nCut a pocket into each chicken breast. \n\uf0b7 \nIn a bowl, mix spinach, feta, sun-dried tomatoes, and g",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999970793320563
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 16.6,
+        "avg_font_size": 10.857142857142858
+      },
+      "processing_time": 0.0747671127319336
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nCook gnocchi according to package instructions, then drain. \n\uf0b7 \nIn a large skillet, melt butter over medium heat. \n\uf0b7 \nAdd minced garlic and sage leaves, saut\u00e9 until fragrant and sage is crispy. \n\uf0b7 \nAdd cooked gnocchi to the skillet and toss to coat in the butter sauce. \n\uf0b7 \nSeason with salt and pepper, and sprinkle with Parmesan cheese. \n\uf0b7 \nServe warm. \n \n \n \nHoney Garlic Pork Ribs \nIngredients: \n\uf0b7 \n2 pounds pork ribs \n\uf0b7 \n1/4 cup honey \n\uf0b7 \n1/4 cup soy sauce \n\uf0b7 \n2 tablespoons rice vinegar \n\uf0b7 \n3 cloves garlic, minced \n\uf0b7 \n1 teaspoon grated ginger \n\uf0b7 \n1 teaspoon paprika \n\uf0b7 \nSalt and pepper to taste \n\uf0b7 \nSliced green onions for garnish \nInstructions: \n\uf0b7 \nPreheat oven to 300\u00b0F (150\u00b0C). \n\uf0b7 \nSeason ribs with salt, pepper, and paprika, then place in a baking dish. \n\uf0b7 \nIn a bowl, mix honey, soy sauce, rice vinegar, garlic, and ginger. Pour over the ribs. \n\uf0b7 \nCover with foil and bake for 2.5 hours, basting occasionally with the sauce. \n\uf0b7 \nRemove foil, increase oven to 400\u00b0F (200\u00b0C), and bake for",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999965743213787
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 17.357142857142858,
+        "avg_font_size": 10.846846846846846
+      },
+      "processing_time": 0.08396244049072266
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Baked Ziti \nIngredients: \n\uf0b7 \n1 pound ziti pasta \n\uf0b7 \n1 pound ground beef or Italian sausage \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 jar (24 ounces) marinara sauce \n\uf0b7 \n1 cup ricotta cheese \n\uf0b7 \n1 cup shredded mozzarella cheese \n\uf0b7 \n1/2 cup grated Parmesan cheese \n\uf0b7 \n1 teaspoon dried oregano \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nCook ziti according to package instructions, then drain. \n\uf0b7 \nIn a skillet, cook ground beef or sausage with diced onion and minced garlic until \nbrowned. \n\uf0b7 \nStir in marinara sauce, oregano, salt, and pepper, and simmer for 10 minutes. \n\uf0b7 \nIn a baking dish, layer half the ziti, half the sauce, dollops of ricotta, and half the \nmozzarella. Repeat layers. \n\uf0b7 \nTop with grated Parmesan cheese. \n\uf0b7 \nBake for 25-30 minutes until bubbly and golden. \n\uf0b7 \nServe warm. \n \n \n \nButter Chicken \nIngredients: \n\uf0b7 \n1 pound boneless chicken thighs, cubed \n\uf0b7 \n1 cup plain yogurt \n\uf0b7 \n1 tablespoon lemon juice \n\uf0b7 \n2 cloves garli",
+      "page_number": 4,
+      "language": {
+        "en": 0.999998810339244
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 10,
+        "avg_sentence_length": 22.5,
+        "avg_font_size": 10.846846846846846
+      },
+      "processing_time": 0.08786630630493164
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 1 teaspoon salt \no Oil for frying \n\uf0b7 \nInstructions: \no Mix rice flour, coconut milk, water, turmeric, and salt to form a batter. \no Saut\u00e9 sliced pork, shrimp, and diced onion until cooked. \no Heat oil in a pan and pour in a ladle of batter, swirling to coat the pan. \no Add cooked pork, shrimp, bean sprouts, green onions, and cilantro. \no Fold pancake in half and cook until crispy. \no Serve with lettuce and dipping sauce. \n \nBasturma \n\uf0b7 \nIngredients: \no 1 pound beef tenderloin \no 1/4 cup paprika \no 2 tablespoons cumin \no 2 tablespoons fenugreek \no 1 tablespoon garlic powder \no 1 tablespoon salt \n\uf0b7 \nInstructions: \no Rub beef with salt and let cure in the refrigerator for 24 hours. \no Rinse and pat dry. \no Mix paprika, cumin, fenugreek, and garlic powder, then coat beef with the \nmixture. \no Wrap in cheesecloth and hang in a cool, dry place for 1-2 weeks. \no Slice thinly and serve. \n \nBatbout \n\uf0b7 \nIngredients: \no 2 1/4 teaspoons active dry yeast \no 1 teaspoon sugar \no 1 cup warm water \no",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999952489629735
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 14.38888888888889,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.08569574356079102
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "\uf0b7 \nInstructions: \no Saut\u00e9 diced onion, minced garlic, and sliced bell peppers in olive oil until \nsoftened. \no Add diced tomatoes, cumin, paprika, and salt, simmer for 10 minutes. \no Make wells in the sauce and crack eggs into each well. \no Cover and cook until eggs are set. \no Garnish with chopped cilantro and serve warm. \n \nChana Masala \n\uf0b7 \nIngredients: \no 2 cups cooked chickpeas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon garam masala \no 1 teaspoon turmeric \no 1 teaspoon salt \no 1 can diced tomatoes \no 2 tablespoons oil \n\uf0b7 \nInstructions: \no Heat oil in a pan and saut\u00e9 diced onion and minced garlic until translucent. \no Add cumin, coriander, garam masala, and turmeric, cook for 1 minute. \no Add chickpeas and diced tomatoes, stir to combine. \no Simmer for 15 minutes, stirring occasionally. \no Add salt to taste and serve. \n \nChapati \n\uf0b7 \nIngredients: \no 2 cups flour \no 1/4 cup oil \no 1/2 cup water \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no ",
+      "page_number": 14,
+      "language": {
+        "en": 0.9999953589566941
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.6,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.07961130142211914
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 2 tablespoons honey \no 1 tablespoon rice wine \no 1 teaspoon five-spice powder \no 1 teaspoon garlic powder \n\uf0b7 \nInstructions: \no Mix hoisin sauce, soy sauce, honey, rice wine, five-spice powder, and garlic \npowder in a bowl. \no Marinate pork in the mixture for at least 2 hours. \no Preheat oven to 375\u00b0F (190\u00b0C). \no Place pork on a baking sheet and roast for 45 minutes, basting occasionally. \no Let rest before slicing and serving. \n \nChawanmushi \n\uf0b7 \nIngredients: \no 2 eggs \no 1 cup dashi broth \no 1 tablespoon soy sauce \no 1 tablespoon mirin \no 1/4 cup chicken \no 1/4 cup shrimp \no 1/4 cup mushrooms \n\uf0b7 \nInstructions: \no Beat eggs with dashi broth, soy sauce, and mirin. \no Place chicken, shrimp, and mushrooms in small bowls. \no Pour egg mixture over the top. \no Steam for 15 minutes until set. \no Serve warm. \n \nChiles Rellenos \n\uf0b7 \nIngredients: \no 4 poblano peppers \no 1 cup shredded cheese \no 1/2 cup flour \no 4 eggs \no 1 cup vegetable oil \no 1 cup tomato sauce \n\uf0b7 \nInstructions: \no Roast pepper",
+      "page_number": 15,
+      "language": {
+        "en": 0.9999964981964785
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 14.25,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08827948570251465
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 1 pound okra \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon turmeric \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons oil \n\uf0b7 \nInstructions: \no Wash and dry okra, then cut into pieces. \no Heat oil in a pan and saut\u00e9 diced onion and minced garlic until translucent. \no Add cumin, coriander, turmeric, and garam masala, cook for 1 minute. \no Add okra and stir to coat with spices. \no Cook until okra is tender, stirring occasionally. \no Add salt to taste and serve. \n \nBobotie \n\uf0b7 \nIngredients: \no 1 pound ground beef \no 1 small onion \no 2 cloves garlic \no 1/4 cup raisins \no 1/4 cup almonds \no 1 tablespoon curry powder \no 1 teaspoon salt \no 1/2 teaspoon pepper \no 2 eggs \no 1/2 cup milk \no 1/4 cup breadcrumbs \n\uf0b7 \nInstructions: \no Preheat oven to 350\u00b0F (175\u00b0C). \no Saut\u00e9 diced onion and minced garlic until softened. \no Add ground beef, raisins, almonds, curry powder, salt, and pepper, cook until \nbeef is browned. \no Transfer mixture to ",
+      "page_number": 7,
+      "language": {
+        "en": 0.9999963970518102
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 10.761904761904763
+      },
+      "processing_time": 0.07621026039123535
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Acaraj\u00e9 \n\uf0b7 \nIngredients:  \no 2 cups black-eyed peas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon salt \no Oil for frying \n\uf0b7 \nInstructions: \no Soak black-eyed peas overnight, then peel and rinse. \no Blend peas with diced onion, minced garlic, and salt until smooth. \no Form mixture into balls and fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nAgedashi Tofu \n\uf0b7 \nIngredients: \no 1 block tofu \no 1/4 cup cornstarch \no 1 cup dashi broth \no 2 tablespoons soy sauce \no 1 tablespoon mirin \no 1/4 cup green onions \no 1/4 cup grated daikon \n\uf0b7 \nInstructions: \no Cut tofu into cubes and coat with cornstarch. \no Fry in hot oil until golden. \no Heat dashi broth with soy sauce and mirin. \no Serve tofu in broth, topped with green onions and grated daikon. \n \nAloo Gobi \n\uf0b7 \nIngredients: \no 2 potatoes \no 1 cauliflower \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon turmeric \no 1 teaspoon coriander \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons",
+      "page_number": 2,
+      "language": {
+        "en": 0.999996322802015
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 11,
+        "avg_sentence_length": 20.272727272727273,
+        "avg_font_size": 10.78125
+      },
+      "processing_time": 0.09199857711791992
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Rinse lentils and cook in water until tender. \no Heat oil in a pan and saut\u00e9 diced onion and minced garlic until translucent. \no Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. \no Add cooked lentils and stir to combine. \no Simmer for 10 minutes, stirring occasionally. \no Add salt to taste and serve. \n \nDeviled Eggs \n\uf0b7 \nIngredients: \no 6 eggs \no 1/4 cup mayonnaise \no 1 tablespoon mustard \no 1 tablespoon vinegar \no 1 teaspoon salt \no 1/2 teaspoon paprika \n\uf0b7 \nInstructions: \no Hard-boil eggs, then peel and halve. \no Remove yolks and mash with mayonnaise, mustard, vinegar, and salt. \no Spoon or pipe yolk mixture into egg whites. \no Sprinkle with paprika and serve. \n \nDolmas \n\uf0b7 \nIngredients: \no 1 jar grape leaves \no 1 cup rice \no 1 small onion \no 1/4 cup pine nuts \no 1/4 cup currants \no 1/4 cup lemon juice \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Rinse grape leaves and pat dry. \no Saut\u00e9 diced onion in olive oil until translucent. \no Add rice, pine n",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999954203500405
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 13.777777777777779,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.09415555000305176
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 teaspoon paprika \no 1 teaspoon salt \no Oil for frying \n\uf0b7 \nInstructions: \no Mix flour, butter, water, and beaten egg to form a dough, then let rest. \no Saut\u00e9 ground beef, diced onion, minced garlic, chopped olives, and raisins with \ncumin, paprika, and salt until cooked. \no Roll out dough and cut into circles. \no Place a spoonful of filling on each circle and fold to seal. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nEscalivada \n\uf0b7 \nIngredients: \no 2 eggplants \no 2 bell peppers \no 2 tomatoes \no 1 small onion \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Preheat oven to 400\u00b0F (200\u00b0C). \no Roast eggplants, bell peppers, tomatoes, and onion until tender. \no Peel and slice vegetables. \no Arrange on a plate and drizzle with olive oil. \no Sprinkle with salt and serve warm or at room temperature. \n \nFalafel \n\uf0b7 \nIngredients: \no 1 can chickpeas \no 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 t",
+      "page_number": 7,
+      "language": {
+        "en": 0.9999953202954448
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.733333333333333,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08381390571594238
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 2 tablespoons butter \n\uf0b7 \nInstructions: \no Preheat oven to 400\u00b0F (200\u00b0C). \no Spread b\u00e9chamel sauce on 4 slices of bread. \no Top with ham and grated cheese, then cover with remaining bread slices. \no Melt butter in a pan and toast sandwiches until golden. \no Transfer to a baking sheet, top with more b\u00e9chamel sauce and cheese. \no Bake for 10 minutes until cheese is melted and bubbly. \no Serve warm. \n \nCroquetas \n\uf0b7 \nIngredients: \no 1/2 cup butter \no 1/2 cup flour \no 2 cups milk \no 1/2 cup ham \no 1/4 cup grated cheese \no 1 teaspoon salt \no 1/2 teaspoon nutmeg \no 1 cup breadcrumbs \no 2 eggs \no Oil for frying \n\uf0b7 \nInstructions: \no Melt butter in a saucepan, stir in flour to make a roux. \no Gradually add milk, stirring constantly until thickened. \no Stir in diced ham, grated cheese, salt, and nutmeg. \no Let mixture cool, then form into croquettes. \no Dredge croquettes in flour, dip in beaten eggs, and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve wa",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999947181294813
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.4,
+        "avg_font_size": 10.75968992248062
+      },
+      "processing_time": 0.0717000961303711
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1/4 cup olive oil \no Rosemary \no Sea salt \n\uf0b7 \nInstructions: \no Dissolve yeast and sugar in warm water, let sit until foamy. \no Mix flour and salt in a bowl, then add yeast mixture and olive oil. \no Knead until smooth, then let rise until doubled. \no Press dough into a baking pan, dimple with fingers, and sprinkle with rosemary \nand sea salt. \no Bake at 400\u00b0F (200\u00b0C) for 20-25 minutes until golden. \n \nFreekeh Salad \n\uf0b7 \nIngredients: \no 1 cup freekeh \no 2 cups water \no 1 small onion \no 1/4 cup parsley \no 1/4 cup mint \no 1/4 cup lemon juice \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Rinse freekeh and cook in water until tender, then drain. \no Saut\u00e9 diced onion in olive oil until softened. \no Mix freekeh with saut\u00e9ed onion, chopped parsley, and mint. \no Whisk lemon juice, olive oil, and salt, then pour over salad. \no Toss well and serve. \n \nFried Plantains \n\uf0b7 \nIngredients: \no 2 ripe plantains \no 1 cup vegetable oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Peel and slice p",
+      "page_number": 10,
+      "language": {
+        "en": 0.9999956855433443
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.133333333333333,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.07012724876403809
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 package rice paper wrappers \no 1/2 pound shrimp \no 1/2 cup rice vermicelli \no 1/2 cup lettuce \no 1/4 cup mint \no 1/4 cup cilantro \no 1/4 cup basil \no 1/4 cup carrots \no 1/4 cup cucumber \n\uf0b7 \nInstructions: \no Cook shrimp and slice in half. \no Cook rice vermicelli according to package instructions, then drain. \no Soak rice paper wrappers in warm water until pliable. \no Place a small amount of shrimp, vermicelli, lettuce, mint, cilantro, basil, julienned \ncarrots, and cucumber on each wrapper. \no Roll tightly and serve with dipping sauce. \n \nGomae (Spinach with Sesame Dressing) \n\uf0b7 \nIngredients: \no 1 bunch spinach \no 2 tablespoons sesame seeds \no 1 tablespoon soy sauce \no 1 tablespoon sugar \no 1 tablespoon mirin \n\uf0b7 \nInstructions: \no Blanch spinach in boiling water, then rinse in cold water and squeeze out excess \nmoisture. \no Toast sesame seeds and grind them. \no Mix sesame seeds with soy sauce, sugar, and mirin. \no Toss spinach with dressing and serve. \n \nGratin Dauphinois \n\uf0b7 \nIngredie",
+      "page_number": 13,
+      "language": {
+        "en": 0.999998314893463
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 18.75,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08953976631164551
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 1 teaspoon paprika \no 1 teaspoon salt \no 1/4 cup cilantro \n\uf0b7 \nInstructions: \no Soak beans overnight, then cook until tender. \no Saut\u00e9 diced onion and minced garlic in olive oil until softened. \no Add diced tomatoes, cumin, paprika, and salt, simmer for 10 minutes. \no Mix beans with tomato sauce and cook for 10 minutes. \no Stir in chopped cilantro and serve warm. \n \nMacaroni and Cheese \n\uf0b7 \nIngredients: \no 2 cups elbow macaroni \no 2 cups milk \no 2 tablespoons butter \no 2 tablespoons flour \no 2 cups shredded cheddar cheese \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\uf0b7 \nInstructions: \no Cook macaroni according to package instructions, then drain. \no Melt butter in a saucepan, stir in flour to make a roux. \no Gradually add milk, stirring constantly until thickened. \no Add cheese, salt, and pepper, stir until melted. \no Combine cheese sauce with macaroni. \no Serve warm. \n \nManakish \n\uf0b7 \nIngredients: \no 2 1/4 teaspoons active dry yeast \no 1 teaspoon sugar \no 1 cup warm water \no 3 cups flour \n",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999942907020515
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 14.277777777777779,
+        "avg_font_size": 10.75968992248062
+      },
+      "processing_time": 0.07553601264953613
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food \nprocessor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nNaan \n\uf0b7 \nIngredients: \no 2 1/4 teaspoons active dry yeast \no 1 teaspoon sugar \no 1/2 cup warm water \no 2 1/2 cups flour \no 1/2 cup yogurt \no 1/4 cup melted butter \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Dissolve yeast and sugar in warm water, let sit until foamy. \no Mix flour and salt in a bowl, then add yeast mixture, yogurt, and melted butter. \no Knead until smooth, then let rise until doubled. \no Divide dough into balls and roll out into circles. \no Cook on a hot griddle until bubbles form, then flip and cook the other side. \no Brush with melted butter and serve warm. \n \nNom Du Du (Green Papaya Salad) \n\uf0b7 \nIngredients: \no 1 green papaya \no 2 carrots \no 1/4 cup peanuts \no 1/4 cup cilantro \no 2 tablespoons fish sauce \no 2 tablespoons lime juice \no 1 tablespoon sugar \no 1-2 Thai chilies \n\uf0b7 \nInstructions:",
+      "page_number": 13,
+      "language": {
+        "en": 0.9999967183241918
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 16.266666666666666,
+        "avg_font_size": 10.796747967479675
+      },
+      "processing_time": 0.0757136344909668
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 1 can diced tomatoes \no 4 cups vegetable broth \no 1 can cannellini beans \no 1 cup pasta \no 1/4 cup basil \no 1/4 cup Parmesan cheese \n\uf0b7 \nInstructions: \no Saut\u00e9 diced onion, carrots, celery, and minced garlic until softened. \no Add diced zucchini, tomatoes, and broth. \no Bring to a boil, then simmer for 20 minutes. \no Add beans and pasta, cook until pasta is tender. \no Stir in chopped basil and serve with grated Parmesan cheese. \n \nMiso Soup \n\uf0b7 \nIngredients: \no 4 cups dashi broth \no 1/4 cup miso paste \no 1/2 cup tofu \no 1/4 cup green onions \no 1/4 cup seaweed \n\uf0b7 \nInstructions: \no Heat dashi broth until warm. \no Dissolve miso paste in a small amount of broth, then add to the pot. \no Add diced tofu and seaweed. \no Simmer for 5 minutes. \no Garnish with sliced green onions and serve. \n \nMoqueca de Banana \n\uf0b7 \nIngredients: \no 4 bananas \no 1 small onion \no 2 cloves garlic \no 1 bell pepper \no 2 tomatoes \no 1 cup coconut milk \no 1/4 cup cilantro \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\uf0b7 \nIns",
+      "page_number": 11,
+      "language": {
+        "en": 0.9999959863648256
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.6,
+        "avg_font_size": 10.75968992248062
+      },
+      "processing_time": 0.07757759094238281
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\uf0b7 \nInstructions: \no Boil potatoes until tender, then dice. \no Cook diced bacon until crispy, then remove and set aside. \no Saut\u00e9 diced onion in bacon fat until softened. \no Mix vinegar, chicken broth, mustard, sugar, salt, and pepper in a bowl. \no Combine potatoes, bacon, and onion with the dressing. \no Serve warm or chilled. \n \nKeftedes \n\uf0b7 \nIngredients: \no 1/2 pound ground beef \no 1/2 pound ground pork \no 1 small onion \no 2 cloves garlic \no 1/4 cup breadcrumbs \no 1 egg \no 1 teaspoon oregano \no 1 teaspoon mint \no 1 teaspoon salt \no 1/2 teaspoon pepper \no Oil for frying \n\uf0b7 \nInstructions: \no Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beaten \negg, oregano, mint, salt, and pepper in a bowl. \no Form mixture into meatballs. \no Heat oil in a pan and fry meatballs until golden. \no Drain on paper towels and serve warm. \n \nKibbeh \n\uf0b7 \nIngredients: \no 1 cup bulgur \no 1/2 pound ground beef \no 1 small onion \no 1/4 cup pine nuts \no 1 teaspoon cumin \no 1 teaspoon allspice \n",
+      "page_number": 5,
+      "language": {
+        "en": 0.9999960435866893
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.6,
+        "avg_font_size": 10.771653543307087
+      },
+      "processing_time": 0.08080244064331055
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Kimchi \n\uf0b7 \nIngredients: \no 1 napa cabbage \no 1/4 cup sea salt \no 1 tablespoon sugar \no 2 tablespoons fish sauce \no 2 tablespoons gochugaru (Korean chili powder) \no 4 cloves garlic \no 1 inch ginger \no 4 green onions \n\uf0b7 \nInstructions: \no Cut cabbage into quarters and soak in salted water for 2 hours. \no Rinse and drain cabbage. \no Mix sugar, fish sauce, gochugaru, minced garlic, grated ginger, and chopped \ngreen onions in a bowl. \no Rub mixture onto cabbage leaves. \no Pack cabbage into a jar and let ferment at room temperature for 2-3 days. \no Store in the refrigerator and serve as needed. \n \nKongnamul Muchim \n\uf0b7 \nIngredients: \no 1 pound soybean sprouts \no 2 cloves garlic \no 2 tablespoons soy sauce \no 1 tablespoon sesame oil \no 1 tablespoon sesame seeds \n\uf0b7 \nInstructions: \no Blanch soybean sprouts in boiling water for 2 minutes, then drain. \no Mix minced garlic, soy sauce, sesame oil, and sesame seeds in a bowl. \no Toss sprouts with the dressing. \no Serve chilled. \n \nLabneh \n\uf0b7 \nIngredients",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999951449202052
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.4,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.08632016181945801
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt \no 1/4 cup olive oil \no 4 cups chicken broth \no 1/4 cup lentils \no 1/4 cup cilantro \no 4 pieces flatbread \n\uf0b7 \nInstructions: \no Saut\u00e9 chicken, diced onion, and minced garlic in olive oil until browned. \no Add cumin, turmeric, ginger, and salt, cook for 1 minute. \no Add chicken broth and lentils, simmer until chicken is cooked and lentils are \ntender. \no Stir in chopped cilantro. \no Tear flatbread into pieces and place in a serving dish. \no Pour chicken and sauce over the bread and serve warm. \n \nRice and Peas \n\uf0b7 \nIngredients: \no 1 cup rice \no 1 cup coconut milk \no 1 cup water \no 1/2 cup kidney beans \no 1 small onion \no 2 cloves garlic \no 1 teaspoon thyme \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Saut\u00e9 diced onion and minced garlic until softened. \no Add rice, coconut milk, water, kidney beans, thyme, and salt. \no Bring to a boil, then reduce heat and simmer until rice is tender. \no Serve warm. \n \nRillettes \n\uf0b7 \nIngredients: \no 1 pound pork shoulder \no 1/2 cup duck fat \no ",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999930572916169
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 18.692307692307693,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08243298530578613
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon garam masala \no 1 teaspoon salt \no Oil for frying \n\uf0b7 \nInstructions: \no Mix flour, oil, and water to form a dough, then let rest. \no Boil and mash potatoes, then mix with peas, diced onion, and spices. \no Roll dough into circles, cut in half, and form cones. \no Fill cones with potato mixture and seal edges. \no Fry in hot oil until golden. \no Serve warm. \n \nSatay \n\uf0b7 \nIngredients: \no 1 pound chicken breast \no 1/4 cup coconut milk \no 2 tablespoons soy sauce \no 2 tablespoons peanut butter \no 1 tablespoon curry powder \no 1 tablespoon brown sugar \no Skewers \n\uf0b7 \nInstructions: \no Cut chicken into strips and thread onto skewers. \no Mix coconut milk, soy sauce, peanut butter, curry powder, and brown sugar in a \nbowl. \no Marinate chicken in the mixture for at least 1 hour. \no Grill or broil until cooked through. \no Serve with peanut sauce. \n \nSauerkraut \n\uf0b7 \nIngredients: \no 1 head cabbage \no 1 tablespoon sea salt \no 1 teaspoon caraway seeds \n\uf0b7 \nInstructions: \no Shred cabbage and mix wi",
+      "page_number": 13,
+      "language": {
+        "en": 0.9999973278770315
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 14.5625,
+        "avg_font_size": 10.806451612903226
+      },
+      "processing_time": 0.07265734672546387
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 carrot \no 1/2 cup peas \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon turmeric \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons oil \n\uf0b7 \nInstructions: \no Rinse rice and soak in water for 30 minutes. \no Heat oil in a pan and saut\u00e9 diced onion until translucent. \no Add diced carrot, peas, cumin, coriander, turmeric, and garam masala, cook for 1 \nminute. \no Drain rice and add to the pan, stir to coat with spices. \no Add water and bring to a boil. \no Reduce heat, cover, and simmer until rice is tender and water is absorbed. \no Add salt to taste and serve. \n \nQuesadillas \n\uf0b7 \nIngredients: \no 4 flour tortillas \no 2 cups shredded cheese \no 1/2 cup diced cooked chicken (optional) \no 1/4 cup chopped cilantro \no 1 tablespoon vegetable oil \n\uf0b7 \nInstructions: \no Heat oil in a pan. \no Place a tortilla in the pan and sprinkle with cheese, chicken, and cilantro. \no Top with another tortilla. \no Cook until cheese is melted and tortilla is golden, then flip and cook the other ",
+      "page_number": 6,
+      "language": {
+        "en": 0.999996672092389
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 17.846153846153847,
+        "avg_font_size": 10.784
+      },
+      "processing_time": 0.08747696876525879
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1/4 cup vinegar \no 1/4 cup sugar \no 1/4 cup water \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\uf0b7 \nInstructions: \no Shred cabbage and slice onion and apple. \no Saut\u00e9 onion in a pot until softened. \no Add cabbage, apple, vinegar, sugar, water, salt, and pepper. \no Simmer for 45 minutes until cabbage is tender. \no Serve warm. \n \nSaganaki \n\uf0b7 \nIngredients: \no 1/2 pound kefalotyri cheese \no 1/4 cup flour \no 1/4 cup olive oil \no 1 lemon \n\uf0b7 \nInstructions: \no Cut cheese into slices. \no Dredge cheese in flour. \no Heat olive oil in a pan and fry cheese until golden on both sides. \no Squeeze lemon juice over the top and serve immediately. \n \nSalade Ni\u00e7oise \n\uf0b7 \nIngredients: \no 4 tomatoes \no 1 cucumber \no 1 small red onion \no 1/4 cup olives \no 1/4 cup green beans \no 2 hard-boiled eggs \no 1 can tuna \no 1/4 cup olive oil \no 2 tablespoons red wine vinegar \no 1 teaspoon Dijon mustard \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Dice tomatoes and cucumber, slice red onion. \no Blanch green beans until tender. ",
+      "page_number": 11,
+      "language": {
+        "en": 0.9999952931871614
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 10.75968992248062
+      },
+      "processing_time": 0.10460114479064941
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 4 tomatoes \no 1 teaspoon cumin \no 1 teaspoon paprika \no 1 teaspoon salt \no 4 eggs \no 1/4 cup parsley \n\uf0b7 \nInstructions: \no Saut\u00e9 diced onion, minced garlic, and diced bell pepper until softened. \no Add diced tomatoes, cumin, paprika, and salt, simmer for 10 minutes. \no Make wells in the sauce and crack eggs into each well. \no Cover and cook until eggs are set. \no Garnish with chopped parsley and serve. \n \nShawarma \n\uf0b7 \nIngredients: \no 1 pound chicken thighs \no 1/4 cup yogurt \no 2 tablespoons lemon juice \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon paprika \no 1 teaspoon turmeric \no 1 teaspoon salt \no 1/2 teaspoon pepper \n\uf0b7 \nInstructions: \no Mix yogurt, lemon juice, minced garlic, cumin, paprika, turmeric, salt, and pepper \nin a bowl. \no Marinate chicken in the mixture for at least 2 hours. \no Preheat oven to 400\u00b0F (200\u00b0C). \no Arrange chicken on a baking sheet and roast for 25-30 minutes until cooked \nthrough. \no Slice and serve with pita bread and toppings. \n \nSkordalia \n\uf0b7 \nIngr",
+      "page_number": 14,
+      "language": {
+        "en": 0.9999974196490751
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 18.583333333333332,
+        "avg_font_size": 10.796747967479675
+      },
+      "processing_time": 0.08852910995483398
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespoon lemon juice \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a bowl, combine the tuna, avocado, tomatoes, and red onion. \n\u2022 \nDrizzle with olive oil and lemon juice. \n\u2022 \nSeason with salt and pepper, then toss to combine. \n \n \n \nVeggie Sushi Rolls \nIngredients: \n\u2022 \n1 cup cooked sushi rice \n\u2022 \n1/2 cucumber, julienned \n\u2022 \n1/2 avocado, sliced \n\u2022 \n1/4 cup carrot, julienned \n\u2022 \n2 sheets nori (seaweed) \n\u2022 \nSoy sauce for dipping \nInstructions: \n\u2022 \nLay a sheet of nori on a bamboo sushi mat. \n\u2022 \nSpread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. \n\u2022 \nArrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. \n\u2022 \nRoll the nori tightly using the bamboo mat. \n\u2022 \nSlice into bite-sized pieces and serve with soy sauce. \n \n \n \n \n \nSpinach and Feta Stu\ufb00ed Pita \nIngredients: \n\u2022 \n1 whole wheat pita bread \n\u2022 \n1/2 cup spinach, chopped \n\u2022 \n1/4 cup feta cheese, crumbl",
+      "page_number": 11,
+      "language": {
+        "en": 0.9999966172112874
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 19.583333333333332,
+        "avg_font_size": 10.923076923076923
+      },
+      "processing_time": 0.08014726638793945
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \n1 cup cooked chicken breast, diced \n\u2022 \n1/2 avocado, diced \n\u2022 \n1/4 cup cherry tomatoes, halved \n\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespoon lemon juice \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a bowl, combine the chicken, avocado, tomatoes, and red onion. \n\u2022 \nDrizzle with olive oil and lemon juice. \n\u2022 \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Cheese Roll-Ups \nIngredients: \n\u2022 \n4 slices turkey breast \n\u2022 \n4 slices cheese (such as cheddar or Swiss) \n\u2022 \n1/2 cup baby spinach \n\u2022 \n1/4 cup hummus \nInstructions: \n\u2022 \nLay a slice of turkey flat and spread with hummus. \n\u2022 \nPlace a slice of cheese and a few spinach leaves on top. \n\u2022 \nRoll up tightly and repeat with remaining ingredients. \n \n \n \nMediterranean Chickpea Salad \nIngredients: \n\u2022 \n1 can chickpeas, drained and rinsed \n\u2022 \n1/2 cup cherry tomatoes, halved \n\u2022 \n1/2 cucumber, diced \n\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n1/4 cup feta cheese, crumbled \n\u2022 \n2 tablespoons",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999962459955204
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 24.11111111111111,
+        "avg_font_size": 10.923076923076923
+      },
+      "processing_time": 0.07661938667297363
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \nSpread hummus on one slice of bread. \n\u2022 \nLayer the roasted eggplant, spinach, and roasted red peppers on top. \n\u2022 \nTop with the second slice of bread and cut in half. \n \n \n \nChicken and Mango Salad \nIngredients: \n\u2022 \n1 cup cooked chicken breast, diced \n\u2022 \n1/2 mango, diced \n\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n1/4 cup cilantro, chopped \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespoon lime juice \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a bowl, combine the chicken, mango, red onion, and cilantro. \n\u2022 \nDrizzle with olive oil and lime juice. \n\u2022 \nSeason with salt and pepper, then toss to combine. \n \n \n \nVeggie and Cheese Quesadilla \nIngredients: \n\u2022 \n1 whole wheat tortilla \n\u2022 \n1/2 cup shredded cheese \n\u2022 \n1/4 cup bell pepper, sliced \n\u2022 \n1/4 cup zucchini, sliced \n\u2022 \n1/4 cup red onion, sliced \nInstructions: \n\u2022 \nLay the tortilla flat and sprinkle half of the cheese on one side. \n\u2022 \nAdd the bell pepper, zucchini, and red onion. \n\u2022 \nSprinkle the remaining cheese on top and fold the tortil",
+      "page_number": 13,
+      "language": {
+        "en": 0.9999987699778079
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 17.833333333333332,
+        "avg_font_size": 10.979591836734693
+      },
+      "processing_time": 0.07196855545043945
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap \nIngredients: \n\u2022 \n1 whole wheat tortilla \n\u2022 \n1 cup cooked chicken breast, sliced \n\u2022 \n1 cup romaine lettuce, chopped \n\u2022 \n2 tablespoons Caesar dressing \n\u2022 \n2 tablespoons grated Parmesan cheese \n\u2022 \nOptional: croutons for extra crunch \nInstructions: \n\u2022 \nLay the tortilla flat and spread the Caesar dressing evenly. \n\u2022 \nAdd the chicken, lettuce, and Parmesan cheese. \n\u2022 \nRoll up the tortilla tightly and slice in half. \n \n \n \nQuinoa Salad \nIngredients: \n\u2022 \n1 cup cooked quinoa \n\u2022 \n1/2 cup cherry tomatoes, halved \n\u2022 \n1/2 cucumber, diced \n\u2022 \n1/4 cup red onion, finely chopped \n\u2022 \n1/4 cup feta cheese, crumbled \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespoon lemon juice \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. \n\u2022 \nDrizzle with olive oil and lemon juice. \n\u2022 \nSeason with salt and pepper, then toss to combine. \n \n \n \nTurkey and Avocado Sandwich \nIngredients: \n\u2022 \n2 slices whole grain bread \n\u2022 \n4 s",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999935332935427
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 23.666666666666668,
+        "avg_font_size": 10.933333333333334
+      },
+      "processing_time": 0.08031105995178223
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \n1/4 cup spinach, chopped \n\u2022 \n1/4 cup shredded carrots \n\u2022 \n1 tablespoon tahini \n\u2022 \n1 tablespoon lemon juice \n\u2022 \nSalt and pepper to taste \nInstructions: \n\u2022 \nIn a bowl, combine the mashed chickpeas, spinach, carrots, tahini, and lemon juice. \n\u2022 \nSeason with salt and pepper. \n\u2022 \nLay the tortilla flat and spread the mixture evenly. \n\u2022 \nRoll up the tortilla tightly and slice in half. \n \n \n \nTurkey and Apple Sandwich \nIngredients: \n\u2022 \n2 slices whole grain bread \n\u2022 \n4 slices turkey breast \n\u2022 \n1/2 apple, thinly sliced \n\u2022 \n1/4 cup baby spinach \n\u2022 \n1 tablespoon mustard or mayo \nInstructions: \n\u2022 \nSpread mustard or mayo on one slice of bread. \n\u2022 \nLayer the turkey, apple slices, and spinach on top. \n\u2022 \nTop with the second slice of bread and cut in half. \n \n \n \n \n \nMediterranean Tuna Salad \nIngredients: \n\u2022 \n1 can tuna, drained \n\u2022 \n1/4 cup cherry tomatoes, halved \n\u2022 \n1/4 cup cucumber, diced \n\u2022 \n1/4 cup black olives, sliced \n\u2022 \n1/4 cup feta cheese, crumbled \n\u2022 \n2 tablespoons olive oil \n\u2022 \n1 tablespo",
+      "page_number": 14,
+      "language": {
+        "en": 0.9999979141975144
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 10,
+        "avg_sentence_length": 21.1,
+        "avg_font_size": 10.923076923076923
+      },
+      "processing_time": 0.08992576599121094
+    }
+  ]
+}

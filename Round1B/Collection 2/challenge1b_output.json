@@ -1,0 +1,2237 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance."
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create PDFs from Word mail merges \nMail merges from Word gen",
+      "importance_rank": 36.1015039697458,
+      "page_number": 27,
+      "language": {
+        "en": 0.9999964472056777
+      },
+      "keywords": [],
+      "confidence": 36.1015039697458,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 19.88888888888889,
+        "avg_font_size": 11.805882352941177
+      },
+      "processing_time": 0.07392358779907227
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Convert Visio files to PDF (Acrobat Pro) \nPDFs created from ",
+      "importance_rank": 33.75899422589947,
+      "page_number": 29,
+      "language": {
+        "en": 0.999997450547333
+      },
+      "keywords": [],
+      "confidence": 33.75899422589947,
+      "text_features": {
+        "num_sentences": 26,
+        "avg_sentence_length": 12.884615384615385,
+        "avg_font_size": 11.938202247191011
+      },
+      "processing_time": 0.07129812240600586
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "for selecting and saving the new PDF and also starts Acrobat",
+      "importance_rank": 33.64646805553269,
+      "page_number": 24,
+      "language": {
+        "en": 0.9999952276216026
+      },
+      "keywords": [],
+      "confidence": 33.64646805553269,
+      "text_features": {
+        "num_sentences": 25,
+        "avg_sentence_length": 13.36,
+        "avg_font_size": 11.943965517241379
+      },
+      "processing_time": 0.0940394401550293
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Convert email messages to PDFs \nYou can use PDFMaker to conv",
+      "importance_rank": 31.345351957697396,
+      "page_number": 23,
+      "language": {
+        "en": 0.9999952673965713
+      },
+      "keywords": [],
+      "confidence": 31.345351957697396,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 17.27777777777778,
+        "avg_font_size": 12.227272727272727
+      },
+      "processing_time": 0.07839822769165039
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "What\u2019s the best way to create a PDF? \nYou can create PDFs fr",
+      "importance_rank": 29.56126972410238,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999973728367233
+      },
+      "keywords": [],
+      "confidence": 29.56126972410238,
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 17.235294117647058,
+        "avg_font_size": 12.380952380952381
+      },
+      "processing_time": 0.09130287170410156
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Note: If you select Retain Some Layers In The Selected Page,",
+      "importance_rank": 39.75983618859252,
+      "page_number": 1,
+      "language": {
+        "en": 0.9999952793284905
+      },
+      "keywords": [],
+      "confidence": 39.75983618859252,
+      "text_features": {
+        "num_sentences": 22,
+        "avg_sentence_length": 17.954545454545453,
+        "avg_font_size": 11.854545454545455
+      },
+      "processing_time": 0.06236553192138672
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Select AutoCAD layers to convert \nIf you choose to retain al",
+      "importance_rank": 36.5161202454328,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999969190230591
+      },
+      "keywords": [],
+      "confidence": 36.5161202454328,
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 15.125,
+        "avg_font_size": 11.676724137931034
+      },
+      "processing_time": 0.08687400817871094
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Create PDFs by printing to file \nIn many authoring applicati",
+      "importance_rank": 34.485581910467076,
+      "page_number": 12,
+      "language": {
+        "en": 0.9999973691439104
+      },
+      "keywords": [],
+      "confidence": 34.485581910467076,
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 14.25,
+        "avg_font_size": 12.455223880597014
+      },
+      "processing_time": 0.09181761741638184
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Convert AutoCAD files to PDF (Acrobat Pro for \nWindows) \nUse",
+      "importance_rank": 28.935303588484057,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999974015095425
+      },
+      "keywords": [],
+      "confidence": 28.935303588484057,
+      "text_features": {
+        "num_sentences": 23,
+        "avg_sentence_length": 12.478260869565217,
+        "avg_font_size": 12.08673469387755
+      },
+      "processing_time": 0.07362079620361328
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Adjusts the size of each worksheet so that all the entries o",
+      "importance_rank": 27.17403431888862,
+      "page_number": 7,
+      "language": {
+        "en": 0.9999988262866829
+      },
+      "keywords": [],
+      "confidence": 27.17403431888862,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 19.214285714285715,
+        "avg_font_size": 12.428571428571429
+      },
+      "processing_time": 0.07470822334289551
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "3. In the dialog, select the image file you want to insert. ",
+      "importance_rank": 37.735305105684795,
+      "page_number": 14,
+      "language": {
+        "en": 0.9999975620236473
+      },
+      "keywords": [],
+      "confidence": 37.735305105684795,
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 15.625,
+        "avg_font_size": 11.306666666666667
+      },
+      "processing_time": 0.09089064598083496
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "1. From the left menu, select Video. \n2. Drag your cursor on",
+      "importance_rank": 33.04537465330775,
+      "page_number": 16,
+      "language": {
+        "en": 0.9999980945578729
+      },
+      "keywords": [],
+      "confidence": 33.04537465330775,
+      "text_features": {
+        "num_sentences": 36,
+        "avg_sentence_length": 9.11111111111111,
+        "avg_font_size": 11.950495049504951
+      },
+      "processing_time": 0.09299468994140625
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "the handle to resize the text block. \n \nAdd or edit lists \nY",
+      "importance_rank": 26.18843569371579,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999976701350198
+      },
+      "keywords": [],
+      "confidence": 26.18843569371579,
+      "text_features": {
+        "num_sentences": 26,
+        "avg_sentence_length": 9.961538461538462,
+        "avg_font_size": 12.083333333333334
+      },
+      "processing_time": 0.08460521697998047
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "\u2022 \nCharacter, paragraph, and line spacing \n\u2022 \nHorizontal sca",
+      "importance_rank": 24.745394756240035,
+      "page_number": 7,
+      "language": {
+        "en": 0.9999980517387463
+      },
+      "keywords": [],
+      "confidence": 24.745394756240035,
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 10.208333333333334,
+        "avg_font_size": 11.92156862745098
+      },
+      "processing_time": 0.07425498962402344
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit images or objects in a PDF \n \nAbout editing text and im",
+      "importance_rank": 20.969822074627817,
+      "page_number": 13,
+      "language": {
+        "en": 0.9999978265314513
+      },
+      "keywords": [],
+      "confidence": 20.969822074627817,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 14.785714285714286,
+        "avg_font_size": 12.88888888888889
+      },
+      "processing_time": 0.07855081558227539
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Edit Scanned PDFs \nEditing a scanned PDF can be complicated ",
+      "importance_rank": 36.45367650546121,
+      "page_number": 14,
+      "language": {
+        "en": 0.9999981644153593
+      },
+      "keywords": [],
+      "confidence": 36.45367650546121,
+      "text_features": {
+        "num_sentences": 26,
+        "avg_sentence_length": 13.923076923076923,
+        "avg_font_size": 12.385964912280702
+      },
+      "processing_time": 0.06588554382324219
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Move or copy pages in a PDF \nTo copy or move pages within a ",
+      "importance_rank": 31.83828391232949,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999968134363055
+      },
+      "keywords": [],
+      "confidence": 31.83828391232949,
+      "text_features": {
+        "num_sentences": 30,
+        "avg_sentence_length": 10.533333333333333,
+        "avg_font_size": 12.275862068965518
+      },
+      "processing_time": 0.0987236499786377
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract pages from a PDF \nExtraction is reusing selected pag",
+      "importance_rank": 31.64519771359674,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999969148634285
+      },
+      "keywords": [],
+      "confidence": 31.64519771359674,
+      "text_features": {
+        "num_sentences": 27,
+        "avg_sentence_length": 11.62962962962963,
+        "avg_font_size": 12.006024096385541
+      },
+      "processing_time": 0.0955345630645752
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "You can't delete all pages; at least one page must remain in",
+      "importance_rank": 28.198477761060253,
+      "page_number": 11,
+      "language": {
+        "en": 0.9999981278681284
+      },
+      "keywords": [],
+      "confidence": 28.198477761060253,
+      "text_features": {
+        "num_sentences": 31,
+        "avg_sentence_length": 9.03225806451613,
+        "avg_font_size": 12.282608695652174
+      },
+      "processing_time": 0.07852792739868164
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Renumber pages in a PDF \nThe page numbers on the document pa",
+      "importance_rank": 25.932421049078695,
+      "page_number": 13,
+      "language": {
+        "en": 0.9999970235245064
+      },
+      "keywords": [],
+      "confidence": 25.932421049078695,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 13.526315789473685,
+        "avg_font_size": 12.444444444444445
+      },
+      "processing_time": 0.10522270202636719
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Recover the last saved version \n1. On Windows, choose the ha",
+      "importance_rank": 33.49529568241909,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999960839954609
+      },
+      "keywords": [],
+      "confidence": 33.49529568241909,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 17.526315789473685,
+        "avg_font_size": 11.883333333333333
+      },
+      "processing_time": 0.06025242805480957
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "File format op\u019fons for PDF export in Acrobat \nTo convert a P",
+      "importance_rank": 30.42587982603145,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999970116180115
+      },
+      "keywords": [],
+      "confidence": 30.42587982603145,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 15.894736842105264,
+        "avg_font_size": 12.54054054054054
+      },
+      "processing_time": 0.09413862228393555
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Select and copy text and images \nThe Select tool \n  lets you",
+      "importance_rank": 30.263778159563753,
+      "page_number": 28,
+      "language": {
+        "en": 0.9999956686956181
+      },
+      "keywords": [],
+      "confidence": 30.263778159563753,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 15.789473684210526,
+        "avg_font_size": 12.193548387096774
+      },
+      "processing_time": 0.10725164413452148
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "PDF to PS and EPS conversion se\u01abngs \nIn Acrobat, select All ",
+      "importance_rank": 29.648879087779022,
+      "page_number": 21,
+      "language": {
+        "en": 0.9999973165856526
+      },
+      "keywords": [],
+      "confidence": 29.648879087779022,
+      "text_features": {
+        "num_sentences": 22,
+        "avg_sentence_length": 13.363636363636363,
+        "avg_font_size": 12.39344262295082
+      },
+      "processing_time": 0.09151387214660645
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "decompressed. The default value of 256 is recommended. This ",
+      "importance_rank": 29.421003650356692,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999976031915092
+      },
+      "keywords": [],
+      "confidence": 29.421003650356692,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 14.6,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.08902096748352051
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Take a snapshot of a page \nYou can use the Snapshot tool to ",
+      "importance_rank": 22.722640439685716,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999973561275648
+      },
+      "keywords": [],
+      "confidence": 22.722640439685716,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 12.5,
+        "avg_font_size": 11.957446808510639
+      },
+      "processing_time": 0.08978629112243652
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Copy images \nUse the Select tool to copy and paste individua",
+      "importance_rank": 15.440698668606782,
+      "page_number": 1,
+      "language": {
+        "en": 0.9999965136021769
+      },
+      "keywords": [],
+      "confidence": 15.440698668606782,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 12.666666666666666,
+        "avg_font_size": 12.9625
+      },
+      "processing_time": 0.08080363273620605
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Export objects to separate PDF \nUsing the Edit Object tool, ",
+      "importance_rank": 6.756387698048254,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999987720837242
+      },
+      "keywords": [],
+      "confidence": 6.756387698048254,
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 7.222222222222222,
+        "avg_font_size": 13.5
+      },
+      "processing_time": 0.07079052925109863
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Clear unsaved form entries \n1. Choose Tools > Prepare a form",
+      "importance_rank": 37.11449569389987,
+      "page_number": 15,
+      "language": {
+        "en": 0.9999975254085312
+      },
+      "keywords": [],
+      "confidence": 37.11449569389987,
+      "text_features": {
+        "num_sentences": 35,
+        "avg_sentence_length": 10.514285714285714,
+        "avg_font_size": 12.194029850746269
+      },
+      "processing_time": 0.09786105155944824
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "6. Select Apply, and then click on the place in the PDF wher",
+      "importance_rank": 33.5734929169793,
+      "page_number": 16,
+      "language": {
+        "en": 0.9999948917694199
+      },
+      "keywords": [],
+      "confidence": 33.5734929169793,
+      "text_features": {
+        "num_sentences": 26,
+        "avg_sentence_length": 12.807692307692308,
+        "avg_font_size": 12.038461538461538
+      },
+      "processing_time": 0.08797717094421387
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "\u2022 \nType: Type your name in the field. You can choose from a ",
+      "importance_rank": 30.7848215382705,
+      "page_number": 17,
+      "language": {
+        "en": 0.9999956887077619
+      },
+      "keywords": [],
+      "confidence": 30.7848215382705,
+      "text_features": {
+        "num_sentences": 29,
+        "avg_sentence_length": 10.517241379310345,
+        "avg_font_size": 12.123376623376624
+      },
+      "processing_time": 0.07160401344299316
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Types of PDF forms  \n\u2022 \nInteractive forms: These contain fie",
+      "importance_rank": 29.799401424823305,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999972565117734
+      },
+      "keywords": [
+        "form"
+      ],
+      "confidence": 29.799401424823305,
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 12.25,
+        "avg_font_size": 12.333333333333334
+      },
+      "processing_time": 0.06440615653991699
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Auto-Complete forms (interactive forms \nonly) \nThe Auto-Comp",
+      "importance_rank": 25.342083429031597,
+      "page_number": 10,
+      "language": {
+        "en": 0.9999979561558434
+      },
+      "keywords": [
+        "form"
+      ],
+      "confidence": 25.342083429031597,
+      "text_features": {
+        "num_sentences": 23,
+        "avg_sentence_length": 10.869565217391305,
+        "avg_font_size": 12.559139784946236
+      },
+      "processing_time": 0.0678870677947998
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "purposes that do not include training a Large Language Model",
+      "importance_rank": 45.995299689187846,
+      "page_number": 5,
+      "language": {
+        "en": 0.9999950208829633
+      },
+      "keywords": [],
+      "confidence": 45.995299689187846,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 22.85,
+        "avg_font_size": 11.857142857142858
+      },
+      "processing_time": 0.07493734359741211
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "cues indicating where generated information came from. Howev",
+      "importance_rank": 43.966698056159196,
+      "page_number": 4,
+      "language": {
+        "en": 0.999994545332264
+      },
+      "keywords": [],
+      "confidence": 43.966698056159196,
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 20.80952380952381,
+        "avg_font_size": 11.891304347826088
+      },
+      "processing_time": 0.08368706703186035
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "app experience as described above. After activation, a user ",
+      "importance_rank": 36.748823533583916,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999952726486643
+      },
+      "keywords": [],
+      "confidence": 36.748823533583916,
+      "text_features": {
+        "num_sentences": 22,
+        "avg_sentence_length": 16.59090909090909,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.1050107479095459
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Chrome or Microsoft Edge. AI Assistant is also available on ",
+      "importance_rank": 35.57208496887862,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999969415307222
+      },
+      "keywords": [],
+      "confidence": 35.57208496887862,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 18.57894736842105,
+        "avg_font_size": 12.36734693877551
+      },
+      "processing_time": 0.06701183319091797
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Overview of generative AI features \nUse the generative AI fe",
+      "importance_rank": 28.989622340083077,
+      "page_number": 2,
+      "language": {
+        "en": 0.999996728114726
+      },
+      "keywords": [],
+      "confidence": 28.989622340083077,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 15.944444444444445,
+        "avg_font_size": 12.35483870967742
+      },
+      "processing_time": 0.06354761123657227
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Common questions \nI have multiple profiles associated with m",
+      "importance_rank": 22.82153404916442,
+      "page_number": 16,
+      "language": {
+        "en": 0.9999973324661482
+      },
+      "keywords": [],
+      "confidence": 22.82153404916442,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 14.0625,
+        "avg_font_size": 14.08695652173913
+      },
+      "processing_time": 0.09018492698669434
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Request access in Acrobat \nIf you're a Teams user, your admi",
+      "importance_rank": 22.505833960146074,
+      "page_number": 12,
+      "language": {
+        "en": 0.9999960240757709
+      },
+      "keywords": [],
+      "confidence": 22.505833960146074,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 15.857142857142858,
+        "avg_font_size": 12.7875
+      },
+      "processing_time": 0.07326793670654297
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "\u2022 \nOpen Acrobat, then select Try it now from the Try AI Assi",
+      "importance_rank": 20.587452586900397,
+      "page_number": 10,
+      "language": {
+        "en": 0.9999969125907154
+      },
+      "keywords": [],
+      "confidence": 20.587452586900397,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 13.533333333333333,
+        "avg_font_size": 11.775
+      },
+      "processing_time": 0.08173274993896484
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Review the status of your request \nWhen you submit a request",
+      "importance_rank": 15.653917508835146,
+      "page_number": 15,
+      "language": {
+        "en": 0.9999961999510666
+      },
+      "keywords": [],
+      "confidence": 15.653917508835146,
+      "text_features": {
+        "num_sentences": 8,
+        "avg_sentence_length": 19.25,
+        "avg_font_size": 12.88
+      },
+      "processing_time": 0.05371260643005371
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Prerequisites \nBefore deploying, ensure the following requir",
+      "importance_rank": 14.406518354846222,
+      "page_number": 17,
+      "language": {
+        "en": 0.9999975432321073
+      },
+      "keywords": [],
+      "confidence": 14.406518354846222,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 11.75,
+        "avg_font_size": 12.465116279069768
+      },
+      "processing_time": 0.07618594169616699
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "\u2022 \nDownload Form Field Data - Downloads a CSV file of the fi",
+      "importance_rank": 42.05168052035948,
+      "page_number": 19,
+      "language": {
+        "en": 0.999997132960234
+      },
+      "keywords": [
+        "form"
+      ],
+      "confidence": 42.05168052035948,
+      "text_features": {
+        "num_sentences": 22,
+        "avg_sentence_length": 18.954545454545453,
+        "avg_font_size": 11.368421052631579
+      },
+      "processing_time": 0.1023406982421875
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Certify options provide a higher level of document control t",
+      "importance_rank": 40.603503766853464,
+      "page_number": 24,
+      "language": {
+        "en": 0.9999937442518805
+      },
+      "keywords": [],
+      "confidence": 40.603503766853464,
+      "text_features": {
+        "num_sentences": 30,
+        "avg_sentence_length": 13.433333333333334,
+        "avg_font_size": 11.846153846153847
+      },
+      "processing_time": 0.08696866035461426
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "2. Under Categories, select Signatures. \n3. For Identities &",
+      "importance_rank": 35.595368269139406,
+      "page_number": 27,
+      "language": {
+        "en": 0.9999964761044118
+      },
+      "keywords": [],
+      "confidence": 35.595368269139406,
+      "text_features": {
+        "num_sentences": 28,
+        "avg_sentence_length": 12.607142857142858,
+        "avg_font_size": 12.493150684931507
+      },
+      "processing_time": 0.10181522369384766
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "For details on the full range of configuration options in en",
+      "importance_rank": 34.83519326951123,
+      "page_number": 25,
+      "language": {
+        "en": 0.99999691109031
+      },
+      "keywords": [],
+      "confidence": 34.83519326951123,
+      "text_features": {
+        "num_sentences": 23,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 12.5
+      },
+      "processing_time": 0.08294296264648438
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Set privileges and permissions for others \n\u2022 \nCertify a docu",
+      "importance_rank": 33.23153466365431,
+      "page_number": 21,
+      "language": {
+        "en": 0.999997324878878
+      },
+      "keywords": [],
+      "confidence": 33.23153466365431,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 20.5625,
+        "avg_font_size": 12.310344827586206
+      },
+      "processing_time": 0.08631253242492676
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "For a list and explanation of each warning, see the DigSig A",
+      "importance_rank": 37.04411970056095,
+      "page_number": 10,
+      "language": {
+        "en": 0.9999926990894555
+      },
+      "keywords": [
+        "form"
+      ],
+      "confidence": 37.04411970056095,
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 17.476190476190474,
+        "avg_font_size": 12.24074074074074
+      },
+      "processing_time": 0.09109640121459961
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "certificates that are signed and certified by a trust anchor",
+      "importance_rank": 36.713995041844015,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999974088737916
+      },
+      "keywords": [],
+      "confidence": 36.713995041844015,
+      "text_features": {
+        "num_sentences": 27,
+        "avg_sentence_length": 13.481481481481481,
+        "avg_font_size": 12.350877192982455
+      },
+      "processing_time": 0.0892035961151123
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Note: You can right-click a signature field in the Signature",
+      "importance_rank": 32.802008820922175,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999949801398321
+      },
+      "keywords": [],
+      "confidence": 32.802008820922175,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 18.055555555555557,
+        "avg_font_size": 12.833333333333334
+      },
+      "processing_time": 0.07419919967651367
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Validate all digital signatures \n1. Open the PDF for which y",
+      "importance_rank": 29.6415531937961,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999964992162163
+      },
+      "keywords": [],
+      "confidence": 29.6415531937961,
+      "text_features": {
+        "num_sentences": 25,
+        "avg_sentence_length": 11.76,
+        "avg_font_size": 12.78688524590164
+      },
+      "processing_time": 0.10096931457519531
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "signatures is ignored. The revocation status is always check",
+      "importance_rank": 28.733287968877086,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999954732988422
+      },
+      "keywords": [],
+      "confidence": 28.733287968877086,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 11.697368421052632
+      },
+      "processing_time": 0.07851338386535645
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "\u2022 \nGet link: You get this option when a file isn't synced to",
+      "importance_rank": 36.71858137956985,
+      "page_number": 11,
+      "language": {
+        "en": 0.9999988269535562
+      },
+      "keywords": [],
+      "confidence": 36.71858137956985,
+      "text_features": {
+        "num_sentences": 30,
+        "avg_sentence_length": 12.166666666666666,
+        "avg_font_size": 11.9
+      },
+      "processing_time": 0.08375954627990723
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "\u2022 \nTo indicate that a new paragraph should be added, press E",
+      "importance_rank": 34.888830563835306,
+      "page_number": 10,
+      "language": {
+        "en": 0.9999954721530376
+      },
+      "keywords": [],
+      "confidence": 34.888830563835306,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 17.3,
+        "avg_font_size": 12.4
+      },
+      "processing_time": 0.09469938278198242
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Initiate SharePoint-based shared review \nusing Acrobat \nBefo",
+      "importance_rank": 24.63400814076672,
+      "page_number": 14,
+      "language": {
+        "en": 0.9999966052594433
+      },
+      "keywords": [],
+      "confidence": 24.63400814076672,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 12.2,
+        "avg_font_size": 12.623376623376624
+      },
+      "processing_time": 0.09269022941589355
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "3. Enter the email addresses of the recipients or choose fro",
+      "importance_rank": 19.591841341999352,
+      "page_number": 12,
+      "language": {
+        "en": 0.9999955518334536
+      },
+      "keywords": [],
+      "confidence": 19.591841341999352,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 12.866666666666667,
+        "avg_font_size": 12.928571428571429
+      },
+      "processing_time": 0.07478976249694824
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Share \nYou can quickly share a link to a PDF document with o",
+      "importance_rank": 19.55213422529288,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999962466054568
+      },
+      "keywords": [],
+      "confidence": 19.55213422529288,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 12.0625,
+        "avg_font_size": 12.705882352941176
+      },
+      "processing_time": 0.06916522979736328
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add comments in a text box or callout \nYou can use the Add t",
+      "importance_rank": 34.289930793659224,
+      "page_number": 12,
+      "language": {
+        "en": 0.9999967252181449
+      },
+      "keywords": [],
+      "confidence": 34.289930793659224,
+      "text_features": {
+        "num_sentences": 23,
+        "avg_sentence_length": 14.782608695652174,
+        "avg_font_size": 12.833333333333334
+      },
+      "processing_time": 0.07726430892944336
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add an arrow, or shape \nNote: In Acrobat Reader , drawing to",
+      "importance_rank": 30.950646157643135,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999981534690751
+      },
+      "keywords": [],
+      "confidence": 30.950646157643135,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 16.157894736842106,
+        "avg_font_size": 11.91764705882353
+      },
+      "processing_time": 0.0987703800201416
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Commenting preferences \nCommenting preferences affect both t",
+      "importance_rank": 28.01587388541419,
+      "page_number": 15,
+      "language": {
+        "en": 0.999996626433053
+      },
+      "keywords": [],
+      "confidence": 28.01587388541419,
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 16.352941176470587,
+        "avg_font_size": 12.71111111111111
+      },
+      "processing_time": 0.08047175407409668
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add comments in a file attachment \n \nNote: In Acrobat Reader",
+      "importance_rank": 27.956274001673325,
+      "page_number": 14,
+      "language": {
+        "en": 0.9999967065996277
+      },
+      "keywords": [],
+      "confidence": 27.956274001673325,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 14.578947368421053,
+        "avg_font_size": 12.8
+      },
+      "processing_time": 0.07719206809997559
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "\u2022 \nUsing the Select tool, select an edge of the text box and",
+      "importance_rank": 26.954334868771415,
+      "page_number": 13,
+      "language": {
+        "en": 0.9999970588726435
+      },
+      "keywords": [],
+      "confidence": 26.954334868771415,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 13.35,
+        "avg_font_size": 12.192307692307692
+      },
+      "processing_time": 0.0748450756072998
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Export Expert: Test Your Acrobat Exporting Skills \n \nWelcome",
+      "importance_rank": 37.30773803999469,
+      "page_number": 1,
+      "language": {
+        "en": 0.9999972393557579
+      },
+      "keywords": [
+        "need"
+      ],
+      "confidence": 37.30773803999469,
+      "text_features": {
+        "num_sentences": 38,
+        "avg_sentence_length": 9.736842105263158,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.08896684646606445
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "16. Yes or No: Can you export a PDF to XML format using Acro",
+      "importance_rank": 9.56142714799881,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999937595367459
+      },
+      "keywords": [
+        "need"
+      ],
+      "confidence": 9.56142714799881,
+      "text_features": {
+        "num_sentences": 11,
+        "avg_sentence_length": 8.454545454545455,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.050820350646972656
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "The Ultimate PDF Sharing Checklist \nSharing PDFs can be a br",
+      "importance_rank": 16.09190889345253,
+      "page_number": 1,
+      "language": {
+        "en": 0.9999974968676251
+      },
+      "keywords": [
+        "need"
+      ],
+      "confidence": 16.09190889345253,
+      "text_features": {
+        "num_sentences": 10,
+        "avg_sentence_length": 15.8,
+        "avg_font_size": 11.68
+      },
+      "processing_time": 0.06379508972167969
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "\u2022 Have you sent the email or shared the link through your \nc",
+      "importance_rank": 15.9839710409094,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999951143282977
+      },
+      "keywords": [
+        "professional",
+        "need"
+      ],
+      "confidence": 15.9839710409094,
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 17.444444444444443,
+        "avg_font_size": 11.909090909090908
+      },
+      "processing_time": 0.05457758903503418
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "\u2022 Did you enter the email addresses of clients, agents, and ",
+      "importance_rank": 15.5625327322801,
+      "page_number": 3,
+      "language": {
+        "en": 0.999996289957183
+      },
+      "keywords": [],
+      "confidence": 15.5625327322801,
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 17.0,
+        "avg_font_size": 11.964285714285714
+      },
+      "processing_time": 0.0664215087890625
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Create PDFs from Word mail merges \nMail merges from Word generate documents like form letters\u2014for one common example\u2014\nthat are personalized with information like the names and addresses of the recipients. With \nAcrobat PDFMaker, you can save steps by using a Word mail merge document and \ncorresponding data file to output mail merges directly to PDF. You can even set up PDFMaker to \nattach those PDFs to email messages that are generated during the PDF-creation process. \nNote:  \nFor information on setting up files for the Word Mail Merge feature, see Microsoft Office Word \nHelp. \n1. In Microsoft Word, open the template that you have created as the basis of your mail \nmerge, or create the file using the Word Mail Merge toolbar and Mail Merge wizard, \nas needed. \n  \nNote: Do not complete the mail merge in Word. Instead, set up and preview the mail \nmerge as usual, so that you can verify that the merge will work correctly. \n2. Do one of the following: \n\u2022 \nChoose Acrobat > Mail Merge. \n\u2022 \nCl",
+      "page_number": 27,
+      "language": {
+        "en": 0.9999964472056777
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 19.88888888888889,
+        "avg_font_size": 11.805882352941177
+      },
+      "processing_time": 0.07392358779907227
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Convert Visio files to PDF (Acrobat Pro) \nPDFs created from Visio files preserve page sizes and support layers, searchable text, custom \nproperties, links, bookmarks, and comments, depending on the conversion settings. To specify \nthe properties \n\u2022 \n(Visio 2010) From the ribbon choose Acrobat > Preferences \nWhen you convert your Visio file, only shapes and guides that are printable and visible in the \nVisio drawing are converted and appear in the PDF. Shapes are converted regardless of their \nprotection or behavior. Shape custom properties can be converted to PDF object data. \nWhen you convert the Visio file to a PDF, you can preserve all or just some layers, or you can \nflatten all layers. If you flatten layers, the PDF will look like the original drawing, but won\u2019t \ncontain any layer information. When flattened, the contents of only visible and printable layers \nwill appear in the converted PDF. \n \nConvert Visio files \n1. If you want to change the PDFMaker conversion settings, do the",
+      "page_number": 29,
+      "language": {
+        "en": 0.999997450547333
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 26,
+        "avg_sentence_length": 12.884615384615385,
+        "avg_font_size": 11.938202247191011
+      },
+      "processing_time": 0.07129812240600586
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "for selecting and saving the new PDF and also starts Acrobat, if it is not already running. The \nresulting PDF is attached to the open email message. \n \nConvert email messages to a new PDF \n1. In Outlook or Lotus Notes, select the individual email messages. \n2. Do one of the following: \n\u2022 \n(Outlook) Choose Acrobat > Selected Messages > Create New PDF. \n\u2022 \n(Lotus Notes) Choose Actions > Convert Selected Messages To Adobe PDF. \n3. In the Save Adobe PDF As dialog box, select a location, type a filename, and \nclick Save. \n \nAdd email messages or folders to an existing PDF \n1. In Outlook or Lotus Notes, select the individual email messages or folders. \n2. Do one of the following: \n\u2022 \n(Outlook) Choose Acrobat > Selected Messages > Append To Existing PDF, \nor Acrobat > Selected Folders > Append To Existing PDF. \n  \nNote: If you have already created one or more PDF Portfolios, you can choose from \nrecently created PDF Portfolios in addition to the Append To Existing PDF option. \n \n\u2022 \n(Lotus No",
+      "page_number": 24,
+      "language": {
+        "en": 0.9999952276216026
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 25,
+        "avg_sentence_length": 13.36,
+        "avg_font_size": 11.943965517241379
+      },
+      "processing_time": 0.0940394401550293
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Convert email messages to PDFs \nYou can use PDFMaker to convert one or more Microsoft Outlook or Lotus Notes email \nmessages or entire folders of messages to a merged PDF or PDF Portfolio. Within a PDF \nPortfolio, each email message appears as a separate PDF file. \nThe Acrobat PDFMaker Conversion Settings dialog box contains the option that determines \nwhether email messages are merged into one continuous PDF or assembled into a PDF \nPortfolio. \nThe controls that activate an email conversion to PDF appear in two places within the email \napplication: on the Acrobat PDFMaker toolbar and on a menu. In Outlook, the menu is \ncalled Adobe PDF and appears to the right of the Outlook Help menu. In Lotus Notes, PDF \ncommands appear under the Actions menu. \nNote:  \nYou can convert one currently open email message to PDF (not to a PDF Portfolio) by \nchoosing File > Print, and selecting Adobe PDF as the printer in the Print dialog box. The \nPDFMaker conversion settings do not affect this process. ",
+      "page_number": 23,
+      "language": {
+        "en": 0.9999952673965713
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 17.27777777777778,
+        "avg_font_size": 12.227272727272727
+      },
+      "processing_time": 0.07839822769165039
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "What\u2019s the best way to create a PDF? \nYou can create PDFs from documents printed on paper, Microsoft Word documents, InDesign\u00ae \nfiles, digital images, and more. Di\ufb00erent types of sources have di\ufb00erent tools available for PDF \nconversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in \nthe Print dialog box. \nIf a file is open in its authoring application (such as a spreadsheet that is open in Microsoft \nExcel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is \nalready open, you don\u2019t have to open the authoring application to convert a file to PDF. \nEvery PDF balances e\ufb03ciency (small file size) and quality (such as resolution and color). If the \nbalance between the file size and the quality is critical to your task, you must use an \nappropriate conversion method. \nFor example, you can drag files to the Acrobat icon to create PDFs. In this case, Acrobat \napplies the most recently used conversion settings without providing a",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999973728367233
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 17.235294117647058,
+        "avg_font_size": 12.380952380952381
+      },
+      "processing_time": 0.09130287170410156
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page, you\u2019ll be prompted to \nchoose which Visio layers to include. \n1. Click Convert To Adobe PDF, specify a location and filename, and click Save. \n \nSelect Visio layers to convert (Acrobat Pro) \nYou can convert a Visio drawing that contains layers to a PDF and retain some or all of the \nlayers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers \nin layer sets, which are folders in the Acrobat Layers panel. \n1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and \nselect Retain Some Layers In The Selected Page. \n  \nNote: If the Retain Some Layers In The Selected Page option is not available, deselect \nthe Convert All Pages In Drawing option. \n2. Select one or more layers in the Layers In Visio Drawing list. \n3. To add the selected Visio layers to the list of layers to convert to the PDF file, do one \nof the following: \n\u2022 \nTo convert the selected Visio layers",
+      "page_number": 1,
+      "language": {
+        "en": 0.9999952793284905
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 22,
+        "avg_sentence_length": 17.954545454545453,
+        "avg_font_size": 11.854545454545455
+      },
+      "processing_time": 0.06236553192138672
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Select AutoCAD layers to convert \nIf you choose to retain all or some AutoCAD layers when converting to PDF, you can specify \nwhich layers are preserved in the PDF. \n1. In AutoCAD, start to convert an AutoCAD file and select the Retain All Or Some \nLayers option. \n2. To show specific AutoCAD layers in the Layers In Drawing list, do any of the \nfollowing: \n\u2022 \nChoose an option from the Named Layer Filters menu to list all layers that fit \nthat criterion. \n\u2022 \nSelect the Invert option to list all layers except those layers that are described \nby the selected choice in the Named Layer Filters menu. \n\u2022 \nTo change the sort order of the layers, click the headings. \n  \nNote: To change the On, Frozen, or Plot properties for a layer, click Cancel, change \nthe properties in the AutoCAD drawing, and restart the procedure. \n3. To select the AutoCAD layers to convert, do any of the following: \n\u2022 \nChoose a previously saved set of layers from the PDF Layer Settings menu. \n\u2022 \nSelect one or more layers f",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999969190230591
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 15.125,
+        "avg_font_size": 11.676724137931034
+      },
+      "processing_time": 0.08687400817871094
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Create PDFs by printing to file \nIn many authoring applications, you can use the Print command with the Adobe PDF printer to \nconvert your file to PDF. Your source document is converted to PostScript and fed directly to \nDistiller for conversion to PDF, without manually starting Distiller. The current Distiller \npreference settings and Adobe PDF settings are used to convert the file. If you\u2019re working with \nnonstandard page sizes, create a custom page size. \nNote:  \n(Windows) For Microsoft Office documents, the Adobe PDF printer does not include some of \nthe features that are available from PDFMaker. For example, you cannot create bookmarks and \nhyperlinks using the Adobe PDF printer. If you\u2019re creating a PDF from a Microsoft \nOffice document and you want to use these features, use PDFMaker. \nThe Adobe PDF printer creates untagged PDFs. A tagged structure is required for reflowing \ncontent to a handheld device and is preferable for producing reliable results with a screen \nreader. \n \nC",
+      "page_number": 12,
+      "language": {
+        "en": 0.9999973691439104
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 14.25,
+        "avg_font_size": 12.455223880597014
+      },
+      "processing_time": 0.09181761741638184
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Convert AutoCAD files to PDF (Acrobat Pro for \nWindows) \nUse PDFMaker to convert AutoCAD files from within the AutoCAD application. You can also use \nthe Batch Conversion feature to convert many AutoCAD files in one operation. Acrobat \nPDFMaker preserves selected layers and layouts when converting AutoCAD files to PDF. \n \nConvert AutoCAD files when AutoCAD is installed \nWhen converting individual AutoCAD files, you don't usually need to change page size and \nplotting settings. PDFMaker uses the appropriate layout page size and plotting information to \ncreate a correctly sized PDF file. \nNote:  \nAcrobat can't convert DWG to PDF without AutoCAD installed. \n1. To change the PDF conversion settings, choose Adobe PDF > Change Conversion \nSettings in AutoCAD. \n2. Do one of the following: \n\u2022 \nClick a button in the Adobe PDF toolbar: Convert To Adobe \nPDF \n or Convert To Adobe PDFAnd Send For Review \n. \n\u2022 \nChoose Adobe PDF > Convert To Adobe PDF.  \n\u2022 \nChoose Adobe PDF > Convert To Adobe PDF An",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999974015095425
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 23,
+        "avg_sentence_length": 12.478260869565217,
+        "avg_font_size": 12.08673469387755
+      },
+      "processing_time": 0.07362079620361328
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Adjusts the size of each worksheet so that all the entries on that worksheet appear on the same \npage of the PDF. \nFit To Paper Width \nAdjusts the width of each worksheet so that all the columns on that worksheet appear on one \npage in the PDF. \nPrompt For Selecting Excel Sheets \nOpens a dialog box at the beginning of the file conversion process. In this dialog box, you can \nspecify which worksheets are included in the PDF and the order in which the sheets appear in \nthe PDF. \n \nPowerPoint-specific options on the Settings tab \nPreserve Slide Transitions \nConverts PowerPoint slide transition effects to PDF transition effects. \nConvert Hidden Slides To PDF Pages \nConverts any PowerPoint slides that are not seen in the usual playing of the presentation to \nPDF pages. \nConvert Speaker Notes \nConverts any speaker notes for the PowerPoint presentation into Text notes in the PDF. \n \nEmail-specific options on the Settings tab \nThe following options appear when you open the PDFMaker settings fr",
+      "page_number": 7,
+      "language": {
+        "en": 0.9999988262866829
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 19.214285714285715,
+        "avg_font_size": 12.428571428571429
+      },
+      "processing_time": 0.07470822334289551
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "3. In the dialog, select the image file you want to insert. \n4. Select where you want to insert the image or select drag to resize it as you insert. \nA copy of the image file appears on the page, with the same resolution as the original \nfile. \n5. Once the image is added, you can take any of the following actions: \n\u2022 \nTo move the image, hover over the image, press and hold the move icon, and \nthen drag the image to the desired location.  \n\u2022 \nTo resize the image, select the image, hold the resize corner handles, and then \ndrag the handles in or out to reduce or enlarge the image size.  \n \nModify images in a PDF \nTo modify images in a PDF, select Edit from the global bar. Select the image you want to \nmodify, then from the Edit panel, under Adjust Objects, select one of the following tools: \n\u2022 \n Flip Vertical: Flips the image vertically, on the horizontal axis. \n\u2022 \n Flip Horizontal: Flips the image horizontally, on the vertical axis. \n\u2022 \n Rotate left: Rotates the selected image 90\u00b0 in th",
+      "page_number": 14,
+      "language": {
+        "en": 0.9999975620236473
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 15.625,
+        "avg_font_size": 11.306666666666667
+      },
+      "processing_time": 0.09089064598083496
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "1. From the left menu, select Video. \n2. Drag your cursor on the document where you want to add the video. \n3. In the Insert Video dialog that appears, browse and select the video file that you \nwant to add. \n4. Select OK. \n4. To add sound to the PDF: \n1. From the left menu, select Sound. \n2. Drag the cursor over the text or image that you want to add sound to. \n3. In the Insert Sound dialog that appears, browse and select the audio file that \nyou want to add. \n4. Select OK. \n5. To add 3D Media to the video: \n1. From the left menu, select 3D Media. \n2. Once the button coordinates appear, move the mouse to a desired location \nand place the button. \n3. In the dialog that appears, browse and select the file. \n4. Select Ok.  \n \nEdit an image outside Acrobat \nYou can edit an image or graphic using another application, such as Photoshop, Illustrator, or \nMicrosoft\u00ae Paint. When you save the image or graphic, Acrobat automatically updates the PDF \nwith the changes. The applications that appear",
+      "page_number": 16,
+      "language": {
+        "en": 0.9999980945578729
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 36,
+        "avg_sentence_length": 9.11111111111111,
+        "avg_font_size": 11.950495049504951
+      },
+      "processing_time": 0.09299468994140625
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "the handle to resize the text block. \n \nAdd or edit lists \nYou can add items to a numbered or bulleted list, create list items, convert a paragraph to a \nlist item, and conversely. You can also change list types. \n1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent.  \n2. To add or remove items from a numbered or bulleted list: \n\u2022 Note: You can add or remove items to the list at all nested levels using the \nsame familiar controls that you use in Microsoft\u00ae Office. For example, \npress Enter at the end of a list item to insert a new row. Press Backspace to \nremove the new row and position the cursor back to the end of the previous \nlist item. \nTo create a numbered or bulleted list: \n1. Place the cursor in the document at the location where you want to add a list. \n2. Choose the appropriate list type under Format Text. \nTo convert an existing paragraph to a list item: \n\u2022 \nPlace the cursor in the paragraph, and then choose the appropriate list type \nu",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999976701350198
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 26,
+        "avg_sentence_length": 9.961538461538462,
+        "avg_font_size": 12.083333333333334
+      },
+      "processing_time": 0.08460521697998047
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "\u2022 \nCharacter, paragraph, and line spacing \n\u2022 \nHorizontal scaling \nThese text properties are automatically applied to the text that you add at the point of click. \n  \nYou can change the text properties using the options under Format in the left pane. \n4. Type the text. \n5. To resize the text box, drag a selection handle. \n6. To move the text box, place the pointer over the line of the bounding box (avoid the \nselection handles). When the cursor changes to Move pointer \n, drag the box to the \nnew location. To maintain alignment with the other list items, press Shift as you drag. \n \nMove, rotate, or resize a text box \nYou can move or rotate text boxes on a page. The Edit tool outlines each text box, so it's clear \nwhat text is affected. Edits are confined to the page. You can't drag a text block to another \npage, or move or rotate individual characters or words within a text box. However, you can \ncopy text boxes and paste them on another page. \nResizing a text box causes the text to refl",
+      "page_number": 7,
+      "language": {
+        "en": 0.9999980517387463
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 10.208333333333334,
+        "avg_font_size": 11.92156862745098
+      },
+      "processing_time": 0.07425498962402344
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Edit images or objects in a PDF \n \nAbout editing text and images \nAdobe Acrobat provides powerful tools and capabilities for editing PDF images and text.  \nYou might encounter formatting challenges that require manual adjustments. Acrobat's \nimage-editing capabilities are limited, and using high-resolution images can lead to \nperformance issues due to larger file sizes. To address this, improve images using other tools \nbefore adding them to PDF documents. \nIf the original font isn't available, font substitutions may occur, altering the text's appearance. \nTo maintain consistency across devices, we suggest you use the available fonts or embed \nthem within the PDF. \nYou can also enhance document accessibility using Acrobat's features, such as adding \nalternative text for images and proper content tagging. \nRefer to the following topics to learn how to add, resize, move, or replace images and objects \nin a PDF using Acrobat. \n \nAdd images in a PDF \n1. Open the PDF in Acrobat. Select Edit",
+      "page_number": 13,
+      "language": {
+        "en": 0.9999978265314513
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 14.785714285714286,
+        "avg_font_size": 12.88888888888889
+      },
+      "processing_time": 0.07855081558227539
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Edit Scanned PDFs \nEditing a scanned PDF can be complicated if it includes low-quality text or images, non-\neditable text, line breaks, or complex formatting. Other inhibiting factors include compatibility \nissues, security restrictions, and large file sizes, which are more prevalent in PDFs created from \nscanned images. \nTo streamline the process, consider the following best practices and guidelines before editing \na scanned document: \nCheck the accuracy of optical character recognition (OCR) output. When you open a \nscanned document, Acrobat automatically runs OCR in the background to make the \ndocument editable. Before editing, review the document to ensure that the content is \naccurate and complete. If necessary, rescan the document using the Scan & OCR > Recognize \nText tool to improve the output. \nEnhance image quality. If the scanned PDF contains low-quality images, use the Enhance \nscanned file or Enhance camera image feature to improve the quality of images before \nattempting ",
+      "page_number": 14,
+      "language": {
+        "en": 0.9999981644153593
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 26,
+        "avg_sentence_length": 13.923076923076923,
+        "avg_font_size": 12.385964912280702
+      },
+      "processing_time": 0.06588554382324219
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Move or copy pages in a PDF \nTo copy or move pages within a document, use the page thumbnails in the right navigation \npane or the document area. You can also transfer pages between documents using these \nthumbnails. In the Organize Pages view, drag and drop thumbnails to rearrange pages, or \nselect a thumbnail and copy it as needed. \n \nMove or copy a page \n1. Open the PDF in Acrobat, and select All tools > Organize pages.  The page thumbnails \nare displayed in the Document area. \n2. Select one or more page thumbnails. \n3. Do one of the following: \n  \n\u2022 \nTo move a page, drag the corresponding page thumbnail to the new location. \nA bar will appear to show the new position of the page thumbnail. The pages \nwill be renumbered. \n\u2022 \nTo cut or copy a page, select the page, and then select the ellipsis icon   in the \ncontext menu bar displayed next to it. Select Cut or Copy from the context \nmenu. Select between the page thumbnails where you want to paste the page. \nA blue horizontal marker s",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999968134363055
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 30,
+        "avg_sentence_length": 10.533333333333333,
+        "avg_font_size": 12.275862068965518
+      },
+      "processing_time": 0.0987236499786377
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Extract pages from a PDF \nExtraction is reusing selected pages of one PDF in a different PDF. Extracted pages include the \ncontent and the form fields, comments, and links of the original document. \nYou can leave the extracted pages in the original document or remove them during \nextraction. \nNote: Any bookmarks or article threadings associated with pages aren't extracted. \n1. Open the PDF in Acrobat. From the upper left, select All Tools > Organize pages. \n2. Specify the page range or the pages you want to extract. Select the drop-down menu \nunder PAGES SELECTED, then select the appropriate option. Alternatively, you can \nenter the page number you want to operate on. \n3. Select Extract pages   under PAGE OPTIONS. \n4. In the dialog, select one or more of the following before you select Extract: \n  \n\u2022 \nTo remove the extracted pages from the original document, select Delete \npages after extracting. \n\u2022 \nTo create a single-page PDF for each extracted page, select Extract pages as \nseparate",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999969148634285
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 27,
+        "avg_sentence_length": 11.62962962962963,
+        "avg_font_size": 12.006024096385541
+      },
+      "processing_time": 0.0955345630645752
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "You can't delete all pages; at least one page must remain in the document. \nNote: If you select Use Logical Page Numbers in the Page Display panel of \nthe Preferences dialog box, you can enter a page number in parentheses to delete the \ncorresponding page. For example, if the first page in the document is numbered i, you can \nenter (1) in the Enter Page Range list, and the page is deleted. \n \nDelete a page in a PDF \n1. Select All tools > Organize pages. The page thumbnails are displayed in the \nDocument area. \n2. Select a page thumbnail of the page you want to delete. Then, select Delete \npages\n from the contextual toolbar that appears next to the selected page \nthumbnail.  \n \nReplace pages in a PDF \n1. Open the PDF that contains the pages you want to replace. \n2. Select All tools > Organize pages. The page thumbnails are displayed in the \nDocument area. \n3. In the left tools pane, select Replace. The file explorer window appears. \n4. Select the document containing the replacement page",
+      "page_number": 11,
+      "language": {
+        "en": 0.9999981278681284
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 31,
+        "avg_sentence_length": 9.03225806451613,
+        "avg_font_size": 12.282608695652174
+      },
+      "processing_time": 0.07852792739868164
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Renumber pages in a PDF \nThe page numbers on the document pages don't always match the page numbers that appear \nbelow the page thumbnails and in the right Page Navigation toolbar. Pages are numbered \nwith integers, starting with page 1 for the first page of the document. Because some PDFs may \ncontain front matter, such as a copyright page and table of contents, their body pages may \nnot follow the numbering shown in the right Page Navigation toolbar. \n \nYou can specify various numbering styles for a group of pages, for example, 1, 2, 3, or i, ii, iii, or \na, b, c. You can also customize the numbering system by adding a prefix. For example, pages \nin Chapter 1 can be 1-1, 1-2, 1-3, and so on. Chapter 2 can have pages numbered as 2-1, 2-2, 2-3, \nand so on. \nNote: Using the Number Pages command affects only the page thumbnails on \nthe Pages panel. You can physically add new page numbers to a PDF using the headers and \nfooters feature. \n1. Select All tools from the global bar. Then selec",
+      "page_number": 13,
+      "language": {
+        "en": 0.9999970235245064
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 13.526315789473685,
+        "avg_font_size": 12.444444444444445
+      },
+      "processing_time": 0.10522270202636719
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Recover the last saved version \n1. On Windows, choose the hamburger   Menu > Undo, Redo & more > Revert. \nOn macOS, select the File menu > Revert. \nAbout the Autosave feature \nThe Autosave feature guards against losing your work in case of a power failure by \nincrementally, and at regular intervals, saving file changes to a specified location. The original \nfile is not modified. Instead, Acrobat creates an autosave file of changes, which includes all the \nchanges you made to the open file since the last automatic save. The amount of new \ninformation that the autosave file contains depends on how frequently Acrobat saves the \nautosave file. If you set the autosave interval to 15 minutes, you could lose the last 14 minutes \nof your work if a problem occurs. Frequent automatic saving prevents loss of data, and is \nespecially useful if you make extensive changes to a document, such as by adding comments. \nYou can apply autosave changes to the original files when you restart Acrobat. When y",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999960839954609
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 17.526315789473685,
+        "avg_font_size": 11.883333333333333
+      },
+      "processing_time": 0.06025242805480957
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "File format op\u019fons for PDF export in Acrobat \nTo convert a PDF to different file formats, select Convert from the global bar. Each file format \nincludes unique conversion settings. Alternatively, you can use the Export a PDF tool from \nthe All tools menu. \nAdobe PDF options  \nYou can resave PDFs as optimized PDFs using settings in the PDF Optimizer dialog box. \nThe PDF Optimizer lets you change the compatibility version of your PDFs so they can be \nviewed using older versions of Acrobat or Acrobat Reader. When you change the \ncompatibility setting, newer features may be unavailable in the PDF. For an explanation of \neach compatibility setting, view PDF compatibility levels. \nNote:  \nIf you want to use the same settings every time you convert PDFs to a particular format, \nspecify those settings in the Preferences dialog box. In the Convert From PDF panel, select a \nfile format from the list and select Edit Settings. You can select the Defaults at the top of \nthe Save as Settings dialog ",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999970116180115
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 15.894736842105264,
+        "avg_font_size": 12.54054054054054
+      },
+      "processing_time": 0.09413862228393555
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Select and copy text and images \nThe Select tool \n  lets you select horizontal and vertical text or columns of text, images, \nvector objects, and tables in a PDF. The Select tool \n recognizes the type of content under \nthe cursor and changes automatically. You can use the Copy, Copy with Formatting, Export \nSelection As, and Paste commands to copy the selected text into another application. Note \nthe following: \n\u2022 \nIf you\u2019re unable to select text, the text may be part of an image. In Acrobat, select All \ntools > Scan & OCR, then select In this file under RECOGNIZE TEXT to export image \ntext to text that can be selected. \n\u2022 \nIf the Cut, Copy, Copy with Formatting, and Paste commands are unavailable when \nyou select the text, the author may have set restrictions to copying text. \n\u2022 \nIf the text you copy uses a font that isn\u2019t available on your system, the font is \nsubstituted with a close match or default font. \n \nSelect text and images \n1. Select the Select tool  \n, and hover over an em",
+      "page_number": 28,
+      "language": {
+        "en": 0.9999956686956181
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 15.789473684210526,
+        "avg_font_size": 12.193548387096774
+      },
+      "processing_time": 0.10725164413452148
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "PDF to PS and EPS conversion se\u01abngs \nIn Acrobat, select All tools > Export a PDF and select Other format. From the drop-down menu \nnext to Other format, select PS or EPS. Select the \nsettings icon to change the export \npreferences.  \nPrinter Description File \nThe PostScript Printer Description (PPD) provides the necessary information to format a \nPostScript file correctly for a particular output device. Device Independent creates only \ncomposite (not color-separated) PostScript or EPS files. Acrobat Default provides a starting \npoint and reference for creating all types of PostScript and restores all default settings for the \nconversion. Adobe PDF 7.0 is compatible with most devices. This option is available only in \nPostScript (PS) format. \nASCII or Binary \nSpecifies the output format of image data. Binary output yields smaller files, but not all \nworkflows can accommodate binary output. \nPostScript \nSpecifies the level of PostScript compatibility. Use Language Level 3 only if the tar",
+      "page_number": 21,
+      "language": {
+        "en": 0.9999973165856526
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 22,
+        "avg_sentence_length": 13.363636363636363,
+        "avg_font_size": 12.39344262295082
+      },
+      "processing_time": 0.09151387214660645
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "decompressed. The default value of 256 is recommended. This option is available only \nfor JPEG 2000 format. \n\u2022 \nFormat: Determines how the file is displayed. Available only in JPEG format. It \nprovides the following options: \n\u2022 \nBaseline (Standard): Displays the image when it has fully downloaded. This \nJPEG format is recognizable to most web browsers. \n\u2022 \nBaseline (Optimized): Optimizes color quality of the image and produces \nsmaller file sizes but is not supported by all web browsers. \n\u2022 \nProgressive (3 scans-5 scans): Downloads the image first as a low-resolution \nimage, with incremental quality improvements as downloading continues. \n \nColor management \nRGB/CMYK/Grayscale \nSpecifies the type of color management to be applied to the output file and whether to \nembed an ICC profile. \nNote:  \nIf you use the Export To or Export All Images command on a PDF that contains JPEG and \nJPEG 2000 images, and export the content to JPEG or JPEG 2000 format, the resulting image \nmay look differe",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999976031915092
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 14.6,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.08902096748352051
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Take a snapshot of a page \nYou can use the Snapshot tool to copy all selected content (text, images, or both) to the \nclipboard or another application. Text and images are copied as an image. \nYou can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select \ntool \n, draw a rectangle, right-click, and select Take a Snapshot. \nTo use the Snapshot tool, do the following: \n1.  (Windows) Select the hamburger menu   in the upper left. Then select Undo, Redo & \nmore. \n(macOS) Select Edit in the upper left. Then select Undo, Redo and More \n2. Do one of the following: \n  \n\u2022 \nSelect anywhere on the page to capture the entire content displayed on the \nscreen. \n\u2022 \nDrag a rectangle around the text or images or a combination of both. \n\u2022 \nDrag a rectangle within an image to copy just a portion of the image. \nColors in the selected area are inverted momentarily to highlight the selection. \nThe selection is copied automatically to the clipboard when you release the \nmouse/touc",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999973561275648
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 12.5,
+        "avg_font_size": 11.957446808510639
+      },
+      "processing_time": 0.08978629112243652
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Copy images \nUse the Select tool to copy and paste individual images from a PDF to the clipboard, another \napplication, or a file. \nOpen the Preferences dialog box if you cannot select an image because of overlapping text. \nSelect Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then \nselect Preferences. Under Categories, Select General. Then select the Make Select tool select \nimages before text. \n1. Using the Select tool \n, do one of the following: \n\u2022 \nTo select the entire image, select the image or drag a rectangle around it. \n\u2022 \nTo select a portion of an image, hold the pointer over the image until the cross-\nhair icon \n appears, and then drag a rectangle around the portion. \n  \nNote: To deselect an image and start over, click outside it. \n \n2. Right-click the image and select copy. Once done, you can paste it to a new file or a \nclipboard.",
+      "page_number": 1,
+      "language": {
+        "en": 0.9999965136021769
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 12.666666666666666,
+        "avg_font_size": 12.9625
+      },
+      "processing_time": 0.08080363273620605
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Export objects to separate PDF \nUsing the Edit Object tool, you can save objects into a separate PDF. \n1. Select All tools > Use print production > Edit object. \n2. Select the object or objects. \n3. Right-click the selection, and choose Save Selection As. \n4. In the Save As dialog, specify where you want to save the file, name the file, and then \nselect Save.",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999987720837242
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 7.222222222222222,
+        "avg_font_size": 13.5
+      },
+      "processing_time": 0.07079052925109863
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Clear unsaved form entries \n1. Choose Tools > Prepare a form. In the Fields side panel, choose Clear Form from the \nOptions menu  . \n \nYou can sign a document to attest to its contents or approve the document. This document \nexplains how to sign a document or agreement using Acrobat or Reader desktop application. \nTo sign a PDF document or form, you can type, draw, or insert an image of your handwritten \nsignature. You can also add text, such as your name, company, title, or date. When you save \nthe document, the signature and text become part of the PDF. \nNote:  \nYou can also capture a picture of your signature on mobile using Adobe Acrobat Reader mobile \napp and save it in Adobe cloud storage so that it's synced and available for use across your \ndesktop and other mobile devices. \n1. Open the PDF document. Select E-sign from the global bar.  \n2. Create your signature and initials if not already done. To do so: \n1. To add a signature, select Add signature. In the dialog that appears, ",
+      "page_number": 15,
+      "language": {
+        "en": 0.9999975254085312
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 35,
+        "avg_sentence_length": 10.514285714285714,
+        "avg_font_size": 12.194029850746269
+      },
+      "processing_time": 0.09786105155944824
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "6. Select Apply, and then click on the place in the PDF where you want to place the \nsignature or initial. \n7. To move the placed signature or initial, select the field to highlight it and then use \nthe arrow keys. To resize or delete the field, use the options in the field toolbar. \nNote:  \nIf you want to use an image as your signature: \n\u2022 \nSign your name in black ink on a clean, blank sheet of white paper. Sign in the middle \nof the paper so you don't photograph or scan the edges. \n\u2022 \nPhotograph or scan your signature. If you are taking a picture of your signature, make \nsure that the page is lit and that no shadows fall across the signature. \n\u2022 \nTransfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG, \nGIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader \nimports just the signature if the photo or scan is fairly clean. \n \nSign an agreement \nIf you receive an email request for a signature from someone using Adobe Acrobat Sign, yo",
+      "page_number": 16,
+      "language": {
+        "en": 0.9999948917694199
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 26,
+        "avg_sentence_length": 12.807692307692308,
+        "avg_font_size": 12.038461538461538
+      },
+      "processing_time": 0.08797717094421387
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "\u2022 \nType: Type your name in the field. You can choose from a small selection of \nsignature styles; click Change Style to view a different style. \n\u2022 \nDraw: Draw your signature in the field. \n\u2022 \nImage: Browse and select an image of your signature. \n\u2022 \nMobile: Select this option to create your signature on a mobile device. Enter \nyour mobile number and click Send. A link is sent to your mobile. Clicking \nthe link opens the web browser on your mobile device where you can draw \nor select an image of your signature. \n\u2022 \nSave: When this check box is selected, and you're signed in to Acrobat \nReader or Acrobat, the added signature is saved securely in Adobe cloud \nstorage for reuse. \n5. Once you complete all the fields and sign, select Click To Sign. \n \nSign using the email link \n1. Select the link of the agreement received in your email for signing. The agreement \nopens in a web browser. \n2. Select the fields and enter the requested information. \n3. Select the signature field and then select A",
+      "page_number": 17,
+      "language": {
+        "en": 0.9999956887077619
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 29,
+        "avg_sentence_length": 10.517241379310345,
+        "avg_font_size": 12.123376623376624
+      },
+      "processing_time": 0.07160401344299316
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Types of PDF forms  \n\u2022 \nInteractive forms: These contain fields that you can select and fill in. \n\u2022 \nFlat forms: These do not have interactive fields. It could be a paper form or PDF that \nhasn\u2019t been optimized for form filling. The Fill & Sign tool automatically detects the \nform fields like text fields, comb fields, checkboxes, and radio buttons. You can \nmanually add text and other symbols anywhere on the form using the Fill & Sign tool if \nrequired. \nYou can complete the forms by entering information and adding your signatures. Acrobat \nalso allows you to send your completed forms to others and securely save them in Adobe \ncloud storage. \n \nFill and sign PDF forms \nTo complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the \nglobal bar. Alternatively, you can select All tools > Fill & Sign. \nIt displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the \nform using the sign tools described in the following topics. \n",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999972565117734
+      },
+      "keywords": [
+        "form"
+      ],
+      "text_features": {
+        "num_sentences": 24,
+        "avg_sentence_length": 12.25,
+        "avg_font_size": 12.333333333333334
+      },
+      "processing_time": 0.06440615653991699
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Auto-Complete forms (interactive forms \nonly) \nThe Auto-Complete feature stores any entries that you type in an interactive form field. Auto-\nComplete then suggests or even automatically enters responses that match your typing in \nother form fields. The suggestions appear in a pop-up menu, from which you can select a \nmatch. The Auto-Complete feature is off by default, so you must enable it in the forms \npreferences if you want to use it. \nTo remove an entry from the Auto-Complete memory, such as a misspelled entry that you \nfound and corrected later, edit the list in the preferences. \nNote:  \nThe forms preferences apply to the way that the application handles open forms as you work. \nThe preferences aren\u2019t saved with the PDF forms themselves. \n \nEnable the Auto-Complete option \n1. From the hamburger menu, select Preferences (Windows\u00ae), or select Acrobat \n/ Acrobat Reader > Preferences (macOS). \n2. In the Preferences dialog, select Forms as the preference category. \n3. Under Auto-Compl",
+      "page_number": 10,
+      "language": {
+        "en": 0.9999979561558434
+      },
+      "keywords": [
+        "form"
+      ],
+      "text_features": {
+        "num_sentences": 23,
+        "avg_sentence_length": 10.869565217391305,
+        "avg_font_size": 12.559139784946236
+      },
+      "processing_time": 0.0678870677947998
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "purposes that do not include training a Large Language Model (\u201cLLM\u201d). Examples of \nproduct improvement include improving the operability of generative AI in Acrobat \nand Acrobat Reader, as well as reducing hallucination, bias, and toxicity. If you do not \nwish to share your content, please uncheck the product improvement checkbox when \nyou first provide feedback on a document. \nIf manual review of your content takes place, a limited group of trained Adobe personnel \nexamine the content within an encrypted repository with access controls. \nWhat steps do we take to protect your content when you share it with us as part of \nproviding feedback? \n\u2022 \nWhen you share your documents, textual prompts, and the generated responses with \nus when providing feedback, we take steps to filter out personal information by \napplying data masking procedures to this content (i.e., replacing personal information \nwith predefined categories using Named Entity Recognition, e.g., replacing \u201cJohn \nSmith\u201d with \u201cP",
+      "page_number": 5,
+      "language": {
+        "en": 0.9999950208829633
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 22.85,
+        "avg_font_size": 11.857142857142858
+      },
+      "processing_time": 0.07493734359741211
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "cues indicating where generated information came from. However, because the AI Assistant is \npowered by generative AI models, and the technology is still evolving and not perfect, not all \nanswers are helpful or accurate. As a result, the AI Assistant may not find and display answers \nto your questions \u2014 even when the information is in your document. And rarely, the AI \nAssistant may provide incorrect attributions. For example, you may receive a clickable citation \nor cue that takes you to an unrelated section instead of providing helpful information on \nwhere the answer came from in the document. Please double-check all AI-generated \nresponses. \nPlease note that in our current version, if the language of the question and response is \ndifferent than the language of your document, AI Assistant won't provide any attribution. In \nsuch scenarios, you can try asking questions in the language of the document to receive \nclickable citations in the response.  \nFeedback \nWe provide a feedback m",
+      "page_number": 4,
+      "language": {
+        "en": 0.999994545332264
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 20.80952380952381,
+        "avg_font_size": 11.891304347826088
+      },
+      "processing_time": 0.08368706703186035
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "app experience as described above. After activation, a user must engage AI Assistant or \ngenerative summary on a specific file before processing takes place. \nNote:  \nThe generative AI features are only available in English for users with Individual or Teams \nentitlements. Users with Enterprise entitlements may only receive Acrobat generative AI \nfeatures when their admin assigns them with a paid or trial license, or if they are accepted into \none of the programs in our private beta.   \nYou can disable the generative AI feature by following the steps outlined here. Once disabled, \nno documents will be processed through generative AI in Acrobat until you activate the \nfeature set again. \nWhat LLMS are we leveraging to power generative ai in acrobat? \nWith AI Assistant in Acrobat and Acrobat Reader, Adobe takes an LLM-agnostic approach, \nselecting best-in-class technologies that address a range of customer use cases. We currently \nhave integrated the Microsoft Azure OpenAI Service with o",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999952726486643
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 22,
+        "avg_sentence_length": 16.59090909090909,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.1050107479095459
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile \napps (iOS and Android). It isn't available on iPad or Android tablets.  \n \n \nBenefits of generative AI features \nThe generative AI features in Acrobat and Acrobat Reader significantly improve \ncomprehension, help you get insights, and produce high-quality content quickly. Here are the \nmain benefits. \n \n- \nImproved comprehension: You can better understand complex PDF documents \nbecause the features provide insights and more context around the content. \n- \nEnhanced productivity: Work across multiple PDFs and documents in various formats, \nincluding Teams and Zoom meeting transcripts, streamlining your workflow and \nsaving time for higher-priority tasks. \n- \nImpactful content: You can use the content suggestions that the features generate for \nimpactful emails, presentations, meeting notes, and more. \n \nTurn off generative AI features \nThe generative AI features in Acrobat and Acrobat Reader are tu",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999969415307222
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 18.57894736842105,
+        "avg_font_size": 12.36734693877551
+      },
+      "processing_time": 0.06701183319091797
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Overview of generative AI features \nUse the generative AI features in Acrobat and Acrobat Reader to quickly scan through \nlengthy, complex PDF content and get answers or generate a summary. \n \nNote: The generative AI features in Acrobat and Acrobat Reader support English, French, \nGerman, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, \nreview Adobe's Generative AI User Guidelines. To understand Adobe's data handling \npractices, see Content usage and handling practices. \n \nThe AI-powered features in Acrobat and Acrobat Reader support multiple document types, \nincluding PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and \nZoom meeting transcripts. The capabilities improve comprehension and save time across \nvarious document types. \n \nAI Assistant quickly gets answers to your questions based on your documents in a \ncomprehensive and informative way. It can analyze multiple documents to uncover \nsimilarities, differences, and key p",
+      "page_number": 2,
+      "language": {
+        "en": 0.999996728114726
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 15.944444444444445,
+        "avg_font_size": 12.35483870967742
+      },
+      "processing_time": 0.06354761123657227
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Common questions \nI have multiple profiles associated with my Adobe account. How do I select which profile to \nsend a request from? \nIf you have multiple profiles associated with your organization-provided Adobe account, you \nmust first choose which profile to sign in with. Then, request a product from that profile. The \nrequest will be routed to the organization and administrators associated with that profile. \nWhat if I can\u2019t find the option to request access to AI Assistant for Acrobat? \nIf you can't find the option to request access to a product, your administrator may not have \nenabled the option for your organization. Contact your administrator to learn more. \nWhat notifications do I receive if a request is approved, declined, or pending?  \nYou receive email notifications when an administrator responds to your request, when the \nrequest has been pending for 30 days, or when it expires after 60 days. Learn more about \nthe statuses and notifications. \nWhat happens if my request is ",
+      "page_number": 16,
+      "language": {
+        "en": 0.9999973324661482
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 14.0625,
+        "avg_font_size": 14.08695652173913
+      },
+      "processing_time": 0.09018492698669434
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Request access in Acrobat \nIf you're a Teams user, your administrator can turn on the option to request access to the AI \nAssistant for Acrobat in the app. After you submit the access request, you must wait for further \nreview and approval by your admin before you're granted access. You can request access to \nthe AI Assistant for Acrobat from the Acrobat desktop app, Acrobat on the web, Acrobat \nbrowser extension, and Acrobat for Microsoft Teams. \n \n1. Launch Acrobat, and select Get access from the AI Assistant for Acrobat. \nSelect Get access \n2. In the Request access dialog, specify a business reason for requesting access to the AI \nAssistant for Acrobat. \n3. Select Send request. Your access request is submitted to the admin for review and \napproval. After the admin approves your request, you'll receive an email confirming \nthat the AI Assistant for Acrobat is available. \nNote: To check the status of your request, select Refresh on the AI Assistant. \n \nFor more information on requesti",
+      "page_number": 12,
+      "language": {
+        "en": 0.9999960240757709
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 15.857142857142858,
+        "avg_font_size": 12.7875
+      },
+      "processing_time": 0.07326793670654297
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "\u2022 \nOpen Acrobat, then select Try it now from the Try AI Assistant onboarding \ncard in the home view. Then select the files you want to add and select Next \nfrom the upper right.  \n2. When the file is added, chat displays the number of files added.  \n3. You can enter your question or choose from suggested questions. You get generated \nresponses. If you want to view the references of the generated responses, select the \nreference numbers next to the responses. AI Assistant opens the source file first and \nthen shows you the references. \n4. When you use the assistant with multiple files, a collection of those files is created and \nshown in the Recents tab. You can resume the assistant chat with those files. You can \nrename the collection of those files from the contextual bar (select the ellipsis next to \nthe file name to open the context bar) in the home view.  \nNote: \n\u2022 \nWhen you open the collection from the Recents tab, the chat resumes from where you \nleft off. \n\u2022 \nWhen you open any f",
+      "page_number": 10,
+      "language": {
+        "en": 0.9999969125907154
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 13.533333333333333,
+        "avg_font_size": 11.775
+      },
+      "processing_time": 0.08173274993896484
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Review the status of your request \nWhen you submit a request, it can be approved or denied, or the review can be pending. \n\u2022 \nApproved requests: If your request is automatically or manually approved, the product \nlicense is provisioned to your Adobe account. You'll receive an email notifying you when the \nlicense is available. \n\u2022 \nDenied requests: If you submit your request for review and an administrator denies your \nrequest, you'll receive an email notifying you why the request was denied. Once denied, you \ncan re-request the identical product from your organization using a more descriptive business \nreason. \n\u2022 \nPending requests: After you submit a request for administrator review, it's awaiting approval \nand can remain in that state for up to 60 days. You receive an email notification at 30 days that \nthe request is pending for review and again at 60 days when the request has expired. You \ncannot re-request a pending product.",
+      "page_number": 15,
+      "language": {
+        "en": 0.9999961999510666
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 8,
+        "avg_sentence_length": 19.25,
+        "avg_font_size": 12.88
+      },
+      "processing_time": 0.05371260643005371
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Prerequisites \nBefore deploying, ensure the following requirements are met: \n\u2022 \nUpdate Acrobat. Ensure Acrobat is up-to-date by following instructions in the Release \nNotes for Acrobat. Also, refer to the basic configuration settings. \n\u2022 \nEnable new Acrobat.  \n\u2022 \nAdministrators: To turn on the new Acrobat for users, use the registry key \nmentioned in the Acrobat Enterprise Toolkit (ETK). \n\u2022 \nUsers: Choose the hamburger menu (Windows) or View (macOS), then \nselect Enable new Acrobat. For details, see how to enable the new experience. \n\u2022 \nPDF services for user profiles.  \n\u2022 \nAcrobat desktop and mobile: To use AI Assistant for Acrobat, you need not \nturn on PDF services in the Admin Console. \n\u2022 \nAcrobat online: Turn on PDF services for the product profile assigned to users. \nSee how to turn on or turn off PDF services. \nNote:  \nAcrobat Classic does not support AI Assistant.",
+      "page_number": 17,
+      "language": {
+        "en": 0.9999975432321073
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 11.75,
+        "avg_font_size": 12.465116279069768
+      },
+      "processing_time": 0.07618594169616699
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "\u2022 \nDownload Form Field Data - Downloads a CSV file of the field-level content for all \nchild agreements spawned from this parent Bulk Send that have been completed. \n\u2022 \nDownload Individual Files - Provides the option to download the individual PDF files \nif multiple files were used to create the web form. \n\u2022 \nHide/Unhide Bulk Send- Hide/Unhiding the Bulk Send simply removes (or adds) the \nBulk Send from your normal Manage page view. \n\u2022 \nShare - Shares the Bulk Send along with its status with the user email you provide. \nShared web forms can be viewed on the Manage page, but do not allow editing. \n\u2022 \nA PDF copy of the Bulk Send parent document (without added fields) is emailed to the \nsharee. \n\u2022 \nView Activity Report \n\u2022 \nView the current status of all child agreements created by the Bulk Send parent \ntemplate. \n\u2022 \nAdd Notes - Allows the user to make personal notes for the Bulk Send. \n\u2022 \nAgreements summary/filter (green square) - The Agreements section shows up to five \nvalues that refle",
+      "page_number": 19,
+      "language": {
+        "en": 0.999997132960234
+      },
+      "keywords": [
+        "form"
+      ],
+      "text_features": {
+        "num_sentences": 22,
+        "avg_sentence_length": 18.954545454545453,
+        "avg_font_size": 11.368421052631579
+      },
+      "processing_time": 0.1023406982421875
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Certify options provide a higher level of document control than Digitally sign. For documents \nthat require certification, you must certify the documents before others sign them. If a \ndocument has already been signed, the Certify options are disabled. When you certify a \ndocument, you can control the types of changes other people can make. You can certify with \nor without displaying a signature. \nSignatures made with the Certify or Digitally sign options comply with data protection \nstandards specified by the European Telecommunications Standards Institute (ETSI). In \naddition, both signature types comply with the PDF Advanced Electronic Signature (PAdES) \nstandard. Acrobat and Acrobat Reader provide an option to change the default signing format \nto a CAdES format. This option is compliant with Part 3 of the PAdES standard. The timestamp \ncapability and native support for long-term validation of signatures (introduced in Acrobat \n9.1) is in compliance with Part 4 of the PAdES standar",
+      "page_number": 24,
+      "language": {
+        "en": 0.9999937442518805
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 30,
+        "avg_sentence_length": 13.433333333333334,
+        "avg_font_size": 11.846153846153847
+      },
+      "processing_time": 0.08696866035461426
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "2. Under Categories, select Signatures. \n3. For Identities & Trusted Certificates, select More. \n4. Expand Digital IDs on the left, select Roaming ID Accounts, and select Add \nAccount. \n5. Type the name and URL for the roaming ID server, and select Next. \n6. Type your user name and password, or follow the directions to create an account. \nSelect Next, and then select Finish. \nOnce the roaming ID is added, it can be used for signing or encryption. When you perform a \ntask that uses your roaming ID, you\u2019re automatically logged in to the roaming ID server if your \nauthentication assertion hasn\u2019t expired. \n \nPKCS#12 modules and tokens \nYou can have multiple digital IDs that you use for different purposes, particularly if you sign \ndocuments in different roles or using different certification methods. Digital IDs are usually \npassword protected. They can be stored on your computer in PKCS #12 file format. Digital \nIDs can also be stored on a smart card, hardware token, or in the Windows cer",
+      "page_number": 27,
+      "language": {
+        "en": 0.9999964761044118
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 28,
+        "avg_sentence_length": 12.607142857142858,
+        "avg_font_size": 12.493150684931507
+      },
+      "processing_time": 0.10181522369384766
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "For details on the full range of configuration options in enterprise settings, see \nthe Digital Signatures Guide. \n\u2022 \nChoose a signature type. Learn about approval and certification signatures to \ndetermine the type you should choose to sign your document. (See Signature types.) \n \nSet signing preferences \nSigning workflow preferences control what you can see and do when the signing dialog box \nopens. You can allow certain actions, hide and display data fields, and change how content \naffects the signing process. Setting signing preferences impacts your ability to see what you \nare signing. For information on the available signing preferences, see \u201cSigning Workflow \nPreferences\u201d in the Digital Signature Guide. \n \nCustomizing signature workflows using seed values \nSeed values offer additional control to document authors by letting them specify which \nchoices signers can make when signing a document. By applying seed values to signature \nfields in unsigned PDFs, authors can customize opt",
+      "page_number": 25,
+      "language": {
+        "en": 0.99999691109031
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 23,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 12.5
+      },
+      "processing_time": 0.08294296264648438
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Set privileges and permissions for others \n\u2022 \nCertify a document while leaving portions of it available for form filling, signatures, or \ncomments \n\u2022 \nUse Acrobat Pro software to enable users of Reader 9 or later to sign with certificate \nIDs \n\u2022 \nUse Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict \nusage such as printing, editing, or copying \n \nWhat if my organization isn\u2019t prepared to set up certificate-\nbased signatures? \nConsider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web \ncontracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent, \nsigned, and filed instantly. And best of all, Adobe hosts it securely, so your IT department \ndoesn\u2019t have to do the work of setting up a signature infrastructure. \n \nResources \nAdobe Approved Trust List (AATL): The Adobe Approved Trust List is a program that allows \nmillions of users worldwide to create digital signatures that are trusted whenever the si",
+      "page_number": 21,
+      "language": {
+        "en": 0.999997324878878
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 20.5625,
+        "avg_font_size": 12.310344827586206
+      },
+      "processing_time": 0.08631253242492676
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "For a list and explanation of each warning, see the DigSig Admin Guide. \n \nXML data signatures \nAcrobat and Acrobat Reader support XML data signatures that are used to sign data in XML \nForms Architectures (XFA) forms. The form author provides XML signing, validating, or \nclearing instructions for form events, such as button click, file save, or submit. \nXML data signatures conform to the W3C XML-Signature standard. Like PDF digital \nsignatures, XML digital signatures ensure integrity, authentication, and non-repudiation in \ndocuments. \nHowever, PDF signatures have multiple data verification states. Some states are called when a \nuser alters the PDF-signed content. In contrast, XML signatures only have two data verification \nstates, valid and invalid. The invalid state is called when a user alters the XML-signed content. \n \nEstablish long-term signature validation \nLong-term signature validation allows you to verify the signature's validity long after the \ndocument was signed. To achie",
+      "page_number": 10,
+      "language": {
+        "en": 0.9999926990894555
+      },
+      "keywords": [
+        "form"
+      ],
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 17.476190476190474,
+        "avg_font_size": 12.24074074074074
+      },
+      "processing_time": 0.09109640121459961
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "certificates that are signed and certified by a trust anchor. Therefore, administrators can \npreconfigure client installations or allow end users to add a trust anchor. \n \nSign component PDFs and PDF Portfolios  \nYou can sign component PDFs within a PDF Portfolio, or sign the PDF Portfolio as a whole. \nSigning a component PDF locks the PDF for editing and secures its content. After signing all \nthe component PDFs, you can sign the entire PDF Portfolio to finalize it. Alternatively, you can \nsign the PDF Portfolio as a whole to lock the content of all component PDFs simultaneously. \n\u2022 \nTo sign a component PDF, see Signing PDFs. The signed PDF is automatically saved to \nthe PDF Portfolio. \n\u2022 \nTo sign a PDF Portfolio as a whole, sign the cover sheet (View > Portfolio > Cover \nSheet). Once you sign the PDF Portfolio as a whole, you can\u2019t add signatures to the \ncomponent documents. However, you can add more signatures to the cover sheet. \n \nDigitally sign on attachments to component PDFs \nY",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999974088737916
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 27,
+        "avg_sentence_length": 13.481481481481481,
+        "avg_font_size": 12.350877192982455
+      },
+      "processing_time": 0.0892035961151123
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Note: You can right-click a signature field in the Signatures panel to do most signature-\nrelated tasks, including adding, clearing, and validating signatures. In some cases, however, \nthe signature field becomes locked after you sign it. \n \nSign in preview mode for document integrity \nWhen document integrity is critical for your signature workflow, you can enable 'View \ndocuments in Preview mode', and then sign the document. This feature analyzes the \ndocument for content that may alter the look and feel of the document and suppresses such \ncontent to allow you to view and sign the document in a static and secure state. \nBy signing in preview mode, you can find if the document contains: \n\u2022 \nAny dynamic content or external dependencies. \n\u2022 \nAny constructs such as form fields, multimedia, or JavaScript\u2122 that may affect its look \nand feel.  \nAfter reviewing the report, you can contact the author of the document about the problems \nlisted in the report. \n \nCertify a PDF \nCertifying a PDF ",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999949801398321
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 18.055555555555557,
+        "avg_font_size": 12.833333333333334
+      },
+      "processing_time": 0.07419919967651367
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Validate all digital signatures \n1. Open the PDF for which you want to validate all digital signatures. \n2. From the global bar in the upper-left, select All tools. \n3. From the All tools pane, select Use a certificate > Validate all signature. \n4. Select OK in the confirmation dialog box. Once all the signatures are validated. You \nget a confirmation message.  \n \nView previous versions of a digitally signed document \nWhenever a certificate is used to sign a document, a signed version of the PDF is created and \nsaved along with the original PDF. The saved versions are in an append-only format, meaning \nthe original PDF can\u2019t be modified. The Signatures panel provides access to all digital \nsignatures and their corresponding versions. \nTo view previous versions, open the Signature panel and then select Options \n > View \nSigned Version.  \nThe previous version opens as a new PDF, with the version information and the name of the \nsigner in the title bar. To return to the original document,",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999964992162163
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 25,
+        "avg_sentence_length": 11.76,
+        "avg_font_size": 12.78688524590164
+      },
+      "processing_time": 0.10096931457519531
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "signatures is ignored. The revocation status is always checked to certify \nsignatures. \n\u2022 \nUse expired timestamps: The option is selected by default. It uses the time \nmentioned in the timestamp or embedded in the signature, even if the \nsignature\u2019s certificate has expired. If you deselect the check box, Acrobat \ndiscards expired timestamps. \n\u2022 \nSet verification for time: You can select the appropriate options under \n'Verification time' to check the time at which the signature was created, to \ncheck the timestamp embedded in the signature, or to check the current \ntime.  \n\u2022 \nAdd verification information: Select appropriate options under 'Verification \ninformation' to add verification information to the signed PDF or to alert the \nuser when the verification information is too large. \n\u2022 \nConfigure to trust the root certificates in the Windows\u00ae certificate store: \nYou can specify whether to trust all root certificates in the Windows\u00ae \nCertificates store for: \n\u2022 \nValidating signatures: Cer",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999954732988422
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 15.0,
+        "avg_font_size": 11.697368421052632
+      },
+      "processing_time": 0.07851338386535645
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "\u2022 \nGet link: You get this option when a file isn't synced to the cloud. Select Get \nlink to sync the file to the cloud. Once the file is synced, the get link option \nchanges to Copy link. Select Copy link and share it as desired.  \n\u2022 \nCopy link: You get this option if the file is already synced to the cloud or shared \nwith someone.  \nNote: \n\u2022 \nThe computer must be connected to the Internet to start a shared review in Acrobat. \n\u2022 \nYou can also start a shared review directly from other applications that use PDFMaker, \nsuch as Microsoft Word. Choose Home > Create PDF and share link. \n3. By default, the People can comment switch is turned on. To share the file only for \nviewing, select Anyone can access and comment in the Share dialog box, and then \nswitch the toggle next to People can comment to turn it off. \n4. The link is created and copied by default. Share the link with other recipients. You can \nalso perform any of the following actions from the right pane: \n\u2022 \nAdd People: Select Sha",
+      "page_number": 11,
+      "language": {
+        "en": 0.9999988269535562
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 30,
+        "avg_sentence_length": 12.166666666666666,
+        "avg_font_size": 11.9
+      },
+      "processing_time": 0.08375954627990723
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "\u2022 \nTo indicate that a new paragraph should be added, press Enter, and then close \nthe pop-up note without adding text. The paragraph insertion \ncaret \n appears. \n\u2022 \nTo indicate that a space should be added, press the spacebar, and then close \nthe pop-up note without adding text. The space insertion \ncaret \n appears.   \n \nNote: You can also indicate text edits by using the Select tool to select text, right-click the \nselected text, and then choose a text edit annotation. \n \nExport text edits \nIn Acrobat for Windows\u00ae, you can export text edits directly to the Microsoft\u00ae Word document \nthat the PDF is based on to revise the source document. To use this feature, you must use \nPDFMaker to convert your file from Word to PDF. Before you export your text edits, make \nsure that insertion comments use the exact text, including spaces and paragraph returns, that \nyou want to add. If you add extra instructional words (such as \u201cAdd the following:\u201d), these \nwords will have to be deleted manually fro",
+      "page_number": 10,
+      "language": {
+        "en": 0.9999954721530376
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 17.3,
+        "avg_font_size": 12.4
+      },
+      "processing_time": 0.09469938278198242
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Initiate SharePoint-based shared review \nusing Acrobat \nBefore you initiate a review, ensure that you have a SharePoint site and reviewers have write \npermission to your site. Now, to host the shared review, you can do one of the following: \n\u2022 \nLet Acrobat automatically create and configure a document library within your SharePoint \nserver\u2019s subsite. \n\u2022 \nChoose a subsite and the respective document library that you may have already created and \nconfigured. \n1. Open the PDF document in Acrobat, and then select Send for Review in \nthe Tools pane.  \n2. Select Send for Shared Commenting in the toolbar.  \n3. Select Automatically collect comments on my own internal server from the \ndrop-down menu, and then click Next. \n4. Choose SharePoint subsite, and then provide the URL of your subsite on the \nSharePoint server. Click Next. \nAcrobat automatically creates and configures a new document library \n(named AcrobatSharedReviews) within your subsite to initiate the shared review. \n \nNote: If you d",
+      "page_number": 14,
+      "language": {
+        "en": 0.9999966052594433
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 12.2,
+        "avg_font_size": 12.623376623376624
+      },
+      "processing_time": 0.09269022941589355
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "3. Enter the email addresses of the recipients or choose from the Address Book. \n \n4. Enter a message to the recipients (optional). \n \nInitiate a review using @mention in a PDF \nUse @mention in your personal commenting notes to start a review. The @mentions includes \nyour organizational contacts and your synced personal contacts list. The moment you use \n@mention in a PDF file, the review mode gets enabled for you. The reviewers get an invitation \nemail with a link to the Document Cloud shared review file. \n \nReviewer experience \nThe reviewers receive an email invitation with a link to the review PDF. When they click the \nlink or the Open button in the invitation, the PDF opens in a web browser. They can use the \ncommenting tools to add comments to the PDF. They can also use Acrobat Reader or \nAcrobat desktop applications to add comments. \n \nHosting a shared review on SharePoint or Office 365  \nShared reviews are the most collaborative form of review because participants can read and \n",
+      "page_number": 12,
+      "language": {
+        "en": 0.9999955518334536
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 12.866666666666667,
+        "avg_font_size": 12.928571428571429
+      },
+      "processing_time": 0.07478976249694824
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Share \nYou can quickly share a link to a PDF document with others for viewing or commenting. The \ndocument shared as a link opens in any browser on any device. The document is stored \nsecurely in Adobe cloud storage. Recipients get an email with a link, and they can click the \nlink to view and comment on the document in a browser; no sign-in is required. \n \n1. Open a PDF in Acrobat or Acrobat Reader and select Share in the upper-right corner. \n2. (Optional) Select Link Setting and ensure that People can comment toggle is on.  \n3. Select the appropriate option to share the PDF: \n\u2022 \nEnter the recipient's name or email and select Invite. You can add a message \nand a deadline.  \n\u2022 \nSelect any third-party App and follow the onscreen instructions.  \n\u2022 \nSelect Create a link to share and share copied link with recipients. \n\u2022 \nSelect Send a link or attach this file to an email and follow the onscreen \ninstructions.  \n \nPDF sharing options \n\u2022 \nAdd name or email to invite - Enter the name or emai",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999962466054568
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 12.0625,
+        "avg_font_size": 12.705882352941176
+      },
+      "processing_time": 0.06916522979736328
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add comments in a text box or callout \nYou can use the Add text comment tool to create a box that contains text. You can position it \nanywhere on the page and adjust it to any size. A text box remains visible on the document \npage; it doesn\u2019t close like a pop-up note. \nText font and size are based on the system's default settings. \nNote:  \nYou can add comments to Japanese, Chinese, and Korean text with the Text Box tool, \nbut you must have the Asian-language resource files installed. Text boxes allow for \nhorizontal text only. \nYou can use the Text callout tool to create a callout text box. Callout text boxes are handy \nwhen you want to single out\u2014but not obscure\u2014a particular area of a document. Callout text \nboxes have three parts: a text box, a knee line, and an end-point line. You can resize each part \nby dragging a handle. The knee line can be resized in one direction only; horizontal knee lines \ncan be resized horizontally only; vertical knee lines can be resized vertically only. ",
+      "page_number": 12,
+      "language": {
+        "en": 0.9999967252181449
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 23,
+        "avg_sentence_length": 14.782608695652174,
+        "avg_font_size": 12.833333333333334
+      },
+      "processing_time": 0.07726430892944336
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add an arrow, or shape \nNote: In Acrobat Reader , drawing tools are available only in PDFs that have commenting \nenabled. PDFs in a review workflow typically include commenting rights. \nWhen selecting a drawing tool, consider the effect you want. \n1. From the Quick action toolbar, select the Draw freehand tool and then select the \ndesired drawing markup tool: \n  \n\u2022 \nThe Line tool \n,  the Arrow tool \n, the Rectangle tool \n, \nand the Circle tool \n lets you create simple shapes.  \n\u2022 \nThe Cloud tool \n and Polygon tool \n create closed shapes with multiple \nsegments. The Connected lines tool \n creates open shapes with multiple \nsegments. \n\u2022 \nThe Draw tool creates free-form drawings, and the Erase a \ndrawing tool \n removes the drawing markups. \nNote: To specify the line width, color, and other properties before you draw, select the \ndesired tool, and press Ctrl+E to open the properties toolbar. Set the desired options in the \nProperties toolbar. \n2. Draw in the PDF: \n  \n\u2022 \nTo create a cloud o",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999981534690751
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 16.157894736842106,
+        "avg_font_size": 11.91764705882353
+      },
+      "processing_time": 0.0987703800201416
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Commenting preferences \nCommenting preferences affect both the appearance of and the way you view annotations \nand markups in PDFs. \nNote: A reviewer can place comments anywhere within the document frame. As a \nresult, sometimes you need to scroll or zoom out to see comments that are located off \nthe page. \nIn the Preferences dialog box under Categories, select Commenting. \n \nViewing comments \nFont, Font Size \nIn Windows, you can determine the font and the size of text in pop-up notes. In Mac OS, you \ncan select only Large, Medium, or Small settings for the font. This setting applies to all new \nand existing comments. \nPop-up Opacity \nDetermines the opacity of comment pop-up notes in values from 1 to 100. When a pop-up \nnote is open but not selected, an opacity value of 100 makes the note opaque, while lower \nvalues make it more transparent. \nEnable Text Indicators And Tooltips \nShows a tool tip when you place the pointer over a comment that includes a pop-up note. \nThe tool tip contai",
+      "page_number": 15,
+      "language": {
+        "en": 0.999996626433053
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 16.352941176470587,
+        "avg_font_size": 12.71111111111111
+      },
+      "processing_time": 0.08047175407409668
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add comments in a file attachment \n \nNote: In Acrobat Reader, commenting tools are available only in PDFs that have \ncommenting enabled. PDFs in a review workflow typically include commenting rights. \nUse the Attach file tool to embed a file at a selected location in a PDF, so that the reader can \nopen it for viewing. By adding attachments as a comment, you can reference longer \ndocuments that can\u2019t easily be pasted into a pop-up note or text box. If you move the PDF to \na new location, the embedded file automatically goes with it. To view an attachment, the \nreader must have an application installed that can open the attachment. \n \nNote: Be sure to use the Attach file option from the Add Comments tool when \nattaching files for a document review. Document-level file attachments that you attach \nusing the Attach file tool from the  Edit > More menu aren\u2019t tracked with other \ncomments in a review workflow and may cause your attached comments to be lost. \n1. From the quick tools menu, sel",
+      "page_number": 14,
+      "language": {
+        "en": 0.9999967065996277
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 14.578947368421053,
+        "avg_font_size": 12.8
+      },
+      "processing_time": 0.07719206809997559
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "\u2022 \nUsing the Select tool, select an edge of the text box and then drag a corner to resize it. \nRight-click the text box to open the Text Box Properties and change the border and fill \noptions. \n\u2022 \nDouble-click the text box to edit the text or change the text attributes. Drag across the \ntext to select it, then select options from the quick tools menu. \nTo delete the text box, select it and then press Delete. \n \nNote: You can also paste a block of text by selecting and copying the text in any \napplication, selecting the Hand tool in Acrobat, and choosing Edit > Paste. \n \nAdd a comment in callout \n1. From the quick tools menu, select Draw freehand > Text callout. \n2. Select once to set the location of the end point, and select again to set the location of \nthe text box. \n3. (Optional) Select Set or change properties for the selected text icon in the quick \ntools menu, and then select the text's color, alignment, and font attributes. \n4. Enter the text. Text wraps automatically when it re",
+      "page_number": 13,
+      "language": {
+        "en": 0.9999970588726435
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 13.35,
+        "avg_font_size": 12.192307692307692
+      },
+      "processing_time": 0.0748450756072998
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Export Expert: Test Your Acrobat Exporting Skills \n \nWelcome to the ultimate test of your Acrobat exporting skills! Think you know everything \nabout saving, converting, and exporting PDFs? It's time to put your knowledge to the test. \nDive into real-world scenarios, answer intriguing questions, and see if you have what it takes \nto be a true PDF exporting pro \n \n1. Yes or No: Can you save a PDF in text format to use with a screen reader? \n2. True or False: Saving a digitally signed PDF invalidates the signature. \n3. Scenario: Imagine you're working on an important report and your computer crashes. \nDo you rely on the Autosave feature to recover your work or start from scratch? \n4. Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it? \n5. True or False: The Autosave feature in Acrobat saves your work every 15 minutes by \ndefault. \n6. Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to \nconvert your PDF to a PowerPoint fi",
+      "page_number": 1,
+      "language": {
+        "en": 0.9999972393557579
+      },
+      "keywords": [
+        "need"
+      ],
+      "text_features": {
+        "num_sentences": 38,
+        "avg_sentence_length": 9.736842105263158,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.08896684646606445
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "16. Yes or No: Can you export a PDF to XML format using Acrobat? \n17. True or False: You can use the Snapshot tool to copy selected content as an image. \n18. Scenario: You're a web developer who needs to export a PDF to HTML for your website. \nDo you use the \"Convert to HTML\" option or manually code the content? \n19. Yes or No: Can you select and copy text and images from a PDF using the Select tool? \n20. True or False: The Autosave feature is disabled by default in Acrobat.",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999937595367459
+      },
+      "keywords": [
+        "need"
+      ],
+      "text_features": {
+        "num_sentences": 11,
+        "avg_sentence_length": 8.454545454545455,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.050820350646972656
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "The Ultimate PDF Sharing Checklist \nSharing PDFs can be a breeze with Adobe Acrobat. Whether you're \ncollaborating on a project, seeking feedback, or simply distributing \ninformation, this checklist will ensure you cover all the bases. Let's dive \ninto the essentials of sharing PDFs effectively. \nGeneral Sharing Checklist \n\u2022  Open Your PDF \n\u2022 Have you launched Acrobat or Acrobat Reader and opened \nthe PDF you want to share? \n\u2022  Choose Your Sharing Method \n\u2022 Are you sharing via email, link, or a third-party app like \nMicrosoft Teams or WhatsApp? \n\u2022  Set Permissions \n\u2022 Have you decided if recipients can comment or just view the \ndocument? \n\u2022  Add Recipients \n\u2022 Did you enter the email addresses of everyone who needs \naccess? \n\u2022  Customize Your Message \n\u2022 Have you added a personal touch to the subject and message \nfields? \n\u2022  Create and Share the Link \n\u2022 Did you generate a shareable link and copy it for distribution? \n\u2022  Send the Invitation",
+      "page_number": 1,
+      "language": {
+        "en": 0.9999974968676251
+      },
+      "keywords": [
+        "need"
+      ],
+      "text_features": {
+        "num_sentences": 10,
+        "avg_sentence_length": 15.8,
+        "avg_font_size": 11.68
+      },
+      "processing_time": 0.06379508972167969
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022 Have you sent the email or shared the link through your \nchosen platform? \n\u2022  Follow Up \n\u2022 Are you tracking who has accessed the document and \nfollowing up as needed? \nProfessional Tip: Clear Instructions \nEnsure your email instructions are clear and concise to avoid any \nconfusion for your recipients. \n \nSharing Checklist for Real Estate Professionals \nIn the real estate industry, sharing documents efficiently is crucial for \nclosing deals and keeping clients informed. Here's a tailored checklist to \nhelp you manage your PDF sharing needs. \nReal Estate Sharing Checklist \n\u2022  Open Your Property Document \n\u2022 Have you launched Acrobat or Acrobat Reader and opened \nthe property listing or contract you need to share? \n\u2022  Choose Your Sharing Method \n\u2022 Are you sharing via email, link, or a third-party app like \nMicrosoft Teams or WhatsApp? \n\u2022  Set Permissions \n\u2022 Have you decided if clients can comment on the document or \njust view it? \n\u2022  Add Clients and Stakeholders",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999951143282977
+      },
+      "keywords": [
+        "professional",
+        "need"
+      ],
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 17.444444444444443,
+        "avg_font_size": 11.909090909090908
+      },
+      "processing_time": 0.05457758903503418
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022 Did you enter the email addresses of clients, agents, and other \nstakeholders? \n\u2022  Customize Your Message \n\u2022 Have you added a personal touch to the subject and message \nfields, highlighting key property details? \n\u2022  Create and Share the Link \n\u2022 Did you generate a shareable link and copy it for distribution? \n\u2022  Send the Invitation \n\u2022 Have you sent the email or shared the link through your \nchosen platform? \n\u2022  Follow Up \n\u2022 Are you tracking who has accessed the document and \nfollowing up with clients for feedback or next steps? \nProfessional Tip: Highlight Key Details \nMake sure to emphasize important property details in your message to \ncapture your clients' attention. \n \nConclusion \nSharing PDFs with Adobe Acrobat is straightforward and efficient, \nwhether you're working on a general project or managing real estate \ndocuments. By following these checklists, you can ensure that your \nsharing process is smooth and professional. Start sharing smarter today.",
+      "page_number": 3,
+      "language": {
+        "en": 0.999996289957183
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 9,
+        "avg_sentence_length": 17.0,
+        "avg_font_size": 11.964285714285714
+      },
+      "processing_time": 0.0664215087890625
+    }
+  ]
+}

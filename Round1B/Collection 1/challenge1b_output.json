@@ -1,0 +1,1155 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends."
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture \nHistory \nAix-en-",
+      "importance_rank": 32.3582507429343,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999978894948809
+      },
+      "keywords": [],
+      "confidence": 32.3582507429343,
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 20.0625,
+        "avg_font_size": 11.44186046511628
+      },
+      "processing_time": 0.08552265167236328
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Marseille: The Oldest City in France \nHistory \nMarseille, fo",
+      "importance_rank": 31.708516159987504,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999958485890026
+      },
+      "keywords": [],
+      "confidence": 31.708516159987504,
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 18.529411764705884,
+        "avg_font_size": 11.461538461538462
+      },
+      "processing_time": 0.0917356014251709
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Nice: The Jewel of the French Riviera \nHistory \nNice, locate",
+      "importance_rank": 30.940156755179387,
+      "page_number": 5,
+      "language": {
+        "en": 0.9999975770657461
+      },
+      "keywords": [],
+      "confidence": 30.940156755179387,
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 18.058823529411764,
+        "avg_font_size": 11.461538461538462
+      },
+      "processing_time": 0.09903216361999512
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Avignon: The City of Popes \nHistory \nAvignon, located on the",
+      "importance_rank": 29.121200184357985,
+      "page_number": 7,
+      "language": {
+        "en": 0.9999980359475316
+      },
+      "keywords": [],
+      "confidence": 29.121200184357985,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 20.642857142857142,
+        "avg_font_size": 11.510204081632653
+      },
+      "processing_time": 0.0860898494720459
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Toulouse: The Pink City \nHistory \nToulouse, known as \"La Vil",
+      "importance_rank": 28.514296847485934,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999963558800258
+      },
+      "keywords": [],
+      "confidence": 28.514296847485934,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 18.866666666666667,
+        "avg_font_size": 11.44186046511628
+      },
+      "processing_time": 0.06964540481567383
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Culinary Experiences \nIn addition to dining at top restauran",
+      "importance_rank": 40.45311103572866,
+      "page_number": 6,
+      "language": {
+        "en": 0.999996377735035
+      },
+      "keywords": [],
+      "confidence": 40.45311103572866,
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 19.142857142857142,
+        "avg_font_size": 11.466666666666667
+      },
+      "processing_time": 0.07794594764709473
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Must-Visit Restaurants \nTo truly experience the culinary del",
+      "importance_rank": 35.43664028801194,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999959729133145
+      },
+      "keywords": [],
+      "confidence": 35.43664028801194,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 19.555555555555557,
+        "avg_font_size": 11.478260869565217
+      },
+      "processing_time": 0.07491540908813477
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes \nThe South of France is home to many iconic di",
+      "importance_rank": 35.09501206264211,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999951957548654
+      },
+      "keywords": [],
+      "confidence": 35.09501206264211,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 19.38888888888889,
+        "avg_font_size": 11.428571428571429
+      },
+      "processing_time": 0.09916138648986816
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Wine Regions and Types of Wines \nThe South of France is reno",
+      "importance_rank": 34.20427554206534,
+      "page_number": 5,
+      "language": {
+        "en": 0.9999967138406273
+      },
+      "keywords": [],
+      "confidence": 34.20427554206534,
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 16.19047619047619,
+        "avg_font_size": 11.534883720930232
+      },
+      "processing_time": 0.0771322250366211
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Types of Food \nThe cuisine in the South of France is diverse",
+      "importance_rank": 30.585317437955478,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999962618037331
+      },
+      "keywords": [],
+      "confidence": 30.585317437955478,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 21.714285714285715,
+        "avg_font_size": 11.473684210526315
+      },
+      "processing_time": 0.07844138145446777
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Marseille: The Oldest City in France \nMarseille, founded by ",
+      "importance_rank": 25.01212599499639,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999973801735522
+      },
+      "keywords": [],
+      "confidence": 25.01212599499639,
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 19.076923076923077,
+        "avg_font_size": 11.478260869565217
+      },
+      "processing_time": 0.0613255500793457
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Nice: The Jewel of the French Riviera \nNice, located on the ",
+      "importance_rank": 24.83622052380634,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999965166905653
+      },
+      "keywords": [],
+      "confidence": 24.83622052380634,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 20.5,
+        "avg_font_size": 11.466666666666667
+      },
+      "processing_time": 0.08994078636169434
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture \nAix-en-Provence,",
+      "importance_rank": 24.756980071155823,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999978347772244
+      },
+      "keywords": [],
+      "confidence": 24.756980071155823,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 20.416666666666668,
+        "avg_font_size": 11.294117647058824
+      },
+      "processing_time": 0.07899975776672363
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Avignon: The City of Popes \nAvignon, located on the banks of",
+      "importance_rank": 24.315521449222608,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999976149988098
+      },
+      "keywords": [],
+      "confidence": 24.315521449222608,
+      "text_features": {
+        "num_sentences": 11,
+        "avg_sentence_length": 21.90909090909091,
+        "avg_font_size": 11.478260869565217
+      },
+      "processing_time": 0.07911396026611328
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Arles: A Roman Treasure \nArles, located on the banks of the ",
+      "importance_rank": 23.03670766010152,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999962735724608
+      },
+      "keywords": [],
+      "confidence": 23.03670766010152,
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 19.0,
+        "avg_font_size": 11.314285714285715
+      },
+      "processing_time": 0.0816493034362793
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Upscale Hotels \n\u2022 \nHotel Negresco (Nice): A historic five-st",
+      "importance_rank": 37.05920872407286,
+      "page_number": 11,
+      "language": {
+        "en": 0.9999966080575793
+      },
+      "keywords": [],
+      "confidence": 37.05920872407286,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 18.4,
+        "avg_font_size": 11.23076923076923
+      },
+      "processing_time": 0.08678627014160156
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hotels \nBudget-Friendly Hotels \n\u2022 \nIbis Budget Nice Californ",
+      "importance_rank": 35.972729635197375,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999947880016022
+      },
+      "keywords": [],
+      "confidence": 35.972729635197375,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 17.85,
+        "avg_font_size": 11.23076923076923
+      },
+      "processing_time": 0.10425376892089844
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Family-Friendly Hotels \n\u2022 \nClub Med Opio en Provence (Opio):",
+      "importance_rank": 35.18352156712802,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999973945471701
+      },
+      "keywords": [],
+      "confidence": 35.18352156712802,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 17.45,
+        "avg_font_size": 11.23076923076923
+      },
+      "processing_time": 0.09903788566589355
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Luxurious Restaurants \n\u2022 \nLe Louis XV - Alain Ducasse (Monac",
+      "importance_rank": 34.54962989540838,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999963385371546
+      },
+      "keywords": [],
+      "confidence": 34.54962989540838,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 17.15,
+        "avg_font_size": 11.245283018867925
+      },
+      "processing_time": 0.10840272903442383
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Restaurants \nBudget-Friendly Restaurants \n\u2022 \nChez Pipo (Nice",
+      "importance_rank": 32.636087346200306,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999953558918917
+      },
+      "keywords": [],
+      "confidence": 32.636087346200306,
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 15.428571428571429,
+        "avg_font_size": 11.23076923076923
+      },
+      "processing_time": 0.07511711120605469
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nightlife and Entertainment \nThe South of France o\ufb00ers a vib",
+      "importance_rank": 25.237295871447518,
+      "page_number": 11,
+      "language": {
+        "en": 0.9999978036641346
+      },
+      "keywords": [],
+      "confidence": 25.237295871447518,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 17.857142857142858,
+        "avg_font_size": 11.017543859649123
+      },
+      "processing_time": 0.1061406135559082
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Family-Friendly Activities \nThe South of France o\ufb00ers a vari",
+      "importance_rank": 25.172465338629166,
+      "page_number": 9,
+      "language": {
+        "en": 0.9999976754773157
+      },
+      "keywords": [],
+      "confidence": 25.172465338629166,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 16.6,
+        "avg_font_size": 10.947368421052632
+      },
+      "processing_time": 0.09299826622009277
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Coastal Adventures \nThe South of France is renowned for its ",
+      "importance_rank": 22.564114756247974,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999951172348238
+      },
+      "keywords": [],
+      "confidence": 22.564114756247974,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 14.866666666666667,
+        "avg_font_size": 11.18840579710145
+      },
+      "processing_time": 0.08320426940917969
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Shopping and Markets \nThe South of France is a shopper's par",
+      "importance_rank": 21.524599395394024,
+      "page_number": 8,
+      "language": {
+        "en": 0.9999966266304424
+      },
+      "keywords": [],
+      "confidence": 21.524599395394024,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 15.214285714285714,
+        "avg_font_size": 11.096774193548388
+      },
+      "processing_time": 0.08062410354614258
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Cultural Experiences \nThe South of France is rich in history",
+      "importance_rank": 20.7356329731005,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999973059589162
+      },
+      "keywords": [],
+      "confidence": 20.7356329731005,
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 13.666666666666666,
+        "avg_font_size": 11.18840579710145
+      },
+      "processing_time": 0.0742349624633789
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "\u2022 \nAdditional Tips: Winter is mild compared to other regions",
+      "importance_rank": 24.500661382301274,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999945523701155
+      },
+      "keywords": [],
+      "confidence": 24.500661382301274,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 13.444444444444445,
+        "avg_font_size": 11.2
+      },
+      "processing_time": 0.07901573181152344
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "\u2022 \nAdditional Tips: Bring a favorite stu\ufb00ed animal or comfor",
+      "importance_rank": 24.326540498560256,
+      "page_number": 7,
+      "language": {
+        "en": 0.9999976195191593
+      },
+      "keywords": [
+        "trip"
+      ],
+      "confidence": 24.326540498560256,
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 11.428571428571429,
+        "avg_font_size": 11.157894736842104
+      },
+      "processing_time": 0.07387733459472656
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for All Seasons \nSpring (March to May) \n\u2022 \nClothing:",
+      "importance_rank": 23.76741198704794,
+      "page_number": 3,
+      "language": {
+        "en": 0.9999959207434693
+      },
+      "keywords": [
+        "day"
+      ],
+      "confidence": 23.76741198704794,
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 11.75,
+        "avg_font_size": 11.154929577464788
+      },
+      "processing_time": 0.08287334442138672
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for Kids \nClothing \n\u2022 \nComfortable Wear: T-shirts, s",
+      "importance_rank": 23.329405434409036,
+      "page_number": 6,
+      "language": {
+        "en": 0.9999976466687373
+      },
+      "keywords": [
+        "day"
+      ],
+      "confidence": 23.329405434409036,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 12.105263157894736,
+        "avg_font_size": 11.146666666666667
+      },
+      "processing_time": 0.09441685676574707
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "General Packing Tips and Tricks \n\u2022 \nLayering: The weather ca",
+      "importance_rank": 22.752400610724774,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999958771737015
+      },
+      "keywords": [
+        "trip"
+      ],
+      "confidence": 22.752400610724774,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 16.0,
+        "avg_font_size": 11.212121212121213
+      },
+      "processing_time": 0.07564496994018555
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Tru\ufb04es, often referred to as \"black diamonds,\" are a prized ",
+      "importance_rank": 32.919786606886206,
+      "page_number": 4,
+      "language": {
+        "en": 0.9999965296011476
+      },
+      "keywords": [],
+      "confidence": 32.919786606886206,
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 17.210526315789473,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.08268308639526367
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Language and Literature \nProven\u00e7al Language \nThe Proven\u00e7al l",
+      "importance_rank": 31.01123297395722,
+      "page_number": 2,
+      "language": {
+        "en": 0.9999964716450015
+      },
+      "keywords": [],
+      "confidence": 31.01123297395722,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 17.11111111111111,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.09300875663757324
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "accompanied by shepherds and their dogs. It's a unique oppor",
+      "importance_rank": 30.997335508356276,
+      "page_number": 3,
+      "language": {
+        "en": 0.999995819129357
+      },
+      "keywords": [],
+      "confidence": 30.997335508356276,
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 17.11111111111111,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.07771968841552734
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "used to create nativity scenes. Santon fairs, such as the on",
+      "importance_rank": 27.50048102544287,
+      "page_number": 5,
+      "language": {
+        "en": 0.9999936924913516
+      },
+      "keywords": [],
+      "confidence": 27.50048102544287,
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 19.5,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.07931876182556152
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "A Comprehensive Guide to Traditions and Culture in the South",
+      "importance_rank": 9.915517812691379,
+      "page_number": 1,
+      "language": {
+        "en": 0.999996227246987
+      },
+      "keywords": [],
+      "confidence": 9.915517812691379,
+      "text_features": {
+        "num_sentences": 3,
+        "avg_sentence_length": 32.333333333333336,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.060248374938964844
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Aix-en-Provence: A City of Art and Culture \nHistory \nAix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, \nvibrant cultural scene, and association with the painter Paul C\u00e9zanne. The city's rich history is \nreflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center \nof art and learning for centuries, attracting artists, writers, and scholars. \nKey Attractions \n\u2022 \nCours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is \nthe heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. \n\u2022 \nSaint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, \nfeatures a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is \nknown for its beautiful cloister and triptych by Nicolas Froment. \n\u2022 \nH\u00f4tel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant \nbuilding with a beautiful clock tower and an ornate ",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999978894948809
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 16,
+        "avg_sentence_length": 20.0625,
+        "avg_font_size": 11.44186046511628
+      },
+      "processing_time": 0.08552265167236328
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Marseille: The Oldest City in France \nHistory \nMarseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic \nlocation on the Mediterranean coast made it a vital trading port throughout history. The city's \nrich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the \ncenturies, Marseille has been influenced by various cultures, including Greek, Roman, and \nNorth African, making it a melting pot of traditions and customs. \nKey Attractions \n\u2022 \nOld Port (Vieux-Port): The heart of Marseille, the Old Port has been a bustling harbor \nfor over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and \nmarkets. \n\u2022 \nBasilica of Notre-Dame de la Garde: This iconic basilica, perched on a hill \noverlooking the city, o\ufb00ers panoramic views of Marseille and the Mediterranean Sea. \nBuilt in the 19th century, it is a symbol of the city's maritime heritage. \n\u2022 \nMuCEM (Museum of European and Mediterranean Civilization",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999958485890026
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 18.529411764705884,
+        "avg_font_size": 11.461538461538462
+      },
+      "processing_time": 0.0917356014251709
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Nice: The Jewel of the French Riviera \nHistory \nNice, located on the French Riviera, has been a popular destination for centuries. Its history \ndates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a \nRoman colony and has since evolved into a glamorous resort town. In the 19th century, Nice \nbecame a favorite winter retreat for European aristocrats, which contributed to its \ndevelopment as a luxurious destination. \nKey Attractions \n\u2022 \nPromenade des Anglais: This famous seaside promenade, built in the 19th century, is \nperfect for a leisurely stroll along the coast. It o\ufb00ers stunning views of the \nMediterranean and is lined with cafes and hotels. \n\u2022 \nCastle Hill (Colline du Ch\u00e2teau): This hilltop park o\ufb00ers panoramic views of Nice and \nthe Mediterranean. It was once the site of a medieval castle, which was destroyed in \nthe 18th century. \n\u2022 \nOld Town (Vieux Nice): The historic center of Nice is a labyrinth of narrow streets, \nbaroque churches, and bustl",
+      "page_number": 5,
+      "language": {
+        "en": 0.9999975770657461
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 17,
+        "avg_sentence_length": 18.058823529411764,
+        "avg_font_size": 11.461538461538462
+      },
+      "processing_time": 0.09903216361999512
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Avignon: The City of Popes \nHistory \nAvignon, located on the banks of the Rh\u00f4ne River, is best known for its role as the seat of the \npapacy in the 14th century. The city was home to seven popes during this period, leaving a \nlasting legacy of impressive architecture and cultural heritage. Avignon's history dates back to \nRoman times, and it has been a significant religious and cultural center for centuries. \nKey Attractions \n\u2022 \nPalais des Papes: This massive Gothic palace was the residence of the popes during \ntheir stay in Avignon. It is one of the largest and most important medieval Gothic \nbuildings in Europe. \n\u2022 \nPont Saint-B\u00e9n\u00e9zet (Pont d'Avignon): This famous bridge, immortalized in the song \n\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches \nremain, it is a UNESCO World Heritage site. \n\u2022 \nAvignon Cathedral: Located next to the Palais des Papes, this Romanesque cathedral \ndates back to the 12th century and features a gilded statue of the Virgin M",
+      "page_number": 7,
+      "language": {
+        "en": 0.9999980359475316
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 20.642857142857142,
+        "avg_font_size": 11.510204081632653
+      },
+      "processing_time": 0.0860898494720459
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Toulouse: The Pink City \nHistory \nToulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings, \nis a vibrant city with a rich history. It was an important center during the Roman period and \nlater became a hub of the aerospace industry. Toulouse has been a center of learning and \nculture for centuries, with a prestigious university and numerous research institutions. \nKey Attractions \n\u2022 \nBasilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th \ncenturies, is a UNESCO World Heritage site. It is one of the largest and best-preserved \nRomanesque churches in Europe. \n\u2022 \nCapitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive \nbuilding with a neoclassical facade. It has been the seat of municipal power since the \n12th century. \n\u2022 \nJacobins Convent: This Gothic convent, founded in the 13th century, is known for its \nbeautiful cloister and the relics of Saint Thomas Aquinas. \n\u2022 \nCit\u00e9 de l'Espace: This",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999963558800258
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 18.866666666666667,
+        "avg_font_size": 11.44186046511628
+      },
+      "processing_time": 0.06964540481567383
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Culinary Experiences \nIn addition to dining at top restaurants, there are several culinary experiences you should \nconsider: \n\u2022 \nCooking Classes: Many towns and cities in the South of France o\ufb00er cooking classes \nwhere you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and \ntarte trop\u00e9zienne. These classes are a great way to immerse yourself in the local \nculture and gain hands-on experience with regional recipes. Some classes even \ninclude a visit to a local market to shop for fresh ingredients. \n\u2022 \nFood Markets: Visit local markets such as the Cours Saleya Market in Nice or the \nMarch\u00e9 Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These \nmarkets are a feast for the senses, with stalls overflowing with colorful fruits and \nvegetables, fragrant herbs, and artisanal products. Take the time to chat with the \nvendors and learn about the local specialties. \n\u2022 \nWine Tours: The South of France is renowned for its wine regions, including Prove",
+      "page_number": 6,
+      "language": {
+        "en": 0.999996377735035
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 19.142857142857142,
+        "avg_font_size": 11.466666666666667
+      },
+      "processing_time": 0.07794594764709473
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Must-Visit Restaurants \nTo truly experience the culinary delights of the South of France, here are some restaurants \nyou should consider visiting: \n\u2022 \nLe Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant o\ufb00ering \nexquisite seafood dishes and stunning views of the Mediterranean. Chef G\u00e9rald \nPassedat is known for his innovative approach to seafood, creating dishes that are \nboth visually stunning and incredibly flavorful. The restaurant's location on the cli\ufb00s \noverlooking the sea adds to the overall dining experience. \n\u2022 \nLa Ch\u00e8vre d'Or (\u00c8ze): Located in a medieval village, this two-Michelin-starred \nrestaurant serves refined Proven\u00e7al cuisine with breathtaking views of the French \nRiviera. The restaurant's terrace o\ufb00ers panoramic views of the Mediterranean, making \nit the perfect spot for a romantic dinner. The menu features dishes that highlight the \nregion's fresh, seasonal ingredients. \n\u2022 \nLe Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999959729133145
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 19.555555555555557,
+        "avg_font_size": 11.478260869565217
+      },
+      "processing_time": 0.07491540908813477
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Famous Dishes \nThe South of France is home to many iconic dishes that you must try during your visit: \n\u2022 \nBouillabaisse: A traditional fish stew from Marseille, made with various types of fish, \nshellfish, and a flavorful broth seasoned with sa\ufb00ron and herbs. Bouillabaisse is \ntypically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a \ncelebration of the sea and is best enjoyed in a seaside restaurant with a view of the \nMediterranean. \n\u2022 \nRatatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, \nand onions, seasoned with herbs de Provence. Ratatouille can be served as a main \ndish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a \ntestament to the region's love for fresh, seasonal produce. \n\u2022 \nSalade Ni\u00e7oise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans, \nolives, and anchovies, dressed with olive oil and vinegar. Salade Ni\u00e7oise is a perfect \nexample of the Mediterranean diet, ",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999951957548654
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 19.38888888888889,
+        "avg_font_size": 11.428571428571429
+      },
+      "processing_time": 0.09916138648986816
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Wine Regions and Types of Wines \nThe South of France is renowned for its diverse and exceptional wine regions. Here are some \nkey areas to explore and the types of wines they produce: \n\u2022 \nProvence: Famous for its ros\u00e9 wines, Provence is one of the oldest wine-producing \nregions in France. The region's sunny climate and diverse terroir contribute to the \nproduction of light, refreshing ros\u00e9s, as well as robust reds and aromatic whites. Key \nappellations include C\u00f4tes de Provence, Bandol, and Cassis. Notable grape varieties \ninclude Grenache, Syrah, Mourv\u00e8dre, and Cinsault for reds and ros\u00e9s, and Rolle \n(Vermentino) and Clairette for whites. \n\u2022 \nLanguedoc-Roussillon: This vast region stretches along the Mediterranean coast and is \nknown for its variety of wine styles. Languedoc-Roussillon produces everything from \ncrisp whites and fruity ros\u00e9s to full-bodied reds. Notable appellations include \nCorbi\u00e8res, Minervois, and Picpoul de Pinet. Key grape varieties include Carignan, \nGrenache, Sy",
+      "page_number": 5,
+      "language": {
+        "en": 0.9999967138406273
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 16.19047619047619,
+        "avg_font_size": 11.534883720930232
+      },
+      "processing_time": 0.0771322250366211
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Types of Food \nThe cuisine in the South of France is diverse, reflecting the region's rich history and cultural \ninfluences. Here are some key types of food you can expect to find: \n\u2022 \nSeafood: With its extensive coastline, the South of France o\ufb00ers an abundance of fresh \nseafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with \nMediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea \nbass, and mussels marini\u00e8re. The region's proximity to the Mediterranean Sea ensures \nthat the seafood is always fresh and flavorful. \n\u2022 \nProven\u00e7al Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive \noil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential \nProven\u00e7al dishes. Proven\u00e7al cuisine also includes dishes like tapenade, a spread made \nfrom olives, capers, and anchovies, and pissaladi\u00e8re, a savory tart topped with \ncaramelized onions, olives, and anchovies. \n\u2022 \nNi\u00e7oise Cuisine: Or",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999962618037331
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 21.714285714285715,
+        "avg_font_size": 11.473684210526315
+      },
+      "processing_time": 0.07844138145446777
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Marseille: The Oldest City in France \nMarseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic \nlocation on the Mediterranean coast made it a vital trading port throughout history. The city's \nrich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. \nKey Historical Sites in Marseille \n\u2022 \nOld Port (Vieux-Port): The heart of Marseille, the Old Port has been a bustling harbor \nfor over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and \nmarkets. \n\u2022 \nBasilica of Notre-Dame de la Garde: This iconic basilica, perched on a hill \noverlooking the city, o\ufb00ers panoramic views of Marseille and the Mediterranean Sea. \nBuilt in the 19th century, it is a symbol of the city's maritime heritage. \n\u2022 \nFort Saint-Jean: Constructed in the 17th century, this fort guards the entrance to the \nOld Port. It now houses part of the Museum of European and Mediterranean \nCivilizations (MuCEM). \n\u2022 \nLe Panier: The oldest dis",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999973801735522
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 13,
+        "avg_sentence_length": 19.076923076923077,
+        "avg_font_size": 11.478260869565217
+      },
+      "processing_time": 0.0613255500793457
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Nice: The Jewel of the French Riviera \nNice, located on the French Riviera, has been a popular destination for centuries. Its history \ndates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a \nRoman colony and has since evolved into a glamorous resort town. \nKey Historical Sites in Nice \n\u2022 \nCastle Hill (Colline du Ch\u00e2teau): This hilltop park o\ufb00ers stunning views of Nice and \nthe Mediterranean. It was once the site of a medieval castle, which was destroyed in \nthe 18th century. \n\u2022 \nPromenade des Anglais: This famous seaside promenade was built in the 19th century \nand named after the English aristocrats who frequented Nice. It's perfect for a leisurely \nstroll along the coast. \n\u2022 \nOld Town (Vieux Nice): The historic center of Nice is a labyrinth of narrow streets, \nbaroque churches, and bustling markets. Don't miss the Cours Saleya market, where \nyou can find fresh produce, flowers, and local delicacies. \n\u2022 \nRussian Orthodox Cathedral: Built in the early",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999965166905653
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 20.5,
+        "avg_font_size": 11.466666666666667
+      },
+      "processing_time": 0.08994078636169434
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Aix-en-Provence: A City of Art and Culture \nAix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, \nvibrant cultural scene, and association with the painter Paul C\u00e9zanne. The city's rich history is \nreflected in its beautiful buildings and lively atmosphere. \nKey Historical Sites in Aix-en-Provence \n\u2022 \nCours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is \nthe heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. \n\u2022 \nSaint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, \nfeatures a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is \nknown for its beautiful cloister and triptych by Nicolas Froment. \n\u2022 \nH\u00f4tel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant \nbuilding with a beautiful clock tower and an ornate facade. The square in front of the \nH\u00f4tel de Ville is a lively spot, often hosting markets and eve",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999978347772244
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 20.416666666666668,
+        "avg_font_size": 11.294117647058824
+      },
+      "processing_time": 0.07899975776672363
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Avignon: The City of Popes \nAvignon, located on the banks of the Rh\u00f4ne River, is best known for its role as the seat of the \npapacy in the 14th century. The city was home to seven popes during this period, leaving a \nlasting legacy of impressive architecture and cultural heritage. \nKey Historical Sites in Avignon \n\u2022 \nPalais des Papes: This massive Gothic palace was the residence of the popes during \ntheir stay in Avignon. It is one of the largest and most important medieval Gothic \nbuildings in Europe. \n\u2022 \nPont Saint-B\u00e9n\u00e9zet (Pont d'Avignon): This famous bridge, immortalized in the song \n\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches \nremain, it is a UNESCO World Heritage site. \n\u2022 \nAvignon Cathedral: Located next to the Palais des Papes, this Romanesque cathedral \ndates back to the 12th century and features a gilded statue of the Virgin Mary. \n\u2022 \nPlace de l'Horloge: The main square in Avignon, this lively area is surrounded by \ncafes, restaurants, an",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999976149988098
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 11,
+        "avg_sentence_length": 21.90909090909091,
+        "avg_font_size": 11.478260869565217
+      },
+      "processing_time": 0.07911396026611328
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Arles: A Roman Treasure \nArles, located on the banks of the Rh\u00f4ne River, is renowned for its Roman and Romanesque \nmonuments. The city was an important Roman settlement and later became a center of \nChristian pilgrimage. \nKey Historical Sites in Arles \n\u2022 \nArles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used \nfor events such as bullfights and concerts. It is one of the best-preserved Roman \nstructures in France. \n\u2022 \nChurch of St. Trophime: This Romanesque church, built in the 12th century, is known \nfor its stunning portal and cloister. It was an important stop on the pilgrimage route to \nSantiago de Compostela. \n\u2022 \nAlyscamps: This ancient Roman necropolis, located just outside the city walls, was a \nmajor burial site in antiquity. It features a long avenue lined with sarcophagi. \n\u2022 \nThermes de Constantin: These Roman baths, built in the 4th century AD, are a \ntestament to the city's importance during the Roman period. \n\u2022 \nVan Gogh's Influence: Arles i",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999962735724608
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 12,
+        "avg_sentence_length": 19.0,
+        "avg_font_size": 11.314285714285715
+      },
+      "processing_time": 0.0816493034362793
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Upscale Hotels \n\u2022 \nHotel Negresco (Nice): A historic five-star hotel located on the Promenade des \nAnglais, o\ufb00ering luxurious rooms and exceptional service. The opulent decor and \nprime location make it a landmark in Nice. \n\u2022 \nInterContinental Marseille - Hotel Dieu (Marseille): A luxurious hotel located in a \nbeautifully restored 18th-century building, o\ufb00ering stunning views of the Old Port and \nthe city. The elegant rooms and top-notch amenities make it a standout choice. \n\u2022 \nHotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette, \no\ufb00ering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities. \n\u2022 \nLa Bastide de Gordes (Gordes): A luxurious hotel located in a historic building, \no\ufb00ering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley. \nThe refined decor and serene atmosphere make it a perfect retreat. \n\u2022 \nH\u00f4tel Barri\u00e8re Le Majestic (Can",
+      "page_number": 11,
+      "language": {
+        "en": 0.9999966080575793
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 18.4,
+        "avg_font_size": 11.23076923076923
+      },
+      "processing_time": 0.08678627014160156
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Hotels \nBudget-Friendly Hotels \n\u2022 \nIbis Budget Nice Californie Lenval (Nice): A budget-friendly hotel o\ufb00ering comfortable \nrooms and easy access to the beach and city center. The modern amenities and \nconvenient location make it a great choice for budget-conscious travelers. \n\u2022 \nHotel Le Saint Paul (Nice): A charming hotel located in a historic building, o\ufb00ering \na\ufb00ordable rates and beautiful views of the Mediterranean. The cozy rooms and \nfriendly service make it a pleasant stay. \n\u2022 \nHotel des Arts (Montpellier): A budget-friendly hotel located in the heart of \nMontpellier, o\ufb00ering comfortable rooms and easy access to the city's attractions. The \nartistic decor and central location make it a popular choice. \n\u2022 \nHotel Le Mistral (Marseille): A budget-friendly hotel o\ufb00ering simple, clean rooms and \na convenient location near the Old Port. The friendly sta\ufb00 and a\ufb00ordable rates make it \na good option for travelers on a budget. \n\u2022 \nHotel Azur (Nice): A budget-friendly hotel o\ufb00ering comfort",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999947880016022
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 17.85,
+        "avg_font_size": 11.23076923076923
+      },
+      "processing_time": 0.10425376892089844
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Family-Friendly Hotels \n\u2022 \nClub Med Opio en Provence (Opio): A family-friendly resort o\ufb00ering a wide range of \nactivities for children and adults, including sports, entertainment, and kids' clubs. The \nbeautiful setting and all-inclusive amenities make it a hassle-free vacation spot. \n\u2022 \nLe Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel o\ufb00ering \nspacious rooms, beautiful gardens, and a variety of activities for children. The elegant \ndecor and attentive service ensure a comfortable stay for families. \n\u2022 \nH\u00f4tel Les Roches Rouges (Saint-Rapha\u00ebl): A family-friendly hotel located on the \nbeach, o\ufb00ering comfortable rooms, a kids' club, and a variety of water sports. The \nbeachfront location and family-oriented amenities make it a great choice for a seaside \nvacation. \n\u2022 \nCh\u00e2teau de Berne (Lorgues): A family-friendly hotel located on a vineyard, o\ufb00ering \nspacious rooms, a kids' club, and a variety of outdoor activities. The picturesque \nsetting and family-friendly fac",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999973945471701
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 17.45,
+        "avg_font_size": 11.23076923076923
+      },
+      "processing_time": 0.09903788566589355
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Luxurious Restaurants \n\u2022 \nLe Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant o\ufb00ering an \nopulent dining experience with a menu that celebrates the flavors of the \nMediterranean. The lavish decor and exceptional service make it a dining experience \nto remember. \n\u2022 \nLa Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the \nluxurious R\u00e9sidence de la Pin\u00e8de, o\ufb00ering exquisite dishes inspired by the sea and the \nland. The serene setting and culinary excellence make it a top choice for fine dining. \n\u2022 \nLe Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant o\ufb00ering \nexquisite seafood dishes and stunning views of the Mediterranean. The creative menu \nand elegant ambiance make it a standout dining destination. \n\u2022 \nLa Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has \nhosted famous artists and celebrities, o\ufb00ering a luxurious dining experience with a \nfocus on Proven\u00e7al cuisine. The art-filled setting and ",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999963385371546
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 17.15,
+        "avg_font_size": 11.245283018867925
+      },
+      "processing_time": 0.10840272903442383
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Restaurants \nBudget-Friendly Restaurants \n\u2022 \nChez Pipo (Nice): Famous for its socca, a traditional Ni\u00e7oise chickpea pancake, this \ncasual eatery o\ufb00ers delicious and a\ufb00ordable local dishes. The rustic ambiance and \nfriendly service make it a favorite among locals and tourists alike. \n\u2022 \nLa Merenda (Nice): A small, cozy restaurant serving authentic Ni\u00e7oise cuisine. The \nmenu changes with the seasons, ensuring fresh and flavorful dishes. Reservations are a \nmust due to its popularity and limited seating. \n\u2022 \nChez Etienne (Marseille): Known for its simple yet delicious pizzas and grilled meats, \nthis family-owned restaurant is a local favorite. The lively atmosphere and hearty \nportions make it a great spot for a casual meal. \n\u2022 \nLe Bistrot du Paradou (Paradou): A charming bistro o\ufb00ering a daily fixed menu with \nhearty Proven\u00e7al dishes at reasonable prices. The warm, welcoming environment and \ngenerous servings make it a must-visit. \n\u2022 \nLe Comptoir du March\u00e9 (Nice): This bistro o\ufb00ers a var",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999953558918917
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 15.428571428571429,
+        "avg_font_size": 11.23076923076923
+      },
+      "processing_time": 0.07511711120605469
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Nightlife and Entertainment \nThe South of France o\ufb00ers a vibrant nightlife scene, with options ranging from chic bars to \nlively nightclubs: \nBars and Lounges \n\u2022 \nMonaco: Enjoy classic cocktails and live jazz at Le Bar Americain, located in the H\u00f4tel \nde Paris. \n\u2022 \nNice: Try creative cocktails at Le Comptoir du March\u00e9, a trendy bar in the old town. \n\u2022 \nCannes: Experience dining and entertainment at La Folie Douce, with live music, DJs, \nand performances. \n\u2022 \nMarseille: Visit Le Trolleybus, a popular bar with multiple rooms and music styles. \n\u2022 \nSaint-Tropez: Relax at Bar du Port, known for its chic atmosphere and waterfront \nviews. \n\u2022 \nMontpellier: Enjoy craft cocktails at Papa Doble, a speakeasy-style bar. \n\u2022 \nToulouse: Sip on cocktails at Fat Cat, a stylish bar with a vintage vibe. \nNightclubs \n\u2022 \nSaint-Tropez: Dance at the famous Les Caves du Roy, known for its glamorous \natmosphere and celebrity clientele. \n\u2022 \nNice: Party at High Club on the Promenade des Anglais, featuring multipl",
+      "page_number": 11,
+      "language": {
+        "en": 0.9999978036641346
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 17.857142857142858,
+        "avg_font_size": 11.017543859649123
+      },
+      "processing_time": 0.1061406135559082
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Family-Friendly Activities \nThe South of France o\ufb00ers a variety of activities that are perfect for families with children: \nTheme Parks and Attractions \n\u2022 \nAntibes: Visit Marineland for marine shows and an aquarium. \n\u2022 \nFr\u00e9jus: Cool o\ufb00 at Aqualand water park. \n\u2022 \nVilleneuve-Loubet: Enjoy quirky attractions at Le Village des Fous. \n\u2022 \nMonteux: Spend a day at Parc Spirou, a theme park based on the famous comic book \ncharacter. \n\u2022 \nLa Palmyre: Explore the La Palmyre Zoo, home to a wide variety of animals. \n\u2022 \nCap d'Agde: Have fun at Luna Park, an amusement park with rides and games. \n\u2022 \nToulouse: Visit the Cit\u00e9 de l'Espace, a space-themed science museum with interactive \nexhibits. \nOutdoor Adventures \n\u2022 \nVerdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon \nGorge. \n\u2022 \nCamargue Natural Park: Explore wetlands with wild horses and flamingos, and enjoy \nhorseback riding, bird watching, and boat tours. \n\u2022 \nVarious Locations: Try tree-top adventure parks with zip",
+      "page_number": 9,
+      "language": {
+        "en": 0.9999976754773157
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 16.6,
+        "avg_font_size": 10.947368421052632
+      },
+      "processing_time": 0.09299826622009277
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Coastal Adventures \nThe South of France is renowned for its beautiful coastline along the Mediterranean Sea. Here \nare some activities to enjoy by the sea: \nBeach Hopping \n\u2022 \nNice: Visit the sandy shores and enjoy the vibrant Promenade des Anglais. \n\u2022 \nAntibes: Relax on the pebbled beaches and explore the charming old town. \n\u2022 \nSaint-Tropez: Experience the exclusive beach clubs and glamorous atmosphere. \n\u2022 \nMarseille to Cassis: Explore the stunning limestone cli\ufb00s and hidden coves of \nCalanques National Park. \n\u2022 \n\u00celes d'Hy\u00e8res: Discover pristine beaches and excellent snorkeling opportunities on \nislands like Porquerolles and Port-Cros. \n\u2022 \nCannes: Enjoy the sandy beaches and luxury beach clubs along the Boulevard de la \nCroisette. \n\u2022 \nMenton: Visit the serene beaches and beautiful gardens in this charming town near \nthe Italian border. \nWater Sports \n\u2022 \nCannes, Nice, and Saint-Tropez: Try jet skiing or parasailing for a thrill. \n\u2022 \nToulon: Dive into the underwater world with scuba divi",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999951172348238
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 14.866666666666667,
+        "avg_font_size": 11.18840579710145
+      },
+      "processing_time": 0.08320426940917969
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Shopping and Markets \nThe South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan \nshops: \nLocal Markets \n\u2022 \nNice: Explore the vibrant Cours Saleya Market. \n\u2022 \nCannes: Visit March\u00e9 Forville for fresh seafood and local produce. \n\u2022 \nAvignon: Discover local products at March\u00e9 des Halles. \n\u2022 \nAix-en-Provence: Browse the stalls at the daily market on Place Richelme. \n\u2022 \nSaint-R\u00e9my-de-Provence: Enjoy the lively Wednesday market with local specialties. \n\u2022 \nUz\u00e8s: Visit the Saturday market for fresh produce and artisanal goods. \n\u2022 \nSarlat: Explore the bustling market in the heart of the medieval town. \nBoutique Shopping \n\u2022 \nCannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques, \ndesigner stores, and luxury brands. \n\u2022 \nAix-en-Provence: Browse shops and cafes on Cours Mirabeau, an elegant boulevard \nwith a variety of stores. \n\u2022 \nNice: Find charming boutiques in the old town, o\ufb00ering handmade soaps, ceramics, \nand local crafts. \n\u2022 \nSaint-Trop",
+      "page_number": 8,
+      "language": {
+        "en": 0.9999966266304424
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 15.214285714285714,
+        "avg_font_size": 11.096774193548388
+      },
+      "processing_time": 0.08062410354614258
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Cultural Experiences \nThe South of France is rich in history and culture. Here are some activities to immerse \nyourself in the region's heritage: \nArt and Museums \n\u2022 \nNice: Visit the Mus\u00e9e Matisse, dedicated to the works of Henri Matisse. \n\u2022 \nAntibes: Explore the Mus\u00e9e Picasso, housed in the Ch\u00e2teau Grimaldi. \n\u2022 \nSaint-Paul-de-Vence: Discover modern art at the Fondation Maeght. \n\u2022 \nAix-en-Provence: Visit the Atelier C\u00e9zanne, the studio of the famous painter Paul \nC\u00e9zanne. \n\u2022 \nArles: Explore the Fondation Vincent van Gogh, showcasing works inspired by the \nartist. \n\u2022 \nMarseille: Visit the MuCEM (Museum of European and Mediterranean Civilizations) \nfor a deep dive into the region's history. \n\u2022 \nToulouse: Discover the Mus\u00e9e des Augustins, a fine arts museum housed in a former \nconvent. \nHistorical Sites \n\u2022 \nN\u00eemes: Walk across the ancient Roman aqueduct, Pont du Gard. \n\u2022 \nAvignon: Explore the largest Gothic palace in Europe, Palais des Papes. \n\u2022 \nCarcassonne: Wander through the medieval ci",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999973059589162
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 15,
+        "avg_sentence_length": 13.666666666666666,
+        "avg_font_size": 11.18840579710145
+      },
+      "processing_time": 0.0742349624633789
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 \nAdditional Tips: Winter is mild compared to other regions, but it's still important to \npack warm clothing for cooler evenings. Consider packing thermal underwear for \nextra warmth. \nPacking for Adults \nClothing \n\u2022 \nCasual Wear: Comfortable clothes for sightseeing and casual dining, like jeans, t-\nshirts, and casual dresses. \n\u2022 \nEvening Wear: Dressier outfits for dining out or events. Pack a nice dress or dress \npants and a blouse/shirt. \n\u2022 \nActive Wear: If you plan on hiking or outdoor activities, pack activewear like leggings, \nshorts, and moisture-wicking tops. \n\u2022 \nSwimwear: Don't forget your swimsuit for beach or pool visits. \n\u2022 \nAccessories: A stylish yet functional bag, a lightweight scarf, and a versatile jacket. \n\u2022 \nAdditional Tips: Pack a few statement pieces that can be dressed up or down, such as \na versatile dress or a pair of stylish shoes. \nToiletries \n\u2022 \nBasic Toiletries: Toothbrush, toothpaste, shampoo, conditioner, body wash, \ndeodorant, and personal hygiene items. ",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999945523701155
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 13.444444444444445,
+        "avg_font_size": 11.2
+      },
+      "processing_time": 0.07901573181152344
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 \nAdditional Tips: Bring a favorite stu\ufb00ed animal or comfort item to help kids feel at \nhome. Consider packing a travel potty for young children. \n \nSpecial Considerations \nBeach Trips \n\u2022 \nBeach Bag: A large, waterproof bag for essentials. \n\u2022 \nTowels: Lightweight, quick-drying beach towels. \n\u2022 \nBeach Toys: Buckets, shovels, and toys for kids. \n\u2022 \nSnorkeling Gear: Bring your own gear for a better fit and comfort. \n\u2022 \nAdditional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and \nsnacks. Consider bringing a waterproof phone case to protect your device. \nHiking and Outdoor Activities \n\u2022 \nBackpack: A sturdy, comfortable backpack for essentials. \n\u2022 \nWater Bottle: A reusable water bottle. \n\u2022 \nFirst Aid Kit: A small kit with band-aids, antiseptic wipes, and medications. \n\u2022 \nInsect Repellent: Protect against bugs and mosquitoes. \n\u2022 \nAdditional Tips: Wear moisture-wicking clothing and sturdy hiking boots. Bring a map \nand compass or GPS device. Pack energy bars or snacks",
+      "page_number": 7,
+      "language": {
+        "en": 0.9999976195191593
+      },
+      "keywords": [
+        "trip"
+      ],
+      "text_features": {
+        "num_sentences": 21,
+        "avg_sentence_length": 11.428571428571429,
+        "avg_font_size": 11.157894736842104
+      },
+      "processing_time": 0.07387733459472656
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Packing for All Seasons \nSpring (March to May) \n\u2022 \nClothing: Light sweaters, long-sleeve shirts, t-shirts, and a light jacket or raincoat. \n\u2022 \nFootwear: Comfortable walking shoes and sandals. \n\u2022 \nAccessories: Sunglasses, a hat, and a small umbrella. \n\u2022 \nAdditional Tips: Spring can be unpredictable, so be prepared for both sunny and rainy \ndays. Consider packing a lightweight scarf for cooler evenings. \nSummer (June to August) \n\u2022 \nClothing: Lightweight, breathable fabrics like cotton and linen. Pack t-shirts, shorts, \nsundresses, and swimwear. \n\u2022 \nFootwear: Sandals, flip-flops, and comfortable walking shoes. \n\u2022 \nAccessories: Sunglasses, a wide-brimmed hat, sunscreen, and a reusable water bottle. \n\u2022 \nAdditional Tips: The South of France can get very hot in the summer, so stay hydrated \nand seek shade during peak sun hours. Pack a cooling towel to help manage the heat. \nAutumn (September to November) \n\u2022 \nClothing: Light sweaters, long-sleeve shirts, t-shirts, and a medium-weight jacket. \n",
+      "page_number": 3,
+      "language": {
+        "en": 0.9999959207434693
+      },
+      "keywords": [
+        "day"
+      ],
+      "text_features": {
+        "num_sentences": 20,
+        "avg_sentence_length": 11.75,
+        "avg_font_size": 11.154929577464788
+      },
+      "processing_time": 0.08287334442138672
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Packing for Kids \nClothing \n\u2022 \nComfortable Wear: T-shirts, shorts, pants, dresses, pajamas, and underwear. \n\u2022 \nLayering: Depending on the season, pack sweaters, jackets, and hats. \n\u2022 \nSwimwear: Swimsuits and cover-ups for beach or pool days. \n\u2022 \nAccessories: A sun hat, sunglasses, and a lightweight jacket. \n\u2022 \nAdditional Tips: Pack extra clothing for kids, as they may need more changes of \nclothes than adults. \nEssentials \n\u2022 \nDiapers and Wipes: For babies or toddlers, pack enough diapers and wipes. \n\u2022 \nSnacks: Bring a variety of snacks for travel and outings. \n\u2022 \nToys and Entertainment: Favorite toys, books, or games. Consider a tablet with pre-\ndownloaded content. \n\u2022 \nAdditional Tips: Pack a small backpack for each child with their essentials to keep \nthem engaged. Include comfort items like a favorite blanket or stu\ufb00ed animal. \nToiletries \n\u2022 \nBasic Toiletries: Toothbrush, toothpaste, shampoo, body wash, and personal hygiene \nitems. \n\u2022 \nSunscreen: Kid-friendly sunscreen. \n\u2022 \nAdditiona",
+      "page_number": 6,
+      "language": {
+        "en": 0.9999976466687373
+      },
+      "keywords": [
+        "day"
+      ],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 12.105263157894736,
+        "avg_font_size": 11.146666666666667
+      },
+      "processing_time": 0.09441685676574707
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "General Packing Tips and Tricks \n\u2022 \nLayering: The weather can vary, so pack layers to stay comfortable in di\ufb00erent \ntemperatures. \n\u2022 \nVersatile Clothing: Choose items that can be mixed and matched to create multiple \noutfits, helping you pack lighter. \n\u2022 \nPacking Cubes: Use packing cubes to organize your clothes and maximize suitcase \nspace. \n\u2022 \nRoll Your Clothes: Rolling clothes saves space and reduces wrinkles. \n\u2022 \nTravel-Sized Toiletries: Bring travel-sized toiletries to save space and comply with \nairline regulations. \n\u2022 \nReusable Bags: Pack a few reusable bags for laundry, shoes, or shopping. \n\u2022 \nFirst Aid Kit: Include a small first aid kit with band-aids, antiseptic wipes, and any \nnecessary medications. \n\u2022 \nCopies of Important Documents: Make copies of your passport, travel insurance, and \nother important documents. Keep them separate from the originals. \n\u2022 \nPortable Laundry Kit: A small laundry kit with detergent and a travel clothesline can \nbe handy for longer trips. \n\u2022 \nMult",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999958771737015
+      },
+      "keywords": [
+        "trip"
+      ],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 16.0,
+        "avg_font_size": 11.212121212121213
+      },
+      "processing_time": 0.07564496994018555
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Tru\ufb04es, often referred to as \"black diamonds,\" are a prized delicacy in the South of France. \nThe region's tru\ufb04e season, which runs from November to March, is marked by tru\ufb04e markets \nand festivals. Tru\ufb04e hunting, typically done with trained dogs or pigs, is a time-honored \ntradition. The town of Richerenches hosts a tru\ufb04e mass every January, where tru\ufb04es are \nblessed by the local priest. \n \nArts and Crafts \nPottery and Ceramics \nThe South of France has a rich tradition of pottery and ceramics, with towns like Vallauris and \nBiot being renowned for their craftsmanship. Artisans create a wide range of items, from \nfunctional tableware to decorative pieces. The region's pottery often features vibrant colors \nand intricate designs, reflecting the local landscape and culture. \nLavender Products \nLavender is synonymous with Provence, and the region's lavender fields are a major \nattraction. The fragrant flowers are harvested to produce a variety of products, including \nessential oils, soaps",
+      "page_number": 4,
+      "language": {
+        "en": 0.9999965296011476
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 19,
+        "avg_sentence_length": 17.210526315789473,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.08268308639526367
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Language and Literature \nProven\u00e7al Language \nThe Proven\u00e7al language, also known as Occitan, has been a significant part of the cultural \nidentity of the South of France. Although French is the dominant language today, Proven\u00e7al \nwas widely spoken until the 19th century. It is still preserved in literature, music, and local \nexpressions. E\ufb00orts to revive and promote the language continue, with festivals and \neducational programs dedicated to its preservation. \nLiterature and Poetry \nThe South of France has inspired many writers and poets over the centuries. The troubadours \nof the medieval period, who composed and performed lyrical poetry, were particularly \ninfluential. Their works often celebrated chivalry, love, and nature. The region's literary \nheritage also includes famous authors like Marcel Pagnol, whose novels and plays vividly \ndepict Proven\u00e7al life. \n \nFestivals and Celebrations \nCarnival of Nice \nHeld in Nice from mid-February to early March, the Carnival of Nice is one of t",
+      "page_number": 2,
+      "language": {
+        "en": 0.9999964716450015
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 17.11111111111111,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.09300875663757324
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "accompanied by shepherds and their dogs. It's a unique opportunity to witness a living \ntradition and enjoy local food and music. \n \nTraditional Sports and Games \nP\u00e9tanque \nP\u00e9tanque is a popular game in the South of France, particularly in Provence. Played with \nmetal balls on a gravel surface, the objective is to throw the balls as close as possible to a \nsmall wooden ball called the cochonnet. P\u00e9tanque is more than just a game; it's a social \nactivity that brings people together in village squares and parks. The relaxed atmosphere and \nfriendly competition make it a beloved pastime. \nCourse Camarguaise \nThe Course Camarguaise is a traditional bullfighting sport unique to the Camargue region. \nUnlike Spanish bullfighting, the objective is not to harm the bull but to remove ribbons and \nother decorations from its horns. The razeteurs, or participants, demonstrate agility and \nbravery as they dodge the bull's charges. The sport is deeply rooted in local culture and is \noften accompanied",
+      "page_number": 3,
+      "language": {
+        "en": 0.999995819129357
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 18,
+        "avg_sentence_length": 17.11111111111111,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.07771968841552734
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "used to create nativity scenes. Santon fairs, such as the one in Marseille, o\ufb00er a wide variety \nof these charming figures. \n \nMusic and Dance \nProven\u00e7al Folk Music \nProven\u00e7al folk music is an essential part of the region's cultural identity. Traditional \ninstruments, such as the galoubet (a type of flute) and tambourin (a drum), are often used in \nfolk music performances. The music is characterized by lively rhythms and melodies that \nreflect the region's festive spirit. Folk dances, such as the farandole, are performed at festivals \nand celebrations, with participants forming long chains and weaving through the streets. \nJazz Manouche \nThe South of France has a rich tradition of Jazz manouche. This genre was popularized by the \nlegendary guitarist Django Reinhardt, who was born in Belgium but spent much of his life in \nthe South of France. Jazz manouche is characterized by its fast tempos, virtuosic guitar \nplaying, and swing rhythms. The annual Django Reinhardt Festival in Samois-su",
+      "page_number": 5,
+      "language": {
+        "en": 0.9999936924913516
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 14,
+        "avg_sentence_length": 19.5,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.07931876182556152
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of France \nIntroduction \nThe South of France, with its picturesque landscapes, charming villages, and vibrant cities, is \nnot only a feast for the eyes but also a treasure trove of cultural traditions and heritage. This \nregion, known for its rich history and diverse influences, o\ufb00ers a unique blend of customs, \nfestivals, and local practices that reflect its distinct identity. This guide will take you through \nthe various traditions and cultural aspects of the South of France, providing a deep \nunderstanding of what makes this region so special.",
+      "page_number": 1,
+      "language": {
+        "en": 0.999996227246987
+      },
+      "keywords": [],
+      "text_features": {
+        "num_sentences": 3,
+        "avg_sentence_length": 32.333333333333336,
+        "avg_font_size": 12.0
+      },
+      "processing_time": 0.060248374938964844
+    }
+  ]
+}
